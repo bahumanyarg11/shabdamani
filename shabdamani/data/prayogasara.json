@@ -1,0 +1,2753 @@
+[
+ {
+  "word": "ಅಗುಂದಲೆ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much, abundant",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20306,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಜ್ಜಂ",
+  "meaning_kn": "ಸಾವಾಸಿ",
+  "meaning_en": "companion, associate (? sāvāsi = sahavāsi)",
+  "pos": "noun",
+  "variants": [
+   "ಪೊಸವಾಸಿ (v.r. of the gloss)"
+  ],
+  "uncertain": [
+   "gloss obscure: 2015 ಸಾವಾಸಿ (v.r. ಪೊಸವಾಸಿ), Kittel 1920 ಸಾಮಾಸಿ, AES ಸಾವಾಸಿ [ಸವಾಸಿ]; English meaning is a guess"
+  ],
+  "source_line": 20308,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಡುವಳಂ",
+  "meaning_kn": "ಬಾಣಸಿಗಂ",
+  "meaning_en": "cook",
+  "pos": "noun",
+  "variants": [
+   "ಅಡಬಳಂ"
+  ],
+  "uncertain": [
+   "Kittel/Kedilaya/AES read ಅಡಬಳಂ"
+  ],
+  "source_line": 20309,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಡೆವಣಿಗೆ",
+  "meaning_kn": "ಕೆಸಱೊಳಾದ ಪಜ್ಜೆ",
+  "meaning_en": "footprint made in mud",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "headword not legible in venkat2015 OCR (only the gloss fragment ಕೆಸಅಕೊಳಾದ survives); headword and ಪಜ್ಜೆ supplied from Kittel 1920 / AES 1990"
+  ],
+  "source_line": 20310,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಣಿಯರಂ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much, abundant",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from AES 1990 / Kedilaya 1973 (ಅಣಿಯರಂ, ಉಬ್ಬಡಿಗಂ, ಅಗುಂದಲೆ, ಉರ್ಜಿನಂ, ನೂಳದು ಎಂಬಿವು ಪಿರಿದೆಂಬರ್ಥಂ); attested in the 2015 prayoga index (ಅಣಿಯರಮೆಸೆದೊಪ್ಪಿರ್ಪುವು, l. 21498); source_line approximate"
+  ],
+  "source_line": 20311,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅತ್ತಪರಂ",
+  "meaning_kn": "ಕಾಳೆಗವಲಗೆ",
+  "meaning_en": "war-shield, battle-board (kāḷega + palage)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20313,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅರ್ತುದು",
+  "meaning_kn": "ಅಱತುದು",
+  "meaning_en": "it dried up / was exhausted, ceased (ಅಱ್ + ತುದು)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಅಜತತುದು; Kittel ಅಜತುದು, AES ಅಲಿತುಡು; read ಅಱತುದು"
+  ],
+  "source_line": 20314,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅದುವದು",
+  "meaning_kn": "ವಿಚಾರಿಸುಹಂ",
+  "meaning_en": "inquiring, examining",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "Kittel 1920 gloss ವಿಚಾರಿಪುಹಂ; Kedilaya ಅದುವಡೆ = ವಿಚಾರಿಸದೆ"
+  ],
+  "source_line": 20315,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಮ್ಮಂಗೊಡಲಿ",
+  "meaning_kn": "ಹೆಗ್ಗಟ್ಟವತ್ತಿಗೆ",
+  "meaning_en": "a large axe / hatchet (? glossed heggaṭṭavattige)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR (blank lines here); supplied from Kittel 1920 (2nd version no. 20), AES 1990, Kedilaya 1973; source_line is the approximate gap position; English meaning uncertain"
+  ],
+  "source_line": 20316,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅರ್ಬಿ",
+  "meaning_kn": "ನಿರ್ಝರಂ",
+  "meaning_en": "waterfall, mountain stream",
+  "pos": "noun",
+  "variants": [
+   "ಅರ್ಜಿ"
+  ],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 no. 82 (ಅರ್ಬಿಯೆಂದು, ನಿರ್ಝರಂ), AES (ಅರ್ಬಿ [ಅರ್ಜಿ] = ಉಳಿನಿರ್ಝರಂ?), Kedilaya (ನಿರ್ಮುರಂ); source_line approximate"
+  ],
+  "source_line": 20316,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಲರ್ವಕ್ಕಿ",
+  "meaning_kn": "ತುಂಬಿ",
+  "meaning_en": "bee (lit. flower-bird)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 no. 189 / AES / Kedilaya (list of words for 'bee'); source_line approximate"
+  ],
+  "source_line": 20317,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಲ್ಲಣಿಗೆ",
+  "meaning_kn": "ಮೇಳಂ",
+  "meaning_en": "company, assembly, gathering",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 (ಅಲ್ಲಣಿಗೆಯೆಂದುಂ ಸಬ್ಬವಮೆಂದುಂ ಮೇಳಂ), AES, Kedilaya; source_line approximate"
+  ],
+  "source_line": 20317,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅವುತೆ",
+  "meaning_kn": "ಕವಚಂ",
+  "meaning_en": "armour, coat of mail",
+  "pos": "noun",
+  "variants": [
+   "ಅವುಸೆ"
+  ],
+  "uncertain": [],
+  "source_line": 20318,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಸಕೞುಹಂ",
+  "meaning_kn": "ಕೈಮೀಱುಹಂ",
+  "meaning_en": "getting out of control, being overwhelmed (lit. going beyond the hand)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಅಸಕಜುಹ೦ = ಕೃಮೀಜುಹಂ; ೞ in ಅಸಕೞ್ follows the ೞ-word list of the same edition (l. 3004 ಅಸಕೞಾದಂ = ಕೈಮೀಱಾದಂ); Kittel ಅಸಕಣಿಹಂ, Kedilaya ಅಸಕಟಾಹಂ"
+  ],
+  "source_line": 20319,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಸಿದಂ",
+  "meaning_kn": "ಈಡಾಡಿದಂ",
+  "meaning_en": "he threw, flung",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20320,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅೞ್ಕರ್ತಂ",
+  "meaning_kn": "ಪ್ರೀತಿವಟ್ಟಂ",
+  "meaning_en": "he felt affection, loved (ಅೞ್ಕಱ್ 'love')",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಅಟ್ಕರ್ತಂ; ೞ confirmed by the ೞ-word list of the same edition (l. 3005)"
+  ],
+  "source_line": 20321,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಳಕಂ",
+  "meaning_kn": "ಆಲೇಖಂ",
+  "meaning_en": "drawing, picture, painting (ālekha)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಅಲೇಖಂ"
+  ],
+  "source_line": 20322,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಳಸು",
+  "meaning_kn": "ಸುರತಧ್ವನಿ",
+  "meaning_en": "murmur/sound made in love-making",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಸುರತದ್ದನಿ"
+  ],
+  "source_line": 20324,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಳ್ಕು",
+  "meaning_kn": "ಭಯಂ",
+  "meaning_en": "fear",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಅಳ್ಳು; Kittel/AES ಅಳ್ಕೆಂದುಂ ಬೆಗಡೆಂದುಂ ಭಯಂ"
+  ],
+  "source_line": 20326,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಱಿಲ್",
+  "meaning_kn": "ನಕ್ಷತ್ರಂ",
+  "meaning_en": "star",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 (ಅಱಿಲೆಂದುಂ ಮೀನೆಂದುಂ ನಕ್ಷತ್ರಂ; OCR ಅಜೌಿಲ್/ಅಜಿ”ಲ್), AES ಅಯೀಲ್, Kedilaya; ಱ uncertain; source_line approximate"
+  ],
+  "source_line": 20327,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಆಱಡಿ",
+  "meaning_kn": "ತುಂಬಿ",
+  "meaning_en": "bee (lit. six-footed)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಆಅಡಿ"
+  ],
+  "source_line": 20328,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಆವೆಯಾದೊಡಂ",
+  "meaning_kn": "ಆರಾದೊಡಂ",
+  "meaning_en": "whoever it may be, be it anyone",
+  "pos": "phrase",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20329,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಆಸು",
+  "meaning_kn": "ಶೀಘ್ರಂ",
+  "meaning_en": "quickly, swiftly",
+  "pos": "adverb",
+  "variants": [
+   "ಅಸು"
+  ],
+  "uncertain": [],
+  "source_line": 20330,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಇಂಗೋಲ್ವಿಲ್ಲಂ",
+  "meaning_kn": "ಕಾಮಂ",
+  "meaning_en": "Kāma, the god of love (he of the sugar-cane bow)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20331,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಇಱುಸಿಲ್",
+  "meaning_kn": "ಮಿಗಮಂ ಕೆಡಪುವ ಗುೞಿ",
+  "meaning_en": "pit for trapping (felling) animals",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಇಲುಸಿಲ್ = ... ಗುಲ; Kittel ಇಜಿ”ಸಿಲ್ / AES ಇಬೌಸಿಲ್ / Kedilaya ಇಲಿಸಿಲ್: ಱ and the second vowel (ಇಱುಸಿಲ್ / ಇಱಿಸಿಲ್) uncertain; gloss ಗುೞಿ (AES ಗುಳಿ, Kittel ಗುಯ್)"
+  ],
+  "source_line": 20337,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಇಱುವು",
+  "meaning_kn": "ಸಂದಣಿ",
+  "meaning_en": "crowd, throng",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಇಲುವು; Kittel ಇಐನ್, AES ಇಯಿವು, Kedilaya ಇ(ಅ)ಡಿನ್: reading uncertain (ಇಱುವು / ಇಲುವು)"
+  ],
+  "source_line": 20340,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉಕ್ಕೆವಂ",
+  "meaning_kn": "ಠಕ್ಕು",
+  "meaning_en": "deceit, trickery",
+  "pos": "noun",
+  "variants": [
+   "ಉಕ್ಕಿವಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20342,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉಗಿಪದಂ",
+  "meaning_kn": "ಸುಲಿಹಂ",
+  "meaning_en": "peeling, stripping off",
+  "pos": "noun",
+  "variants": [
+   "ಉಲಿಪದಂ"
+  ],
+  "uncertain": [
+   "OCR ಉಗಿಪಟಂ; Kittel/AES/Kedilaya ಉಗಿಪದಂ"
+  ],
+  "source_line": 20344,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉರ್ಗಿವಳದೆಣ್ಣೆ",
+  "meaning_kn": "ಉರಿವೆಣ್ಣೆ",
+  "meaning_en": "a kind of oil (glossed urivenne, 'burning/lamp oil'?)",
+  "pos": "noun",
+  "variants": [
+   "ಉಗ್ಗಿವಳದೆಣ್ಣೆ",
+   "ಅಗ್ಗಿವಳೆದೆಣ್ಣೆ"
+  ],
+  "uncertain": [
+   "English meaning uncertain"
+  ],
+  "source_line": 20345,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉಣ್ಣವಳಿ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much",
+  "pos": "adjective",
+  "variants": [
+   "ಉಣ್ಣವಳಿಯದು"
+  ],
+  "uncertain": [],
+  "source_line": 20348,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉಬ್ಬಡಿಗಂ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much",
+  "pos": "adjective",
+  "variants": [
+   "ಉಬ್ಬರಿಗಂ",
+   "ಉಬ್ಬದಿಗಂ"
+  ],
+  "uncertain": [
+   "2015 OCR ಉಬ್ಬದಿಗಂ (ಉಬ್ಬರಿಗಂ); Kittel/AES/Kedilaya ಉಬ್ಬಡಿಗಂ"
+  ],
+  "source_line": 20349,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉರ್ಜಿನಂ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much",
+  "pos": "adjective",
+  "variants": [
+   "ಉರ್ಬಿನಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20352,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉಮ್ಮಳಿಸಿತು",
+  "meaning_kn": "ಊಷ್ಮೆದೋಱಿದುದು",
+  "meaning_en": "became heated, showed heat (of grief/anger)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಉಮ್ಮುಳಿಸಿತು = ... ತೋಲಾದುದು (partly lost); gloss restored from Kittel (ಊಷ್ಮೆದೋಱಿದುದು) / Kedilaya"
+  ],
+  "source_line": 20353,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉೞಿ",
+  "meaning_kn": "ಒಂದು ನೋಂಪಿ",
+  "meaning_en": "a kind of religious vow/observance",
+  "pos": "noun",
+  "variants": [
+   "ಉಗ್ಗಿ"
+  ],
+  "uncertain": [
+   "OCR ಉಲ (ಉಗ್ಗಿ); Kittel ಉಟಿ (v.r. ಉಗ್ಗಿ), AES ಉಗ್ಗಿ [ಉಲ], Kedilaya ಉಲ್ಲ: headword very uncertain (ಉೞಿ / ಉಱಿ / ಉಲ್ಲಿ)"
+  ],
+  "source_line": 20355,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಉೞುಗಿದಂ",
+  "meaning_kn": "ಕೂರ್ತಂ",
+  "meaning_en": "he loved, was fond",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಉಟುಗಿದಂ; ೞ per the ೞ-word list of the same edition (l. 3080 ಉೞುಗಿದಂ = ಒಲ್ದಂ)"
+  ],
+  "source_line": 20358,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಎನವು",
+  "meaning_kn": "ಎನ್ನವರ್ತನಂ",
+  "meaning_en": "? (glossed 'my conduct'; obscure)",
+  "pos": "noun",
+  "variants": [
+   "ಎನತು"
+  ],
+  "uncertain": [
+   "gloss OCR '= ವರ್ತನಂ' with fragment ಎನ at l. 20375; Kittel/AES/Kedilaya ಎನ್ನವರ್ತನಂ; meaning obscure"
+  ],
+  "source_line": 20359,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಎಂಬುಕೆಯ್ದಂ",
+  "meaning_kn": "ಎಂದುದಂ ಮಾಡಿದಂ",
+  "meaning_en": "he did what was told, obeyed",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "gloss fragment ಎಂದುದಂ at l. 20379; Kedilaya v.r. ಎಂಬನಿಕೆಯ್ದಂ, AES ಇಂಬುಕೆಯ್ದಂ"
+  ],
+  "source_line": 20361,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಎವುೞ್",
+  "meaning_kn": "ಎಂಜಲ್",
+  "meaning_en": "spittle, leavings (food defiled by the mouth)",
+  "pos": "noun",
+  "variants": [
+   "ಎರೆ"
+  ],
+  "uncertain": [
+   "OCR ಎವುಖ್; Kittel ಐವುಬ್, AES ಎವುಳ್, Kedilaya ಅವುಟ್: ೞ vs ಱ uncertain; Kittel/AES add ಎರೆ as synonym"
+  ],
+  "source_line": 20363,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಏರ್ಪೂತುದು",
+  "meaning_kn": "ತಡಂಬೊಯ್ದುದು",
+  "meaning_en": "stumbled, staggered (?)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "gloss fragments ತಡಂ (l. 20382) + ಬೊಯ್ದುದು (l. 20365); English meaning uncertain"
+  ],
+  "source_line": 20364,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಒಡಂಬಿ",
+  "meaning_kn": "ಶರೀರಂ",
+  "meaning_en": "body",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20367,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಒೞಿಲ್ದಂ",
+  "meaning_kn": "ಕೂರ್ತಂ",
+  "meaning_en": "he loved",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಒಳಿಲ್ಲಂ; Kittel ಒಬಿಲ್ದಂ (ಬಿ = ೞಿ), AES ಒಲಿಲ್ಲಂ: ೞ uncertain"
+  ],
+  "source_line": 20368,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಚ್ಚೞಿ",
+  "meaning_kn": "ಬಿರುದಿನ ಬಳೆ",
+  "meaning_en": "ring/anklet worn as an emblem of a title (biruda)",
+  "pos": "noun",
+  "variants": [
+   "ಕಚ್ಚಕಳಿ"
+  ],
+  "uncertain": [
+   "OCR has only ಕಚ್ಚು; headword from AES ಕಚ್ಚಳಿ / Kittel ಕಚ್ಚಬಿ' / Kedilaya ಕಚ್ಚಲಂ; ೞ supported by ಕಚ್ಚೞಿ in the ೞ-word list (l. 3105)"
+  ],
+  "source_line": 20369,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಣ್ಣಲೆದುದು",
+  "meaning_kn": "ಪೊಡಕರಿಸಿತು",
+  "meaning_en": "quivered, throbbed / flashed into view",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "English meaning of ಪೊಡಕರಿಸು uncertain"
+  ],
+  "source_line": 20388,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಣ್ಮಲೆದುದು",
+  "meaning_kn": "ಪೊಡಕರಿಸಿತು",
+  "meaning_en": "quivered, throbbed / flashed into view",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕಣಖೆದುದು; read as ಕಣ್ಮಲೆದುದು, the v.r. given by Kittel/AES for ಕಣ್ಣಲೆದುದು"
+  ],
+  "source_line": 20389,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕತ್ತುಪೆನಂ",
+  "meaning_kn": "ಜಗಳಂ",
+  "meaning_en": "quarrel",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR gloss ಬೆಗಳಂ (ಜಗಳಂ)"
+  ],
+  "source_line": 20392,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕನ್ನಡವಕ್ಕಿ",
+  "meaning_kn": "ಗಿಳಿ",
+  "meaning_en": "parrot",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20395,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಮ್ಮಂಗಣೆಯಂ",
+  "meaning_kn": "ಕಾಮಂ",
+  "meaning_en": "Kāma (he of the fragrant flower-arrows)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20396,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಯ್ಕೋಲ್",
+  "meaning_kn": "ಕಡೆಗೋಲ್",
+  "meaning_en": "churning stick",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20397,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕರಿ",
+  "meaning_kn": "ಆನೆ",
+  "meaning_en": "elephant",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR garbled 'ಕರ್ ಹಟನೆ'; restored from Kittel 1920 no. 87 / AES (ಕರಿಯೆಂದು, ಆನೆ)"
+  ],
+  "source_line": 20398,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕರೆದಂ",
+  "meaning_kn": "ಅಡಂಗಿದಂ",
+  "meaning_en": "he subsided, hid himself, was subdued",
+  "pos": "verb",
+  "variants": [
+   "ಕರಿದಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20400,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಸವರಂ",
+  "meaning_kn": "ಪೊನ್",
+  "meaning_en": "gold",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss v.r. ಮಿಸುನಿ"
+  ],
+  "source_line": 20401,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಾದಲ್ಮೆ",
+  "meaning_kn": "ಸ್ನೇಹಂ",
+  "meaning_en": "love, affection",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 no. 81 / AES / Kedilaya; source_line approximate"
+  ],
+  "source_line": 20402,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಾಮಕರಂ",
+  "meaning_kn": "ಗರ್ವಂ",
+  "meaning_en": "pride, arrogance",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "prayoga: ತಾಮಸಗೆ ತಾಗಿದಸುರನ ಕಾಮಕರಂ ಕರಮಡಂಗಿ ನುರ್ಗಪ್ಪಿನೆಗಂ (2015 OCR partial; completed from Kittel/AES)"
+  ],
+  "source_line": 20404,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಿರ್ಗಿ",
+  "meaning_kn": "ಒಱಪು",
+  "meaning_en": "beauty, splendour, lustre",
+  "pos": "noun",
+  "variants": [
+   "ಕೆಱ್ಗೆ"
+  ],
+  "uncertain": [
+   "gloss OCR ಒಅಪು (AES ಒಲಪು); meaning of ಒಱಪು assumed 'beauty'"
+  ],
+  "source_line": 20409,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಿತ್ತಡಿ",
+  "meaning_kn": "ವ್ರತಿ",
+  "meaning_en": "ascetic, one under a vow",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20411,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೆಱ್ಗೆ",
+  "meaning_kn": "ಒಱಪು",
+  "meaning_en": "beauty, splendour, lustre",
+  "pos": "noun",
+  "variants": [
+   "ಕಿರ್ಗಿ"
+  ],
+  "uncertain": [
+   "OCR ಕೆಲಗೆ = ಒಲಪು; Kittel main reading ಕಱ್ಗೆ (OCR ಕಲ್ಗೆ / ಕಟ್ಗೆ) with v.r. ಕಿರ್ಗಿ; headword reading uncertain (ಕೆಱ್ಗೆ / ಕಱ್ಗೆ)"
+  ],
+  "source_line": 20413,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕಿಸುಗಣ್ಣಿದಂ",
+  "meaning_kn": "ಕೋಪಿಸಿದಂ",
+  "meaning_en": "he became angry (lit. turned red-eyed)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20414,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕುಂಗರ್",
+  "meaning_kn": "ಬೆಸದವರ್",
+  "meaning_en": "servants",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20415,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕುಯಕಂ",
+  "meaning_kn": "ಕುಹಕಂ",
+  "meaning_en": "deceit, trickery",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20416,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕುಱ್",
+  "meaning_kn": "ಕುಱುಪು",
+  "meaning_en": "mark, sign (?)",
+  "pos": "noun",
+  "variants": [
+   "ಕುಱಿ"
+  ],
+  "uncertain": [
+   "OCR ಕುಲ: = ಕುಣುಪು (ಕುಮುಪು); Kittel ಕುಱ್ = ಕುಱ್ಪು (v.r. ಕುಮಿಪು); headword and meaning uncertain"
+  ],
+  "source_line": 20418,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೆಕ್ಕೆ",
+  "meaning_kn": "ಕೆನ್ನೆ",
+  "meaning_en": "cheek",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20419,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೆಂಗಣ್ಣಲರ್ವಕ್ಕಿ",
+  "meaning_kn": "ಕೋಗಿಲೆ",
+  "meaning_en": "cuckoo (lit. red-eyed flower-bird)",
+  "pos": "noun",
+  "variants": [
+   "ಕೆಂಗಣ್ಣಕ್ಕಿ"
+  ],
+  "uncertain": [
+   "gloss OCR ಹೋಗಿಲೇ"
+  ],
+  "source_line": 20421,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೆಲಚು",
+  "meaning_kn": "ಸಹಾಯಂ",
+  "meaning_en": "help, assistance",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20422,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೆಸಱಂಕರ್",
+  "meaning_kn": "ಮಲ್ಲರ್",
+  "meaning_en": "wrestlers",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕೆಸಅಂಕರ್"
+  ],
+  "source_line": 20423,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೇೞಿ",
+  "meaning_kn": "ಪಂಕ್ತಿ",
+  "meaning_en": "row, line",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕೇಟಿ = ಪಜ್ಚಾ; ೞ and gloss confirmed by the ೞ-word list (l. 3186 ಕೇೞಿ = ಪಂಕ್ತಿ)"
+  ],
+  "source_line": 20424,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೈದವಂ",
+  "meaning_kn": "ಕೈತವಂ",
+  "meaning_en": "deceit, fraud",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20426,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊಟ್ಟಱಂ",
+  "meaning_kn": "ಕಪ್ಪಂ",
+  "meaning_en": "tribute",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕೊಟ್ಟಜಂ; ಱ inferred"
+  ],
+  "source_line": 20428,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊತ್ತಣಿ",
+  "meaning_kn": "ಕಾಗೆಗಳ ಮೊತ್ತಂ",
+  "meaning_en": "flock of crows",
+  "pos": "noun",
+  "variants": [
+   "ಕೊತ್ತೞಿ"
+  ],
+  "uncertain": [
+   "the ೞ-word list of the same edition (l. 3187) has ಕೊತ್ತೞಿ = ಕಾಗೆಯ ಮೊತ್ತಂ; ಕೊತ್ತಣಿ may be a misprint for ಕೊತ್ತೞಿ"
+  ],
+  "source_line": 20430,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊಂಬು",
+  "meaning_kn": "ಸಂಕೇತಸ್ಥಳಂ",
+  "meaning_en": "trysting place, rendezvous",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20431,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊಱೆದುದು",
+  "meaning_kn": "ಗರವಟಿಸಿದುದು",
+  "meaning_en": "was stupefied, benumbed (?)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕೊಜಕೆದುದು = ಗರವಟಿಸಿಡುವುದು; Kittel ಕೊಱಗಿದುದು?; headword and English meaning uncertain"
+  ],
+  "source_line": 20434,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊಳಂ",
+  "meaning_kn": "ಸಂಕೇತಸ್ಥಳಂ",
+  "meaning_en": "trysting place, rendezvous",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20437,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೊಳವೇರ್",
+  "meaning_kn": "ಲಾಮಂಚಂ",
+  "meaning_en": "lāmañca, a fragrant grass (vetiver/khus)",
+  "pos": "noun",
+  "variants": [
+   "ಕೊಳರ್"
+  ],
+  "uncertain": [],
+  "source_line": 20438,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೋವಳೆ",
+  "meaning_kn": "ನೆಯ್ದಿಲ್",
+  "meaning_en": "water lily",
+  "pos": "noun",
+  "variants": [
+   "ಕೋಮಳೆ"
+  ],
+  "uncertain": [
+   "OCR ಕೋವಳ = ನೆಯಿಲ್ (ನೆಯಲ್); gloss v.r. ನೆಯ್ದಲ್"
+  ],
+  "source_line": 20441,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೋವರ್",
+  "meaning_kn": "ಕುಱುಂಬರ್",
+  "meaning_en": "Kuṟumbas, a forest/hill tribe",
+  "pos": "noun",
+  "variants": [
+   "ಬಾಂಬರ್ (synonym)"
+  ],
+  "uncertain": [
+   "gloss OCR ಕುಂಬಲರ್; Kittel ಕುಂಬ…ರ್ (v.r. ಕುಱುಂಬರ್), AES ಕುಂಬಿರ್ [ಕುಱುಂಬರ್]; gloss reading uncertain"
+  ],
+  "source_line": 20455,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಕೌವರೆ",
+  "meaning_kn": "ಸಂಭ್ರಮಂ",
+  "meaning_en": "excitement, flurry, bustle",
+  "pos": "noun",
+  "variants": [
+   "ಕೌವರಿ"
+  ],
+  "uncertain": [],
+  "source_line": 20456,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗರವಸಂಗೊಂಡುದು",
+  "meaning_kn": "ಗರವಟಿಸಿದುದು",
+  "meaning_en": "was stupefied, benumbed (as by poison) (?)",
+  "pos": "verb",
+  "variants": [
+   "ಗರವಸಗೊಂಡುದು"
+  ],
+  "uncertain": [
+   "gloss OCR ಗರವಟಿಸಿಡುವುದು; English meaning uncertain"
+  ],
+  "source_line": 20457,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗಱುವೂ",
+  "meaning_kn": "ಕೇದಗೆಯ ಪೂ",
+  "meaning_en": "ketakī (screw-pine) flower",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಗಜುವೂ; Kittel ಗಣ'ವುವ್ವ್; ಱ inferred"
+  ],
+  "source_line": 20460,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗಾರಣಂ",
+  "meaning_kn": "ದೂಱು",
+  "meaning_en": "blame, accusation, slander",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ದೂಲಖು"
+  ],
+  "source_line": 20461,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗಾಳಿವಾತು",
+  "meaning_kn": "ಬೈಗುಳ್",
+  "meaning_en": "abuse, scolding (lit. wind-talk)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20462,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗುಂಡು",
+  "meaning_kn": "ನೆರವಿ",
+  "meaning_en": "crowd, assembly",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20465,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗುಣಕಱುಗೊಂಡಂ",
+  "meaning_kn": "ಪ್ರೀತಿವಟ್ಟಂ",
+  "meaning_en": "he was attached, loved (lit. was captivated by virtues)",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಗುಣಕಜುಗೊಂಡಂ"
+  ],
+  "source_line": 20466,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಗೊಂಕೆ",
+  "meaning_kn": "ಗೋಣ್",
+  "meaning_en": "neck",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20467,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಚಣಕಂ",
+  "meaning_kn": "ಚಲ್ಲಣಂ (ಅರ್ಧೋರುಕಂ)",
+  "meaning_en": "short drawers reaching to mid-thigh",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "Kittel/AES: ಚಣಕಮೆಂದು ಚಲ್ಲಣಂ; ಚಲ್ಲಣಮೆಂದು ಅರ್ಧೋರುಕಂ"
+  ],
+  "source_line": 20469,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಚತ್ತಾಣಂ",
+  "meaning_kn": "ಒಂದು ಕಾವ್ಯಂ",
+  "meaning_en": "a kind of poetic composition (cattāṇa)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20473,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಚಲ್ಲವೊತ್ತರ್",
+  "meaning_kn": "ನಂಬಿಸಿ ತಿಂಬವರ್",
+  "meaning_en": "swindlers (who win trust and then devour)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20474,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಚೆನ್ನಪೊಂಗಂ",
+  "meaning_kn": "ವೀರಂ",
+  "meaning_en": "hero",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20475,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಚೆಲಂಕಿದಂ",
+  "meaning_kn": "ಈಡಾಡಿದಂ",
+  "meaning_en": "he threw, flung",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20476,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಜಱುಚು",
+  "meaning_kn": "ವ್ಯರ್ಥಾಳಾಪಂ",
+  "meaning_en": "idle talk, prattle",
+  "pos": "noun",
+  "variants": [
+   "ಜಲುಚು"
+  ],
+  "uncertain": [
+   "OCR ಜಲುಚು; Kedilaya commentary ಜಱುಚು (OCR ಜಜು(ರು)ಚು); ಱ uncertain"
+  ],
+  "source_line": 20477,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಜೀವರಕ್ಕೆ",
+  "meaning_kn": "ಕವಚಂ",
+  "meaning_en": "armour (lit. life-guard)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20478,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಜೊನ್ನವಕ್ಕಿ",
+  "meaning_kn": "ಚಕೋರಂ",
+  "meaning_en": "cakora bird (lit. moonlight-bird)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20479,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಜೋಡಂ",
+  "meaning_kn": "ಸಿತಗಂ; ಪಾಣ್ಬಂ",
+  "meaning_en": "a gallant, libertine, rake",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಪಾಣ್ಣಂ"
+  ],
+  "source_line": 20480,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಜೋಡೆ",
+  "meaning_kn": "ಸಿತಗೆ; ಪಾಣ್ಬೆ",
+  "meaning_en": "a wanton woman",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "Kittel/AES: ಜೋಡೆಯೆಂದು ಸಿತಗೆಯರುಂ ಪಾಣ್ಬೆಯರುಮಕ್ಕುಂ"
+  ],
+  "source_line": 20481,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಡವಕೆ",
+  "meaning_kn": "ಕಾಳಾಂಜಿ",
+  "meaning_en": "spittoon",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20484,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಡಾಹಿಣಿ",
+  "meaning_kn": "ರಕ್ಕಸಿಯ ಕತ್ತಿಗೆ",
+  "meaning_en": "a demoness's knife/cleaver",
+  "pos": "noun",
+  "variants": [
+   "ಡಾಣ್ಬೆ"
+  ],
+  "uncertain": [
+   "OCR 'ಡಾಹಿಣಿ -ಡಾಣ್ಟೆ'; second form uncertain"
+  ],
+  "source_line": 20485,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಗರ್ದುದು",
+  "meaning_kn": "ತಗೆದುದು",
+  "meaning_en": "was checked, stopped",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ತಗರ್ದದು"
+  ],
+  "source_line": 20489,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಟ್ಟಿಮೆಡಱಿದಂ",
+  "meaning_kn": "ತಟ್ಟಿವೆಣೆದಂ",
+  "meaning_en": "he plaited a (bamboo) screen/mat",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ತಟ್ಟಿಮೆಡಳ*ದಂ; ಱ inferred"
+  ],
+  "source_line": 20490,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಡಂಗುಂಡಿ",
+  "meaning_kn": "ಜಳಪ್ರತ್ಯಯಂ",
+  "meaning_en": "? (glossed jaḷapratyaya; a water-hole?)",
+  "pos": "noun",
+  "variants": [
+   "ತಡಗುಂಡಿ"
+  ],
+  "uncertain": [
+   "meaning obscure"
+  ],
+  "source_line": 20491,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಮ್ಮಡಂ",
+  "meaning_kn": "ತಡೆದುದು",
+  "meaning_en": "obstruction, that which was stopped (?)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20493,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಱಿಸಲವು",
+  "meaning_kn": "ನಿರ್ಣಯಂ",
+  "meaning_en": "decision, settled conclusion",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ತಳೂಸಲವು; Kedilaya ತಅಸಲ, AES ತಮ್ಸಲ, Kittel ಇದ್ಸಲ: headword reading uncertain"
+  ],
+  "source_line": 20494,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಳಮಳಗು",
+  "meaning_kn": "ಬೆರಗಾಗುಹಂ",
+  "meaning_en": "being astonished, bewildered",
+  "pos": "noun",
+  "variants": [
+   "ತಳಮಳಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20495,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಾರಗೆವಟ್ಟೆ",
+  "meaning_kn": "ಆಗಸಂ",
+  "meaning_en": "sky (lit. path of stars)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20496,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಿಟ್ಟು",
+  "meaning_kn": "ಬೈಗುಳ್",
+  "meaning_en": "abuse, scolding",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20497,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಿಬ್ಬಂ",
+  "meaning_kn": "ತೀವ್ರಂ",
+  "meaning_en": "intense, sharp, vehement",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20498,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಿರಿಕೊಱೆ",
+  "meaning_kn": "ಆಯ್ಕುಳಿ",
+  "meaning_en": "? (glossed āykuḷi; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ತಿಲಕೊಲಕತ = ಆಯ್ಕುಳಿ; Kittel ತಿರಿಕೊಜ್, AES ತಿರಿಕೊಜತಿ, Kedilaya ತಿರಿಕೊಟಕಿ; gloss Kittel ಆಯ್ದುಳಿ, Kedilaya ಆಯ್ತುಳಿ; headword and meaning uncertain"
+  ],
+  "source_line": 20545,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತಿಪ್ಪುೞ್",
+  "meaning_kn": "ಗಱಿ",
+  "meaning_en": "feather, quill",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ತಿಪ್ಪುಖ್ = ಗಣ; confirmed by ೞ-word list (l. 3282 ತಿಪ್ಪುೞ್ = ಪಕ್ಕಿಯ ಗಱಿ)"
+  ],
+  "source_line": 20548,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತುೞಿಲ್",
+  "meaning_kn": "ವೀರಂ; ಪೊಡವಡಿಕೆ",
+  "meaning_en": "valour, heroism; obeisance, salutation",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ತುಟಾಲ್; ೞ per ೞ-word list (l. 3290)"
+  ],
+  "source_line": 20549,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೆಗಲ್",
+  "meaning_kn": "ಪೆಗಲ್",
+  "meaning_en": "shoulder",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ತೆಗಲೆ; Kittel/AES ತೆಗಳೆಂದು"
+  ],
+  "source_line": 20550,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೆಂಗುಹಂ",
+  "meaning_kn": "ಹಕ್ಕಿಯೆಱಗುಹಂ",
+  "meaning_en": "swooping down of a bird",
+  "pos": "noun",
+  "variants": [
+   "ತೇಂಗುಹಂ"
+  ],
+  "uncertain": [
+   "OCR ತೇಂಗುಹಂ = ಹಕ್ಕಿಯೆಅಗುಹಂ; Kedilaya ಪಕ್ಕಿಯೆಱಗುಹಂ"
+  ],
+  "source_line": 20553,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೆಪ್ಪರ್ತಂ",
+  "meaning_kn": "ಮೂರ್ಛೆ ತಿಳಿದಂ",
+  "meaning_en": "he recovered from a swoon (ತೆಪ್ಪಱ್ + ತಂ)",
+  "pos": "verb",
+  "variants": [
+   "ತೆರ್ಪತ್ತಂ"
+  ],
+  "uncertain": [
+   "Kittel/AES read ತೆರ್ಪತ್ತಂ"
+  ],
+  "source_line": 20554,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೆರೆಪೊಡೆ",
+  "meaning_kn": "ಮಡಿಲ್",
+  "meaning_en": "lap, fold of a garment",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20555,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೆಲ್ಲಂಟಿ",
+  "meaning_kn": "ನಿಬ್ಬಣಂ",
+  "meaning_en": "wedding procession",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20556,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೇನತೇನಂ",
+  "meaning_kn": "ಮೇಲೆಮೇಲೆ",
+  "meaning_en": "one upon another, more and more",
+  "pos": "adverb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20557,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೊದಳ್",
+  "meaning_kn": "ಪುಸಿ",
+  "meaning_en": "falsehood, lie",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "Kittel/AES gloss ಪುಸಿಯ ಭೇದಂ"
+  ],
+  "source_line": 20558,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ತೋರ್ಪು",
+  "meaning_kn": "ತೋರ್ಕೆ",
+  "meaning_en": "appearance, display",
+  "pos": "noun",
+  "variants": [
+   "ತೋರ್ಪೆ"
+  ],
+  "uncertain": [],
+  "source_line": 20560,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ದಡ್ಡಸಂ",
+  "meaning_kn": "ಡೊಂಬವಱಿಕೆ",
+  "meaning_en": "acrobatics, a tumbler's feat",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಡೊಂಬವಣಕೆ; Kittel ಡೊಂಬವಅಲ'/ಡೊಂಬವಜ್, AES ಡೊಂಬವಯ್ೆ, Kedilaya commentary ಜೊಂಬವಅಕೆ: gloss reading uncertain"
+  ],
+  "source_line": 20562,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ದಡ್ಡುಂಚೆ",
+  "meaning_kn": "ಸಿತಗೆ",
+  "meaning_en": "a wanton woman",
+  "pos": "noun",
+  "variants": [
+   "ದಡುಂಜೆ",
+   "ದಡ್ಡಂಚಿ"
+  ],
+  "uncertain": [
+   "OCR 'ದಡ್ರುಂಚೆದುಂಡುಖುಂಬ್ವೆ ಎಸಿತಗೆ' garbled; Kittel ದಡುಂಜೆಯರ್ (v.r. ದಡ್ಡುಂಚೆಯರ್) = ಸಿತಗೆಯರ್; headword uncertain"
+  ],
+  "source_line": 20563,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ದಳಂ",
+  "meaning_kn": "ಪತ್ರಂ",
+  "meaning_en": "leaf; petal",
+  "pos": "noun",
+  "variants": [
+   "ದಳಿ"
+  ],
+  "uncertain": [],
+  "source_line": 20564,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ದೊಡ್ಡಮಾರ್ಗಂ",
+  "meaning_kn": "ಆನೆ ಕುದುರೆಗಳೊಳಾದ ಕಿಱುದೊಡೆಯ ಜಿಡ್ಡು",
+  "meaning_en": "a disease/sore (jiḍḍu) of the lesser thigh in elephants and horses (?)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಕಿಜುದೊಡೆಯ ಜಿಡ್ಡು (ಜಡ್ಡು, ದಡ್ಡು); English meaning uncertain"
+  ],
+  "source_line": 20565,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನನಸು",
+  "meaning_kn": "ದಿಟಂ",
+  "meaning_en": "truth, reality",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20569,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನವಿರ್",
+  "meaning_kn": "ಕೂದಲು",
+  "meaning_en": "hair",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20571,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಾಗಹಂ",
+  "meaning_kn": "ಗೋದಾವರಿಯೊಳೊಂದು ಮಡು",
+  "meaning_en": "name of a deep pool in the Godāvarī",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20572,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಾಳಿ",
+  "meaning_kn": "ನಾಡಿ",
+  "meaning_en": "tube, pipe; nāḍī",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ನಾಟು = ನಾಡಿ (possibly ನಾೞಿ); Kittel 1920 gloss ಪಾಡಿ, AES ನಾಡಿ"
+  ],
+  "source_line": 20574,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಕ್ಕುವಂ",
+  "meaning_kn": "ನಿಶ್ಚಯಂ",
+  "meaning_en": "certainty",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20576,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಗ್ಗವಂ",
+  "meaning_kn": "ಗಜದಂತಂ",
+  "meaning_en": "elephant's tusk, ivory",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20578,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಗುಂಬಿತು",
+  "meaning_kn": "ಕುಪ್ಪಳಿಸಿತ್ತು",
+  "meaning_en": "leapt, jumped",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "v.r. of ನಿಲುಂಬಿತು"
+  ],
+  "source_line": 20579,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿರ್ನೆರಂ",
+  "meaning_kn": "ನಿರ್ನಿಮಿತ್ತಂ",
+  "meaning_en": "without cause, for no reason",
+  "pos": "adverb",
+  "variants": [
+   "ನಿರ್ನೆರ್",
+   "ನಿರ್ನರಂ"
+  ],
+  "uncertain": [
+   "OCR 'ನಿರ್ನ ರಂಭ ನಹಿನೆಣರ್' garbled; headword from Kittel/AES (ನಿರ್ನೆರೆಂದು, ನಿರ್ನೆರಮೆಂದು)"
+  ],
+  "source_line": 20582,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿರದಂ",
+  "meaning_kn": "ಕೊಂದಂ",
+  "meaning_en": "he killed",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20584,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಱ್ಗಂ",
+  "meaning_kn": "ಒಂದು ಮಾವು",
+  "meaning_en": "a kind of mango tree",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ನಿಅ್ಗಂ"
+  ],
+  "source_line": 20587,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಲುಂಬಿತು",
+  "meaning_kn": "ಕುಪ್ಪಳಿಸಿತ್ತು",
+  "meaning_en": "leapt, jumped",
+  "pos": "verb",
+  "variants": [
+   "ನಿಗುಂಬಿತು"
+  ],
+  "uncertain": [
+   "gloss OCR ಕುಪುಳಿಸಿತ್ತು"
+  ],
+  "source_line": 20588,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನಿಸ್ಸಂಕೆ",
+  "meaning_kn": "ಅವಜ್ಞೆ",
+  "meaning_en": "contempt, disregard",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20589,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನೂಳದು",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20590,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನೆಲಕಲಂ",
+  "meaning_kn": "ಲೋಭಿ",
+  "meaning_en": "miser",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20591,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನೆೞಿಲ್ದಂ",
+  "meaning_kn": "ಜೋಲ್ದಂ",
+  "meaning_en": "he/it hung down, drooped",
+  "pos": "verb",
+  "variants": [
+   "ನೆಣಲ್ದಂ",
+   "ತೆಱಿಲ್ದಂ"
+  ],
+  "uncertain": [
+   "not legible in venkat2015 OCR (perhaps absent); supplied from Kittel 1920 (ನೆಣಲನೆಂದು, ಜೋಲ್ದಂ), AES (ತೆಲಿಲ್ಲನೆಂದು (ನೆರಲ-) [ನೆಬಿಲ-]), Kedilaya; cf. ೞ-word list ಎೞಿಲ್ದಂ = ಜೋಲ್ದಂ (l. 3083); headword very uncertain; source_line approximate"
+  ],
+  "source_line": 20591,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನೇರ್ದಂ",
+  "meaning_kn": "ಅರಿದಂ",
+  "meaning_en": "he cut",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20592,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ನೋಳ್ಪಿದಂ",
+  "meaning_kn": "ಇದಿರ್ಚಿ ನಡೆದಂ",
+  "meaning_en": "he advanced to meet/oppose",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ನೋಳ್ದಿದಂ with gloss fragments ಇದಿರ್ಚೆ (l. 20668) ... ನಡೆದಂ; Kittel ನೋಳ್ಪಿದನೆಂದು, AES ನೊಳ್ಳಿದನೆಂದು: headword uncertain"
+  ],
+  "source_line": 20639,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಂಚಪಲ್ಲವದ ವಾಜಿಗಳ್",
+  "meaning_kn": "ರಾಜವಾಹನಂಗಳ್",
+  "meaning_en": "royal horses (state mounts)",
+  "pos": "phrase",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20641,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಚ್ಚವಡಿತಿ",
+  "meaning_kn": "ಹಚ್ಚಡಿಸುವಾಕೆ",
+  "meaning_en": "woman who spreads the bed-covers (chamber-maid)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20643,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಚ್ಚಾಯ್ದಂ",
+  "meaning_kn": "ಪಚ್ಚಗಾಱಂ",
+  "meaning_en": "? (glossed paccagāṟa; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಚ್ಚಗಾಅಂ; meaning obscure"
+  ],
+  "source_line": 20644,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಂಚಂ",
+  "meaning_kn": "ಅಪೂರ್ವಂ",
+  "meaning_en": "rare, unprecedented",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [
+   "Kittel/AES gloss v.r. ಪೂರ್ವಂ"
+  ],
+  "source_line": 20645,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಡಿಯಱವಕ್ಕಿ",
+  "meaning_kn": "ಕೋಗಿಲೆ",
+  "meaning_en": "cuckoo (lit. herald-bird)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಡಿಯಅವಕ್ಕಿ"
+  ],
+  "source_line": 20646,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಂಡಿತವಕ್ಕಿ",
+  "meaning_kn": "ಗಿಳಿ",
+  "meaning_en": "parrot (lit. learned bird)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20647,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪನ್ನತಿಕೆ",
+  "meaning_kn": "ಪರಾಕ್ರಮಂ",
+  "meaning_en": "valour, prowess",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20648,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪನಂ",
+  "meaning_kn": "ಸಂಕೇತಸ್ಥಳಂ",
+  "meaning_en": "trysting place, rendezvous",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20649,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪರ್ಪರಿಕೆ",
+  "meaning_kn": "ಕರ್ಕಶತೆ",
+  "meaning_en": "harshness, roughness",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20650,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪರಕಂ",
+  "meaning_kn": "ಪರೋಕ್ಷಂ",
+  "meaning_en": "absence; what is out of sight",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20651,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಣಮೆ",
+  "meaning_kn": "ತುಂಬಿ",
+  "meaning_en": "bee",
+  "pos": "noun",
+  "variants": [
+   "ಪಱಮೆ"
+  ],
+  "uncertain": [
+   "AES reads ಪಱಮೆ (ಪಜಿಮೆ)"
+  ],
+  "source_line": 20652,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಲ್ಲಮಱಿ",
+  "meaning_kn": "ಆನೆಯ ಮಱಿ",
+  "meaning_en": "elephant calf",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಲ್ಲಮಜಾಃ = ಆನೆಯ ಮಜಾ"
+  ],
+  "source_line": 20653,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪವಿತ್ರಂ",
+  "meaning_kn": "ಒಂದು ಕಿವಿದುಡುಗೆ",
+  "meaning_en": "a kind of ear ornament",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20654,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಳಾಳಂ",
+  "meaning_kn": "ಠಕ್ಕು",
+  "meaning_en": "deceit, trickery",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20657,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಳುಂಕಿದಂ",
+  "meaning_kn": "ನೂಂಕಿದಂ",
+  "meaning_en": "he pushed, thrust",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20658,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಾಗಲ್",
+  "meaning_kn": "ಪ್ರಾಕಾರಂ",
+  "meaning_en": "rampart, enclosing wall",
+  "pos": "noun",
+  "variants": [
+   "ಪಾಗಲಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20659,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಾಱೆ",
+  "meaning_kn": "ಸಿತಗೆ",
+  "meaning_en": "a wanton woman",
+  "pos": "noun",
+  "variants": [
+   "ಪಾಣ್ಬೆ"
+  ],
+  "uncertain": [
+   "OCR ಪಾಜ* (ಪಾಣ್ಟೆ); Kittel ಪಾಣೆ, Kedilaya ಪಾಱೆ?: headword uncertain"
+  ],
+  "source_line": 20660,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಾಱು",
+  "meaning_kn": "ಬಹಿತ್ರಭೇದಂ",
+  "meaning_en": "a kind of boat/raft",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಾಟು; Kittel ಪಾಜಿ್ (= ಪಾಱ್), Kedilaya ಪಾಜ: ಱ preferred"
+  ],
+  "source_line": 20661,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಾೞಿ",
+  "meaning_kn": "ಪಂಕ್ತಿ",
+  "meaning_en": "row, line",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಾಟು = ಪಜ್ಞ; Kittel/AES ಪಾೞಿಯೆಂದುಂ ಕೇೞಿಯೆಂದುಂ ಪಂಕ್ತಿ"
+  ],
+  "source_line": 20662,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪಿಱಿತಿನಿ",
+  "meaning_kn": "ಮರುಳ್",
+  "meaning_en": "a madman; madness",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪಿರಿತಿನಿ; Kittel ಪಿಜ್ತಿನಿ, Kedilaya ಪಿಅಕಿತಿನಿ: ಱ uncertain"
+  ],
+  "source_line": 20664,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪುಗ್ಗಾಯ್ದಂ",
+  "meaning_kn": "ಗರ್ವಿತಂ",
+  "meaning_en": "a proud, arrogant man",
+  "pos": "noun",
+  "variants": [
+   "ಪುಗ್ಗಾಯಿಲಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20665,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪುಚ್ಚೞಿ",
+  "meaning_kn": "ಕೇಡು",
+  "meaning_en": "ruin, harm",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪುಚ್ಚಟಿ*; ೞ confirmed by ೞ-word list (l. 3398 ಪುಚ್ಚೞಿ = ಕೇಡು)"
+  ],
+  "source_line": 20671,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪುಚ್ಚವಣಂ",
+  "meaning_kn": "ಪರೀಕ್ಷೆ; ಅಣ್ಮು",
+  "meaning_en": "test, trial; valour, strength",
+  "pos": "noun",
+  "variants": [
+   "ಪಚ್ಚವಣಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20672,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೂಜಾಗಜಂ",
+  "meaning_kn": "ಪಟ್ಟವರ್ಧನಂ",
+  "meaning_en": "the state elephant",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR truncated ಪಟ್ಟ; completed from Kittel/AES"
+  ],
+  "source_line": 20673,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೆಱಂ",
+  "meaning_kn": "ಎಡೆಯಂ",
+  "meaning_en": "? (glossed eḍeyaṁ; v.r. saḍeyaṁ, seḍeyaṁ; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "not legible in venkat2015 OCR; supplied from Kittel 1920 (ಹೆಳನೆಂದು, ಎಡೆಯಂ (v.r. ಸಡೆಯಂ, ಸೆಡೆಯಂ)), AES (ಪೆಬನ್), Kedilaya (ಪೆಜನ್); ಱ vs ೞ and meaning uncertain; source_line approximate"
+  ],
+  "source_line": 20674,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೆೞಕು",
+  "meaning_kn": "ಜಗಳಂ",
+  "meaning_en": "quarrel",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪೆಬಕು; ೞ confirmed by ೞ-word list (l. 3404)"
+  ],
+  "source_line": 20676,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೊಚ್ಚೆಱಿಸಿತು",
+  "meaning_kn": "ಪೊಡಕರಿಸಿತು",
+  "meaning_en": "quivered, throbbed / flashed into view",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪೊಚ್ಚೆಜ*ಸಿತು; ಱ vs ೞ uncertain"
+  ],
+  "source_line": 20677,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೊಚ್ಚಂ",
+  "meaning_kn": "ಪೊೞ್",
+  "meaning_en": "stream, river (? ಪೊೞ್)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಪೊಟ್; Kittel ಪೊಲ್/ಪೊಟ್, AES ಪೊಲಿ, Kedilaya ಪೊಟಕೆ (ಹೊಳೆ); meaning uncertain"
+  ],
+  "source_line": 20678,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೊಪ್ಪುಕಂ",
+  "meaning_kn": "ಸೊಪ್ಪುಗುಟ್ಟುಹಂ",
+  "meaning_en": "crushing, trampling flat (?)",
+  "pos": "noun",
+  "variants": [
+   "ಪಪ್ಪುಕಂ"
+  ],
+  "uncertain": [
+   "OCR ಪೊಪುಕಂ; English meaning uncertain"
+  ],
+  "source_line": 20679,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಿಸವಂದಂ",
+  "meaning_kn": "ಕೌತುಕಂ",
+  "meaning_en": "wonder, curiosity",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20687,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಿಸುಗೆ",
+  "meaning_kn": "ಅಂಚೆಯಂ",
+  "meaning_en": "? (glossed añceyaṁ; Kittel ḍeñjeyaṁ / ḍeñceyaṁ)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಆಂಚೆಯಂ; meaning obscure"
+  ],
+  "source_line": 20688,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೊಱಮಾಱ್",
+  "meaning_kn": "ಬೆನ್ನೀಹಂ",
+  "meaning_en": "turning one's back, fleeing",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಪೊಅಮಾಯಖ್; Kittel ಪೊಜಿಮಾಖ್"
+  ],
+  "source_line": 20694,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಪೊರ್ಕುಳಿವಕ್ಕಿ",
+  "meaning_kn": "ಕೋಗಿಲೆ",
+  "meaning_en": "cuckoo",
+  "pos": "noun",
+  "variants": [
+   "ಪೊಕ್ಕುಳಿವಕ್ಕಿ"
+  ],
+  "uncertain": [
+   "OCR ಪೋರ್ಕುಳಿವಕ್ಕಿ; possibly ಪೊರ್ಕುೞಿವಕ್ಕಿ (cf. ಪೊರ್ಕುೞ್ 'navel' in the ೞ-word list)"
+  ],
+  "source_line": 20695,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಂಡಣಂ",
+  "meaning_kn": "ಕಾಳೆಗಂ",
+  "meaning_en": "battle",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20696,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬದಸು",
+  "meaning_kn": "ಕೌಟಿಲ್ಯಂ",
+  "meaning_en": "crookedness, deceit",
+  "pos": "noun",
+  "variants": [
+   "ಬದಗು"
+  ],
+  "uncertain": [],
+  "source_line": 20698,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬದಗು",
+  "meaning_kn": "ಕೌಟಿಲ್ಯಂ",
+  "meaning_en": "crookedness, deceit",
+  "pos": "noun",
+  "variants": [
+   "ಬದಸು"
+  ],
+  "uncertain": [],
+  "source_line": 20698,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬದ್ದವಣಂ",
+  "meaning_kn": "ಮಂಗಳವಱಿಕೆ",
+  "meaning_en": "auspicious music/drumming at festivities",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಮಂಗಳವಲು್; Kittel ಮಂಗಳವಱ್ (OCR ಮಂಗಳವಬ್), AES ಮಂಗಳವಜತ; cf. ಮಂಗಳವಅಲಕೆ (l. 10844) and Kittel ಮಂಗಳವಜುಕಿ in the samāsa list: gloss reading uncertain"
+  ],
+  "source_line": 20699,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬದ್ದಂ",
+  "meaning_kn": "ಗಾಢಂ",
+  "meaning_en": "firm, intense, dense",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [
+   "gloss v.r. ಗಾಡಂ"
+  ],
+  "source_line": 20700,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬದ್ದಿಸಂ",
+  "meaning_kn": "ಅವುಂಕುಹಂ",
+  "meaning_en": "pressing, squeezing",
+  "pos": "noun",
+  "variants": [
+   "ಬಡ್ಡಿಸಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20702,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬರ್ದು",
+  "meaning_kn": "ಪ್ರೌಢಿ",
+  "meaning_en": "maturity, boldness, skill",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20709,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬರ್ದುಗೆ",
+  "meaning_kn": "ಸಾವು",
+  "meaning_en": "death",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20711,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬವಸು",
+  "meaning_kn": "ವ್ಯವಸಾಯಂ",
+  "meaning_en": "effort, enterprise; industry",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20713,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಳಮರ್ದು",
+  "meaning_kn": "ಅಂಕದೌಷಧಂ",
+  "meaning_en": "a medicine taken by champions (for strength in combat)",
+  "pos": "noun",
+  "variants": [
+   "ಬಳಮದರ್ದು",
+   "ಬಲಮರ್ದು"
+  ],
+  "uncertain": [
+   "English meaning uncertain"
+  ],
+  "source_line": 20714,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಳೆ",
+  "meaning_kn": "ಕುದುರೆಯ ವಳಯಂ",
+  "meaning_en": "a horse's neck-ring/collar",
+  "pos": "noun",
+  "variants": [
+   "ವಳೆ"
+  ],
+  "uncertain": [],
+  "source_line": 20721,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಾಗುಳ್",
+  "meaning_kn": "ವ್ಯಾಕುಳಂ",
+  "meaning_en": "distress, agitation",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20722,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಾನ್",
+  "meaning_kn": "ಗಗನಂ",
+  "meaning_en": "sky",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20724,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಾಂಬರ್",
+  "meaning_kn": "ಕುಱುಂಬರ್",
+  "meaning_en": "Kuṟumbas, a forest/hill tribe",
+  "pos": "noun",
+  "variants": [
+   "ಬಾಂಬಂ (sg., = ಕುಱುಂಬಂ)"
+  ],
+  "uncertain": [
+   "OCR garbled 'ಖಲ ಆ ಹಂಬಣರ್'; restored from Kittel/AES (ಬಾಂಬರೆಂದುಂ ಕೋವರೆಂದುಂ ಕುಱುಂಬರ್; ಬಾಂಬನೆಂದು ಕುಱುಂಬಂ)"
+  ],
+  "source_line": 20725,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಿಜ್ಜಲಬಿಟ್ಟೇಱು",
+  "meaning_kn": "ಹಿರಿಯ ಬಿಟ್ಟೇಱು",
+  "meaning_en": "a great javelin (biṭṭēṟu = thrown spear)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಬಿಜ್ಜಲಬಿಟ್ಟೇಜು = ಹಿರಿಯ ಬಿಟ್ಟೇಜು"
+  ],
+  "source_line": 20727,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಿತ್ತಗಂ",
+  "meaning_kn": "ತುತ್ತಿದಂ",
+  "meaning_en": "? (glossed tuttida; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "headword at l. 20685, gloss at l. 20731 'ತುತ್ತಿದಂ (?)' (the editor's own query); meaning obscure"
+  ],
+  "source_line": 20731,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬಿತ್ತೆಗಂ",
+  "meaning_kn": "ಪ್ರೌಢಂ",
+  "meaning_en": "a mature, accomplished man",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "headword at l. 20686, gloss at l. 20732"
+  ],
+  "source_line": 20732,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಗಡು",
+  "meaning_kn": "ಭಯಂ",
+  "meaning_en": "fear",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR garbled 'ಗದರ್ ಭಯಂ'; restored from Kittel/AES (ಅಳ್ಕೆಂದುಂ ಬೆಗಡೆಂದುಂ ಭಯಂ)"
+  ],
+  "source_line": 20735,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಜ್ಜಂ",
+  "meaning_kn": "ವೈದ್ಯಂ",
+  "meaning_en": "physician",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20737,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಜ್ಜೆ",
+  "meaning_kn": "ಚಪ್ಪರಣೆ",
+  "meaning_en": "? (glossed cappareṇe; a shed/pandal?)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "meaning uncertain"
+  ],
+  "source_line": 20739,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೇಂಟೆ",
+  "meaning_kn": "ಸರವಿ",
+  "meaning_en": "a ridge, row (e.g. of sand: ಮಳಲ ಬೇಂಟೆಯಂ ಮಾಡಿದವೋಲ್)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಬೆಂಟೆ; illustration ಮಳಲ ಬೇಂಟೆಯಂ ಮಾಡಿದವೋಲ್ (l. 20744); English meaning uncertain"
+  ],
+  "source_line": 20741,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆದಂಡೆ",
+  "meaning_kn": "ವೈದಂಡಿಕಂ",
+  "meaning_en": "? (glossed vaidaṇḍika; staff-bearer?)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "meaning uncertain"
+  ],
+  "source_line": 20747,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಳ್ಳಳಂ",
+  "meaning_kn": "ಸಂಚಳಂ",
+  "meaning_en": "agitation, tremor",
+  "pos": "noun",
+  "variants": [
+   "ಬೆಳ್ಬಳಂ",
+   "ಬೆಳ್ಚಳಂ"
+  ],
+  "uncertain": [
+   "Kittel ಬೆಳ್ತಳಂ, AES ಬೆಳ್ಳೆಳಂ, Kedilaya ಬೆಳ್ಬಳಂ: headword uncertain"
+  ],
+  "source_line": 20749,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಳ್ಳಡಿ",
+  "meaning_kn": "ಗೊರವಂ",
+  "meaning_en": "a Śaiva mendicant (gorava)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20751,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೆಳ್ಪು",
+  "meaning_kn": "ನಿರ್ಮಳಿಕೆ",
+  "meaning_en": "whiteness, purity",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಬೆಳ್ಬು; AES ಬೆಳ್ಬು"
+  ],
+  "source_line": 20753,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಬೊಂದಿ",
+  "meaning_kn": "ಶರೀರಂ",
+  "meaning_en": "body",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20755,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಗಳ್ವಾಯ್",
+  "meaning_kn": "ಗಂಡನಂ ಪತ್ತಿ ಬಿಡದಾಕೆ",
+  "meaning_en": "a woman who clings to her husband and will not leave him",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮಗಳ್ಳಾಯ್ (also Kittel/AES), Kedilaya ಮಗಳ್ನಾಯ್: headword uncertain"
+  ],
+  "source_line": 20757,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಚ್ಚಿ",
+  "meaning_kn": "ನೊಳಂ",
+  "meaning_en": "fly (insect)",
+  "pos": "noun",
+  "variants": [
+   "ಮರ್ಚು"
+  ],
+  "uncertain": [
+   "gloss v.r. ನೊಣಂ; AES ಮರ್ಚ್, Kedilaya ಮರ್ಚೆಂದುಂ ಇರ್ಪೆಂದುಂ ನೊಣ: headword uncertain"
+  ],
+  "source_line": 20807,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಱುಗಿದಂ",
+  "meaning_kn": "ಕೂರ್ತಂ",
+  "meaning_en": "he loved, yearned",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮಖುಗಿದಂ"
+  ],
+  "source_line": 20808,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಳಾರಂ",
+  "meaning_kn": "ಕುದುರೆಯ ಪಟ್ಟಿ",
+  "meaning_en": "a horse's girth/band",
+  "pos": "noun",
+  "variants": [
+   "ಮರಾಳಂ"
+  ],
+  "uncertain": [],
+  "source_line": 20809,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಾಳ್ಕುತಿ",
+  "meaning_kn": "ಗಂಡನಂ ಪತ್ತಿ ಬಿಡದಾಕೆ",
+  "meaning_en": "a woman who clings to her husband and will not leave him",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮಾಳುಕ್ತಿ, Kittel ಮಾಳ್ತುಕಿ, AES ಮಾಳ್ಯುಕಿ: headword uncertain"
+  ],
+  "source_line": 20810,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಾಂದದು",
+  "meaning_kn": "ಮಾಣದು",
+  "meaning_en": "does not cease",
+  "pos": "verb",
+  "variants": [
+   "ಮಾಂದಡೆ"
+  ],
+  "uncertain": [],
+  "source_line": 20813,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮಾರ್ಮರ್",
+  "meaning_kn": "ಮಲೆವರ್",
+  "meaning_en": "opponents, the defiant ones",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20814,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೀನ್",
+  "meaning_kn": "ನಕ್ಷತ್ರಂ",
+  "meaning_en": "star",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20815,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮುಕ್ಕುಱು",
+  "meaning_kn": "ಮುಸುಱುಹಂ",
+  "meaning_en": "swarming, crowding round",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮುಕ್ಕುಜು = ಮುಸುಖುಹಂ"
+  ],
+  "source_line": 20817,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮುಚ್ಚುತ್ತಂ",
+  "meaning_kn": "ಮೂರ್ಛೆವೋದಂ",
+  "meaning_en": "he fainted",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮುಚ್ಚಿಯುತ್ತಂ"
+  ],
+  "source_line": 20818,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮುನ್ನೀರ್",
+  "meaning_kn": "ಸಮುದ್ರಂ",
+  "meaning_en": "ocean",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20819,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮುಯ್ಯಾರಡಿ",
+  "meaning_kn": "ತುಂಬಿ",
+  "meaning_en": "bee",
+  "pos": "noun",
+  "variants": [
+   "ಮುಯ್ಯೆರಡಿ"
+  ],
+  "uncertain": [
+   "AES ಮುಯ್ಯೆರಡಿ; perhaps ಮುಯ್ಯಾಱಡಿ"
+  ],
+  "source_line": 20820,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮುಮ್ಮುರಿ",
+  "meaning_kn": "ಕಾಸಿದ ಮಳಲ್",
+  "meaning_en": "heated sand",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR garbled ಮುಮುಧದಿ; restored from Kittel/AES/Kedilaya"
+  ],
+  "source_line": 20821,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೂಡಿ",
+  "meaning_kn": "ಉದಯಂ",
+  "meaning_en": "rising (of the sun), dawn",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20822,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೆಚ್ಚವಣಿಗೆ",
+  "meaning_kn": "ಮೆಚ್ಚನುಳ್ಳುದು",
+  "meaning_en": "that which is admirable / full of delight",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ಮೆಚ್ಚವಣಗೆ"
+  ],
+  "source_line": 20823,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೆೞ್ಪಡೆ",
+  "meaning_kn": "ಮರುಳ್ತನಂ",
+  "meaning_en": "foolishness, madness",
+  "pos": "noun",
+  "variants": [
+   "ಮೆಳ್ಪಡೆ"
+  ],
+  "uncertain": [
+   "OCR ಮೆಟ್ಟಡೆ = ಮರುಳನಂ; Kedilaya ಮೆಳ್ಪಡೆ = ಮರುಳ್ತನಂ, AES ಮೆಳ್ಳಡೆ: ೞ vs ಳ uncertain"
+  ],
+  "source_line": 20824,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೇಳಂಬಂ",
+  "meaning_kn": "ತುಂಬಿ",
+  "meaning_en": "bee",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20825,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಮೊನೆ",
+  "meaning_kn": "ಕಾಳೆಗಂ",
+  "meaning_en": "battle",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20827,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ರಾಜಾವರ್ತಂ",
+  "meaning_kn": "ಎಳನೀಲಂ",
+  "meaning_en": "lapis lazuli (light-blue gem)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20828,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಅಕೊಬ್ಬೆ",
+  "meaning_kn": "ಹಳುಕು",
+  "meaning_en": "splinter, chip",
+  "pos": "noun",
+  "variants": [
+   "ರಣಚ್ಚೆ"
+  ],
+  "uncertain": [
+   "OCR ಅಕೊಬ್ಬೆ (also Kedilaya); Kittel ಪೊಚ್ಚೆ? (v.r. ರಣಚ್ಚೆ), AES ಉಕೊಚ್ಚಿ (ಕಣಜ್ಜಿ); alphabetical position (after ರಾಜಾವರ್ತಂ) suggests a ರ/ಲ-initial word: headword very uncertain"
+  ],
+  "source_line": 20829,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ವಸು",
+  "meaning_kn": "ಪೊನ್",
+  "meaning_en": "gold",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20831,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ವಂಚಂ",
+  "meaning_kn": "ವಂಶಂ",
+  "meaning_en": "lineage; bamboo",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20833,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಲಾಳೆ",
+  "meaning_kn": "ಲಿಂಗವತ್ತಿಗೆ",
+  "meaning_en": "a case/casket for carrying the liṅga (?)",
+  "pos": "noun",
+  "variants": [
+   "ವಾಳೆ"
+  ],
+  "uncertain": [
+   "Kittel/AES main reading ವಾಳೆ (v.r. ಲಾಳೆ); English meaning uncertain"
+  ],
+  "source_line": 20835,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಬ್ಬವಂ",
+  "meaning_kn": "ಮೇಳಂ",
+  "meaning_en": "company, assembly, gathering",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20837,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಲಂ",
+  "meaning_kn": "ಪ್ರವೇಶಂ",
+  "meaning_en": "entry, entrance",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20839,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಲಂಡುಗೊಂಡುದು",
+  "meaning_kn": "ಆಕ್ರಮಿಸಿಕೊಂಡುದು",
+  "meaning_en": "seized, occupied",
+  "pos": "verb",
+  "variants": [],
+  "uncertain": [
+   "only the gloss end 'ಕೊಂಡುದು' is legible in venkat2015 OCR; restored from Kittel/AES"
+  ],
+  "source_line": 20842,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಾರಿ",
+  "meaning_kn": "ಅಂಚೆಯಂ",
+  "meaning_en": "? (glossed añceyaṁ; Kittel ḍeñjeyaṁ / ḍeñceyaṁ)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "meaning obscure"
+  ],
+  "source_line": 20845,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಿತಗೆ",
+  "meaning_kn": "ಪಾಣ್ಬೆ",
+  "meaning_en": "a wanton woman",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "gloss OCR ಪಾಣ್ಣೆ"
+  ],
+  "source_line": 20847,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸಿರಿವಂತಿಗೆ",
+  "meaning_kn": "ಹುರಿಯೋಡು",
+  "meaning_en": "potsherd/pan for roasting grain",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20849,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸುತ್ತಿ",
+  "meaning_kn": "ಶುಕ್ತಿ",
+  "meaning_en": "pearl-oyster shell",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20850,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸುನ್ನಂ",
+  "meaning_kn": "ಶೂನ್ಯಂ",
+  "meaning_en": "emptiness, void; zero",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20852,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸುಸಿಲ್",
+  "meaning_kn": "ಸಂಭೋಗಂ; ಪ್ರಭಾತಕಾಲಂ",
+  "meaning_en": "sexual union; early morning",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20854,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೈದರ್",
+  "meaning_kn": "ನೇರಿದರ್",
+  "meaning_en": "? (glossed nēridar; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "meaning obscure"
+  ],
+  "source_line": 20871,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೈಪು",
+  "meaning_kn": "ಪುಣ್ಯಂ",
+  "meaning_en": "merit, good fortune",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR garbled ಸೃತಿ = ಖುಣ್ಯಂ; restored from Kittel/AES/Kedilaya (ಸೈಪು)"
+  ],
+  "source_line": 20873,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೊಡಬಲಿ",
+  "meaning_kn": "ಮಸಣವಟ್ಟಿಗೆ",
+  "meaning_en": "? (glossed masaṇavaṭṭige; obscure)",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "meaning obscure"
+  ],
+  "source_line": 20876,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೊಂದಿ",
+  "meaning_kn": "ಸಿತಗಂ",
+  "meaning_en": "a gallant, libertine",
+  "pos": "noun",
+  "variants": [
+   "ಪೊಲದಿ"
+  ],
+  "uncertain": [
+   "OCR ಸೂಂದಿ"
+  ],
+  "source_line": 20879,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೋಡಂಬಾಡಂ",
+  "meaning_kn": "ಪಿರಿದು",
+  "meaning_en": "great, much",
+  "pos": "adjective",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20880,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಸೌಸವಂ",
+  "meaning_kn": "ಕಂಪು",
+  "meaning_en": "fragrance",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20899,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಹರಳಿಗಂ",
+  "meaning_kn": "ಜಾರಂ",
+  "meaning_en": "adulterer, paramour",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20901,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಹರಿಮೇಖಲೆ",
+  "meaning_kn": "ಇಂದ್ರಜಾಲಂ",
+  "meaning_en": "magic, jugglery",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [],
+  "source_line": 20902,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಹೇದೆ",
+  "meaning_kn": "ಭೂತಂ",
+  "meaning_en": "ghost, goblin",
+  "pos": "noun",
+  "variants": [
+   "ಹೇಡೆ"
+  ],
+  "uncertain": [],
+  "source_line": 20903,
+  "_part": "prayogasara.json"
+ },
+ {
+  "word": "ಹೇರಿಗಂ",
+  "meaning_kn": "ಬೇಹಿನವಂ",
+  "meaning_en": "spy",
+  "pos": "noun",
+  "variants": [],
+  "uncertain": [
+   "OCR ends with '?' (editor's query)"
+  ],
+  "source_line": 20905,
+  "_part": "prayogasara.json"
+ }
+]

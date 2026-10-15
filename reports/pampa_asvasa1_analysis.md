@@ -1,0 +1,1882 @@
+# Analysis of sources/texts/pampa_bharata_asvasa1.txt
+
+Tokens: 1876 — inferred: 957, ok: 894, unanalysed: 25
+
+Most used sūtras: 105×277, 123×221, 52×202, 161×189, 217×64, 221×60, 236×55, 106×50, 53×40, 146×30, 246×27, 124×25, 113×25, 98×16, 117×15
+
+- **ಶ್ರೀಯನರಾತಿ** ← ಶ್ರೀ + ಅಂ + ಅರೆ + ಆತಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಶ್ರೀಯನರಾತಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಸಾಧನ** ← ಸಾಧನ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123 · alt: ಸಾಧ [genitive, sg, masc./fem., sanskrit]
+- **ಪಯೋನಿಧಿಯೊಳ್** ← ಪಯೋನಿಧಿ [noun; locative, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ಪಡೆದುಂ** ← ಪಡೆ [verb; past gerund, -uṃ 'and/also' (122), to obtain, acquire; (n.) an army] (lexicon) · rules 236, 217 · alt: ಪಡೆ [past gerund, -aṃ 'and' after -oḷ (122), to obtain, acquire; (n.) an army]; ಪಡೆದು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಧರಿತ್ರಿಯಂಜೀಯೆನೆ** ← ಧರಿತ್ರಿಯಂಜೀಯೆನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬೇಡಿಕೊಳ್ಳದೆ** ← ಬೇಡು + ಕೊಳ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೇಡಿಕೊಳ್ಳ [instrumental, sg, neut., kannada]; ಬೇಡಿಕೊಳ್ಳದೆ [nominative, sg, neut./fem., kannada]
+- **ವಿರೋಧಿ** ← ವಿರೋಧಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನರೇಂದ್ರರನೊತ್ತಿಕೊಂಡುಮಾತ್ಮೀಯ** ← ನರೇಂದ್ರರನೊತ್ತಿಕೊಂಡುಮಾತ್ಮೀಯ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸುಪುಷ್ಪವೃಷ್ಟಿಯನೊಡಂಬಡೆ** ← ಸುಪುಷ್ಪವೃಷ್ಟಿಯನೊಡಂಬಡೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತಾಳ್ದಿಯುಮಿಂತುದಾತ್ತನಾರಾಯಣನಾದ** ← ತಾಳ್ದು + ಉಂ + ಇಂತು + ತಾಱು + ಆವುದು + ಆಯ್ + ಅಣೆ + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ತಾಳ್ದಿಯುಮಿಂತುದಾತ್ತನಾರಾಯಣನಾದ [vocative, sg, masc./neut./fem., kannada]
+- **ದೇವನೆಮಗೀಗರಿಕೇಸರಿ** ← ದೇವಿ + ಅಂ + ಆನ್ + ಈ + ಅರೆ + ಇಕೇಸರಿ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ದೇವನೆಮಗೀಗರಿಕೇಸರಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಸೌಖ್ಯಕೋಟಿಯಂ** ← ಸೌಖ್ಯಕೋಟಿಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಸೌಖ್ಯಕೋಟಿ [accusative, sg, neut./fem./masc., sanskrit]; ಸೌಖ್ಯಕೋಟಿಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮುಳಿಸು** ← ಮುಳಿಸು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ಮುಳಿಸು [vocative, sg, neut./masc., kannada]
+- **ಲಲಾಟನೇತ್ರಶಿಖಿ** ← ಲಲಾಟನೇತ್ರಶಿಖಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಮೆಚ್ಚೆ** ← ಮೆಚ್ಚು [verb; sati-saptamī (when …), to approve, like, be pleased with] (lexicon) · rules 246, 52 · alt: ಮೆಚ್ಚು [vocative, sg, neut., kannada]; ಮೆಚ್ಚೆ [nominative, sg, neut./fem., kannada]
+- **ವಿನೂತ** ← ವಿನೂತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ರಸಪ್ರಸಾದಮುಜ್ವಳ** ← ರಸ + ಅಪ್ + ರಸ + ಆಗು + ಅಂ + ಉಜ್ವಳ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ರಸಪ್ರಸಾದಮುಜ್ವಳ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಜಸಮಂಗಸಂಗತ** ← ಜಸ + ಅಂ + ಅಂ + ಗಸಂಗತ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಜಸಮಂಗಸಂಗತ [vocative, sg, masc./neut./fem., kannada]
+- **ಲಸದ್ಭಸಿತಂ** ← ಲಸದ್ಭಸಿತು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಲಸದ್ಭಸಿತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರಭುಶಕ್ತಿ** ← ಪ್ರಭು + ಉಶಕ್ತಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪ್ರಭುಶಕ್ತಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಶಕ್ತಿ** ← ಶಕ್ತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನಿರ್ಮಳಮಣಿಭೂಷಣಂ** ← ನಿರ್ಮಳ + ಅಂ + ಅಣಿಭೂಷಣು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಿರ್ಮಳಮಣಿಭೂಷಣು [accusative, sg, neut., sanskrit]; ನಿರ್ಮಳಮಣಿಭೂಷಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಫಣಿವಿಭೂಷಣಮಾಗೆ** ← ಫಣಿ + ಇದು + ಇಭೂಷಣಮಾಗೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಫಣಿವಿಭೂಷಣಮಾಗೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ತೆಯಂ** ← ನೆಗೆ + ಅೞ್ + ಎಯು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನೆಗೞ್ತೆಯು [accusative, sg, neut., kannada]; ನೆಗೞ್ತೆ [accusative, sg, neut./fem., kannada]
+- **ಪುದುಂಗೊಳಿಸಿದನೀಶ್ವರಂ** ← ಪುದು + ಉಂ + ಕೊಳ್ + ಇಸು + ಇದು + ಅಂ + ಈಶ್ವರ + ಅಂ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಪುದುಂಗೊಳಿಸಿದನೀಶ್ವರು [accusative, sg, neut., kannada]; ಪುದುಂಗೊಳಿಸಿದನೀಶ್ವರ್ [accusative, sg, neut., kannada]
+- **ನೆಗೞ್ದುದಾರ** ← ನೆಗೆ + ಅೞ್ + ಉದು + ಆರ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನೆಗೞ್ದುದಾರ್ [genitive, sg, neut., kannada]
+- **ಮಹೇಶ್ವರನೀಗೆ** ← ಮಹೇಶ್ವರನೀಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಭೋಗಮಂ** ← ಭೋಗ [noun; accusative, sg, neut., sanskrit] (lexicon) · rules 106, 161 · alt: ಭೋಗಮು [accusative, sg, neut., sanskrit]; ಭೋಗಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಚಂಡ** ← ಚಣ್ [verb; past relative participle] (inferred) · rules 241
+- **ವಿರೋಧಿಸಾಧನ** ← ವಿರೋಧಿಸಾಧ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105
+- **ತಮಸ್ತಮಮೋಡೆ** ← ತ + ಅಸು + ತ + ಅಂ + ಓಡು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ತಮಸ್ತಮಮೋಡೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಶಿಷ್ಟ** ← ವಿಶಿಷ್ಟ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಪದ್ಮಿನೀಷಂಡಮರಲ್ದು** ← ಪದೆ + ಮು + ಈಷಂಡಮರಲ್ದು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪದ್ಮಿನೀಷಂಡಮರಲ್ದು [nominative, sg, neut./masc., sanskrit]
+- **ರಾಗದಿನೊಱಲ್ದಿರೆ** ← ರಾಗ + ಅದು + ಇಂ + ಒಱಲ್ದಿರೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ರಾಗದಿನೊಱಲ್ದಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಯಾಚಕ** ← ಯಾಚಕ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಭೃಂಗಕೋಟಿ** ← ಭೃಂಗ + ಕೋಟಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಭೃಂಗಕೋಟಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಕೈಕೊಂಡು** ← ಕೈಕೊಂಡು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ನಿರಂತರಂ** ← ನಿ + ರ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿರಂತರು [accusative, sg, neut., kannada]; ನಿರಂತರ್ [accusative, sg, neut., kannada]
+- **ತಗುಳ್ದು** ← ತಗುಳ್ [verb; past gerund, to pursue, follow] (lexicon) · rules 236, 217 · alt: ತಗುಳ್ದು [nominative, sg, neut./masc., kannada]
+- **ಕೀರ್ತಿಸೆ** ← ಕೀರ್ತಿಸು [verb; sati-saptamī (when …), to praise] (lexicon) · rules 246, 52 · alt: ಕೀರ್ತಿಸು [vocative, sg, neut., kannada]; ಕೀರ್ತಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಮಿಕ್ಕೆಸೆವ** ← ಮಿಗು + ಎಸೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಿಕ್ಕೆಸೆವ [vocative, sg, masc./neut./fem., kannada]
+- **ಪ್ರಚಂಡ** ← ಪ್ರಚಣ್ [verb; past relative participle] (inferred) · rules 241
+- **ಮಾರ್ತಾಂಡನಲರ್ಚುಗೆನ್ನ** ← ಮಾಱು + ಆನ್ + ಡ + ಅಲರ್ಚು + ಉಗು + ಆನ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಮಾರ್ತಾಂಡನಲರ್ಚುಗೆಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ಹೃದಯಾಂಬುಜಮಂ** ← ಹೃದಯ + ಆನ್ + ಬುಜಮು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಹೃದಯಾಂಬುಜಮು [accusative, sg, neut., sanskrit]; ಹೃದಯಾಂಬುಜ [accusative, sg, neut., sanskrit]
+- **ನಿಜ** ← ನಿಜ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ವಾಙ್ಮರೀಚಿಯಿಂ** ← ವಾಙ್ಮರೀಚಿಯು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಾಙ್ಮರೀಚಿ [instrumental, sg, neut./fem./masc., sanskrit]
+- **ಸಹಜದ** ← ಸಹಜ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಚೆಲ್ವಿನೊಳ್** ← ಚೆಲ್ವು [noun; locative, sg, neut., kannada] (inferred) · rules 108
+- **ರತಿಯ** ← ರತಿ [noun; genitive, sg, neut./fem./masc., kannada] (inferred) · rules 53
+- **ಸೋಲದ** ← ಸೋಲ್ + ತ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸೋಲ [genitive, sg, neut., kannada]
+- **ಕೇಳಿಕೆಯೊಳ್** ← ಕೇಳ್ + ಕೆಯ್ + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೇಳಿಕೆ [locative, sg, neut./fem., kannada]
+- **ಪೊದೞ್ದು** ← ಪೊ + ದೞ್ದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊದೞ್ದು [nominative, sg, neut./masc., kannada]
+- **ಸನ್ನಿಹಿತವೆನಿಪ್ಪ** ← ಸು + ಇಹಿತವೆನಿಪ್ಪ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಂನಿಹಿತವೆನಿಪ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೂರ್ವ** ← ಪೂರ್ವ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಶುಭಲಕ್ಷಣ** ← ಶುಭ + ಲಕ್ಷಣ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಶುಭಲಕ್ಷಣ [vocative, sg, masc./neut./fem., sanskrit]
+- **ದೇಹದೊಳೊಳ್ಪನಾಳ್ದು** ← ದೇಹದೊಳೊಳ್ಪನಾಳ್ದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಸಂದಹಿಕಟಕ** ← ಸಲ್ + ಅಹಿಕಟಕ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಂದಹಿಕಟಕ [vocative, sg, masc./neut./fem., kannada]
+- **ಪ್ರಸಾದದೆ** ← ಪ್ರಸಾದ [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 106 · alt: ಪ್ರಸಾದದೆ [nominative, sg, neut./fem., kannada]
+- **ಮನೋಜನುಮಂ** ← ಮನು + ಓಜ + ಉಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮನೋಜನುಮು [accusative, sg, neut., kannada]; ಮನೋಜನುಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಗೆಲೆವಂದನಾಗಳುಂಸಹಜಮನೋಜನೋಜನೆಮಗೀಗೆ** ← ಗೆಲೆವಂದನಾಗಳುಂಸಹಜಮನೋಜನೋಜನೆಮಗೀಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ವಿಚಿತ್ರ** ← ವಿಚಿತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ರತೋತ್ಸವಂಗಳಂ** ← ರತೋತ್ಸವಂಗಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ರತೋತ್ಸವ [accusative, pl, masc./neut./fem., kannada]; ರತೋತ್ಸವಂಗಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಕ್ಷಯಮಣಮಿಲ್ಲ** ← ಕ್ಷಯಮಣಮಿಲ್ಲ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಕೇಳ್ದು** ← ಕೇಳ್ [verb; past gerund, to hear, listen] (lexicon) · rules 236, 217 · alt: ಕೇಳ್ದು [nominative, sg, neut./masc., kannada]
+- **ಕಡೆಗಂಡವನಾವನುಮಿಲ್ಲೆನಲ್** ← ಕಡೆ + ಕಾಣ್ + ಅಂ + ಆವುದು + ಉಂ + ಇಲ್ಲ + ಎನ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕಡೆಗಂಡವನಾವನುಮಿಲ್ಲೆನಲ್ [nominative, sg, neut., kannada]
+- **ತದಕ್ಷಯನಿಧಿ** ← ತ + ಅಕ್ಷ + ಅ + ನಿಧಿ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತದಕ್ಷಯನಿಧಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ತಾನೆ** ← ತಾನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತನ್ನನೊಸೆದೋಲಗಿಪಂಗರಿದಿಲ್ಲೆನಿಪ್ಪ** ← ತಾನ್ + ಅಂ + ಒಸೆ + ಓಲಗ + ಇಸು + ಅಂ + ಕರ್ + ಇದು + ಇಲ್ಲ + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 11] (lexicon) · alt: ತಂನನೊಸೆದೋಲಗಿಪಂಗರಿದಿಲ್ಲೆನಿಪ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ವಾಙ್ಮಯಮನಿತರ್ಕಮಂಬಿಕೆ** ← ವಾಙ್ಮಯಮನಿತರ್ಕಮಂಬಿಕೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸರಸ್ವತಿ** ← ಸರಸ್ವತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (lexicon) · rules 105 · alt: ಸರಸ್ವತಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ಮನ್ಮುಖಪದ್ಮರಂಗದೇೞ್ಗೆಯನೆಡೆಗೊಂಡು** ← ಮನು + ಮುಖ + ಅಪ್ + ಅದು + ಮರೆ + ಅಂ + ಗದೆ + ಏೞ್ + ಗೆಯ್ + ಅಂ + ಎಡೆ + ಕೊಳ್ [phrase/compound; saṃhitā split into 12] (lexicon) · alt: ಮನ್ಮುಖಪದ್ಮರಂಗದೇೞ್ಗೆಯನೆಡೆಗೊಂಡು [nominative, sg, neut./masc., kannada]
+- **ಕೊಂಡುಕೊನೆದೀಗರಿಗಂಗೆ** ← ಕೊಳ್ + ಕೊನೆ + ಈ + ಅರಿ + ಅಂ + ಕೆ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕೊಂಡುಕೊನೆದೀಗರಿಗ [dative, sg, masc./fem., kannada]; ಕೊಂಡುಕೊನೆದೀಗರಿಗಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಶುದ್ಧ** ← ವಿಶುದ್ಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಬುದ್ಧಿಯಂ** ← ಬುದ್ಧಿಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಬುದ್ಧಿ [accusative, sg, neut./fem./masc., sanskrit]; ಬುದ್ಧಿಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತಿಸುಳದೊಳುಚ್ಚಳಿಪ್ಪ** ← ತಿಸುಳದೊಳುಚ್ಚಳಿಪ್ಪ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪೊಸ** ← ಪೊಸ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ನೆತ್ತರೆ** ← ನೆತ್ತರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕೆಂದಳಿರಾಗೆ** ← ಕೆಂದಳಿರ್ + ಆಗು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕೆಂದಳಿರಾಗೆ [nominative, sg, neut./fem., kannada]
+- **ಕಣ್ಗಗುರ್ವಿಸುವಿನಮೊಕ್ಕು** ← ಕಣ್ + ಅಗಿ + ಉರಿ + ಇ + ಸು + ಇಂ + ಅಂ + ಉಗು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಕಣ್ಗಗುರ್ವಿಸುವಿನಮೊಕ್ಕು [nominative, sg, neut./masc., kannada]
+- **ನೇಲ್ವ** ← ನೇಲ್ [verb; future relative participle, to hang, be suspended] (lexicon) · rules 221
+- **ಕರುಳೋಳಿಯೆ** ← ಕರ್ + ಉಳ್ + ಓಳಿಯೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕರುಳೋಳಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ಬಾಳಮೃಣಾಳಮಾಗೆ** ← ಬಾಳ್ + ಅಂ + ಋಣ + ಆಳ್ + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಬಾಳಮೃಣಾಳಮಾಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮಿಕ್ಕಸುರರ** ← ಮಿಗು + ಸುರ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಿಕ್ಕಸುರರ್ [genitive, sg, neut., kannada]; ಮಿಕ್ಕಸುರ [genitive, pl, masc., kannada]
+- **ಮೆಯ್ಯೊಳಾದ** ← ಮೆಯ್ + ಒಳ್ + ಆಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೆಯ್ಯೊಳಾದ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿರಹಾಗ್ನಿಯನಾಱಿಸುತಿಂತೆ** ← ವಿರಹಾಗ್ನಿಯನಾಱಿಸುತಿಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತನ್ನ** ← ತಾನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ಕೂರಸಿಯೊಳಡುರ್ತು** ← ಕೂರ್ + ಅಸಿ + ಒಳ್ + ಅಡು + ಉಱು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕೂರಸಿಯೊಳಡುರ್ತು [nominative, sg, neut./masc., kannada]
+- **ಕೊಂದಸಿಯಳಿರ್ಕಸಿಯೊಳ್** ← ಕೊಲ್ + ಅಸಿ + ಅಳೆ + ಇರ್ + ಅಸಿ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕೊಂದಸಿಯಳಿರ್ಕಸಿ [locative, sg, neut./fem./masc., kannada]
+- **ಪಡೆಮೆಚ್ಚೆ** ← ಪಡು + ಮೆಚ್ಚು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪಡೆಮೆಚ್ಚೆ [nominative, sg, neut./fem., kannada]
+- **ಗಂಡನಾ** ← ಗಂಡ [noun; genitive, sg, masc./fem., kannada] (lexicon) · rules 105, 117
+- **ಎನ್ನ** ← ಆನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146 · alt: ಎನ್ [infinitive, to say]; ಎಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ದಾನಮಿದಾಗಳುಂ** ← ದಾನಮಿದಾಗಳು [noun; nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada] (inferred) · rules 105 · alt: ದಾನಮಿದಾಗಳು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಮಧುಪಾಶ್ರಯಂ** ← ಮಧು + ಉಗು + ಆಶ್ರಯು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಧುಪಾಶ್ರಯು [accusative, sg, neut., sanskrit]; ಮಧುಪಾಶ್ರಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಧರೆಗವ್ಯವಚ್ಛಿನ್ನ** ← ಧರೆಗವ್ಯವಚ್ಛಿಂನ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದಾನಮಿದಾಗಳುಂ** ← ದಾನಮಿದಾಗಳು [noun; nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada] (inferred) · rules 105 · alt: ದಾನಮಿದಾಗಳು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ವಿಬುಧಾಶ್ರಯಂ** ← ವಿಬುಧಾಶ್ರಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿಬುಧಾಶ್ರಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಗೆಲೆವಂದನೆನ್ನನ್ನಿಜೋನ್ನತಿಯಿಂದಮೀ** ← ಗೆಲೆವಂದನೆಂನಂನಿಜೋಂನತಿಯಿಂದಮಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ಪತಿಯೆಂದು** ← ಪತಿಯೆಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಮೆಚ್ಚಿ** ← ಮೆಚ್ಚು [verb; past gerund, to approve, like, be pleased with] (lexicon) · rules 236, 52 · alt: ಮೆಚ್ಚಿ [nominative, sg, neut./fem./masc., kannada]
+- **ವಿನಾಯಕಂತಾನ್ನಿಮಿರ್ಚುಗೆ** ← ವಿನಾಯಕ + ಅಂ + ತಾನ್ + ನಿಮಿರ್ಚು + ಉಗು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ವಿನಾಯಕಂತಾಂನಿಮಿರ್ಚು [dative, sg, masc., kannada]; ವಿನಾಯಕಂತಾಂನಿಮಿರ್ಚುಗೆ [nominative, sg, neut./fem., kannada]
+- **ಕಬ್ಬಮಂ** ← ಕಬ್ಬ [noun; accusative, sg, neut., kannada] (lexicon) · rules 106, 161 · alt: ಕಬ್ಬಮು [accusative, sg, neut., kannada]; ಕಬ್ಬಮ [nominative, sg, masc./neut./fem., kannada]
+- **ನಯದಿಂ** ← ನಯ [noun; instrumental, sg, neut., kannada] (lexicon) · rules 106, 161 · alt: ನಯದು [instrumental, sg, neut., kannada]
+- **ಗುಣಾರ್ಣವ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವ [vocative, sg, masc./neut./fem., kannada]
+- **ಭೂಪನಾ** ← ಭೂ + ಪ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಭೂಪ [genitive, sg, masc./fem., sanskrit]
+- **ಬಗೆ** ← ಬಗೆ [verb; imperative/optative, sg, 2, to consider, reflect, think; (n.) the mind] (lexicon) · rules 230 · alt: ಬಗೆ [nominative, sg, neut./fem., kannada]; ಬಗೆ [vocative, sg, neut./fem., kannada]
+- **ಪೊಸತಪ್ಪುದಾಗಿ** ← ಪೊಸತು + ಆಗು + ಉದು + ಆಗು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೊಸತಪ್ಪುದಾಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮೃದುಬಂಧದೊಳೊಂದುವುದೊಂದಿ** ← ಮೃದುಬಂಧದೊಳೊಂದುವುದೊಂದಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ದೇಸಿಯೊಳ್ಪುಗುವುದು** ← ದೇಸಿಯೊಳ್ಪುಗುವುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ದೇಸಿಯೊಳ್ಪುಗು [future/present, sg, neut., 3]
+- **ಪೊಕ್ಕ** ← ಪುಗು [verb; past relative participle, to enter] (lexicon) · rules 239
+- **ಮಾರ್ಗದೊಳೆ** ← ಮಾರ್ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮಾರ್ಗದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ತಳ್ವುದು** ← ತಳ್ವು + ಉದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಳ್ವುದು [nominative, sg, neut./masc., sanskrit]; ತಳ್ [future/present, sg, neut., 3]
+- **ತಳ್ತೊಡೆ** ← ತಳಿ + ತೊಡೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಳ್ತೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಕಾವ್ಯಬಂಧಮೊಪ್ಪುಗುಮೆಳಮಾವು** ← ಕಾ + ಅ + ಬಂಧ + ಅಂ + ಒಪ್ಪು + ಉಗು + ಉಂ + ಎಳ್ + ಅಂ + ಆವು [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಕಾವ್ಯಬಂಧಮೊಪ್ಪುಗುಮೆಳಮಾವು [nominative, sg, neut./masc., kannada]
+- **ಕೆಂದಳಿರ** ← ಕೆಂದಳಿರ್ [noun; genitive, sg, neut., kannada] (lexicon)
+- **ಪೂವಿನ** ← ಪೂವು [noun; genitive, sg, neut., kannada] (lexicon) · rules 108
+- **ಬಿಣ್ಪೊಱೆಯಿಂ** ← ಬಿಣ್ಪೊಱೆಯು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಿಣ್ಪೊಱೆ [instrumental, sg, neut./fem., kannada]
+- **ಬೞಲ್ದು** ← ಬೞಲ್ [verb; past gerund, to be weary] (lexicon) · rules 236, 217 · alt: ಬೞಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ತುಂಬಿಗಳಿನೆ** ← ತುಂಬು + ಗಳ + ಇನೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತುಂಬಿಗಳಿನೆ [nominative, sg, neut./fem., kannada]
+- **ತುಂಬಿ** ← ತುಂಬು [verb; past gerund, to become full, fill; (noun) stalk of a flower; sluice] (lexicon) · rules 236, 52 · alt: ತುಂಬಿ [nominative, sg, neut./fem./masc., kannada]; ತುಂಬಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಕೋಗಿಲೆಯೆ** ← ಕೋ + ಇಲೆಯೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕೋಗಿಲೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಬಗ್ಗಿಸೆ** ← ಬಗ್ಗಿಸು [noun; vocative, sg, neut., kannada] (lexicon) · rules 123, 52, 124 · alt: ಬಗ್ಗಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಸುಗ್ಗಿಯೊಳೊಪ್ಪುವಂತೆವೋಲ್** ← ಸುಗಿ + ಕಿ + ಒಪ್ಪು + ಉದು + ಅಂತೆ + ವೋಲ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಸುಗ್ಗಿಯೊಳೊಪ್ಪುವಂತೆವೋಲ್ [nominative, sg, neut., kannada]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ಸಕಳಾರ್ಥ** ← ಸಕಳಾರ್ಥ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಸಂಯುತಮಳಂಕೃತಿಯುಕ್ತಮುದಾತ್ತವೃತ್ತಿ** ← ಸಂಯುತಮಳಂಕೃತಿಯುಕ್ತಮುದಾತ್ತವೃತ್ತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ವಿನ್ಯಾಸಮನೇಕ** ← ವಿನ್ಯಾಸಮನೇಕ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಲಕ್ಷಣಗುಣಪ್ರಭವಂ** ← ಲಕ್ಷಣ + ಗುಣ + ಪ್ರಭು + ಅದು + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಲಕ್ಷಣಗುಣಪ್ರಭವು [accusative, sg, neut., sanskrit]; ಲಕ್ಷಣಗುಣಪ್ರಭವ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮೃದುಪಾದಮಾದ** ← ಮೃದುಪಾದಮಾದ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ವಾಕ್ಛ್ರೀ** ← ವಾಕ್ಛ್ರಿ [noun; vocative, sg, neut./fem./masc., sanskrit] (inferred) · rules 123, 123
+- **ಸುಭಗಂ** ← ಸುಭಗ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಸುಭಗು [accusative, sg, neut., sanskrit]
+- **ಕಳಾಕಳಿತಮೆಂಬ** ← ಕಳ್ + ಅದು + ಅಳಿತಮೆಂಬ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕಳಾಕಳಿತಮೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ನೆಗೞ್ತೆಯನಾಳ್ದ** ← ನೆಗೆ + ಅೞ್ + ಎಯನಾಳ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನೆಗೞ್ತೆಯನಾಳ್ [past relative participle]
+- **ಕಬ್ಬಮಂಕೂಸುಮನೀವುದೀವುದರಿಕೇಸರಿಗಲ್ಲದವಸ್ತುಗೀವುದೇ** ← ಕಬ್ಬ + ಅಂ + ಅಂ + ಕೂಸು + ಉಂ + ಅಂ + ಈ + ಉದು + ಈ + ಉದು + ಅರಿ + ಕೇ + ಸರಿ + ಅಲ್ಲ + ಅದು + ಅದು + ಅಸ್ತುಗೀವುದು [phrase/compound; saṃhitā split into 17] (inferred) · alt: ಕಬ್ಬಮಂಕೂಸುಮನೀವುದೀವುದರಿಕೇಸರಿಗಲ್ಲದವಸ್ತುಗೀವುದು [vocative, sg, neut., kannada]; ಕಬ್ಬಮಂಕೂಸುಮನೀವುದೀವುದರಿಕೇಸರಿಗಲ್ಲದವಸ್ತುಗೀವುದೆ [vocative, sg, neut./fem., kannada]
+- **ಕವಿಗಳ** ← ಕವಿ [noun; genitive, pl, neut./fem./masc., sanskrit] (lexicon) · rules 95
+- **ನಾಮಧಾರಕ** ← ನಾ + ಮಧು + ಆವುದು + ಅಕ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನಾಮಧಾರಕ [vocative, sg, masc./neut./fem., sanskrit]
+- **ನರಾಧಿಪರೋಳಿಯೊಳೀತನೊಳ್ಳಿದಂಕವಿ** ← ನರಾಧಿಪರೋಳಿಯೊಳೀತನೊಳ್ಳಿದಂಕವಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ನೃಪನೀತನೊಳ್ಳಿದನೆನಲ್** ← ನೃಪ + ಅಂ + ಇದು + ಒಳ್ + ಇದು + ಅಂ + ಎನ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ನೃಪನೀತನೊಳ್ಳಿದನೆನಲ್ [nominative, sg, neut., kannada]
+- **ದೊರೆಯಲ್ತು** ← ದೊರೆಯಲ್ತು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ನೆಗೞ್ತೆವೆತ್ತ** ← ನೆಗೆ + ಅೞ್ + ಎವೆಱು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನೆಗೞ್ತೆವೆಱು [past relative participle]
+- **ಸತ್ಕವಿಗಳ** ← ಸತ್ + ಕವಿ + ಗಳ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸತ್ಕವಿ [genitive, pl, neut./fem./masc., sanskrit]
+- **ಷೋಡಶಾವನಿಪರೋಳಿಯೊಳಂ** ← ಷೋಡಶಾವನಿಪರೋಳಿಯೊಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಷೋಡಶಾವನಿಪರೋಳಿಯೊಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಕವಿತಾಗುಣಾರ್ಣವಂಕವಿತೆಯೊಳಗ್ಗಳಂ** ← ಕವಿತಾಗುಣಾರ್ಣವಂಕವಿತೆಯೊಳಗ್ಗಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಕವಿತಾಗುಣಾರ್ಣವಂಕವಿತೆಯೊಳಗ್ಗಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಗುಣದೊಳಗ್ಗಳಮೆಲ್ಲಿಯುಮಾ** ← ಗುಣ + ಅದು + ಒಳಗೆ + ಗಳ + ಅಂ + ಎಲೆ + ಲಿಯುಮ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಗುಣದೊಳಗ್ಗಳಮೆಲ್ಲಿಯುಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಗುಣಾರ್ಣವಂ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವು [accusative, sg, neut., kannada]; ಗುಣಾರ್ಣವ [nominative, sg, masc./neut./fem., kannada]
+- **ಕತೆ** ← ಕತೆ [noun; nominative, sg, neut./fem., kannada] (lexicon) · rules 105 · alt: ಕತೆ [vocative, sg, neut./fem., kannada]
+- **ಪಿರಿದಾದೊಡಂ** ← ಪಿರಿದು + ಆಗು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪಿರಿದಾದೊಡು [accusative, sg, neut., kannada]; ಪಿರಿದಾದೊಡ [nominative, sg, masc./neut./fem., kannada]
+- **ಕತೆಯ** ← ಕತೆ [noun; genitive, sg, neut./fem., kannada] (lexicon) · rules 53
+- **ಮೆಯ್ಗಿಡಲೀಯದೆ** ← ಮೆಯ್ + ಕಿಡು + ಈ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೆಯ್ಗಿಡಲೀಯ [instrumental, sg, neut., kannada]; ಮೆಯ್ಗಿಡಲೀಯದೆ [nominative, sg, neut./fem., kannada]
+- **ಮುಂ** ← ಮು [noun; nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada] (lexicon) · rules 105 · alt: ಮು [vocative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಸಮಸ್ತ** ← ಸಮೆ + ಅಸು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಮಸ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ಭಾರತಮನಪೂರ್ವಮಾಗೆ** ← ಭಾರತಮನಪೂರ್ವಮಾಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸಲೆ** ← ಸಲೆ [avyaya; always, constantly] (lexicon) · alt: ಸಲ್ [sati-saptamī (when …), to enter, go into; to be renowned; to be valid]; ಸಲೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ದ** ← ಪೇೞ್ [verb; past relative participle, to tell] (lexicon) · rules 221
+- **ಕವೀಶ್ವರರಿಲ್ಲ** ← ಕವಿ + ಈಶ್ವರ + ಅರೆ + ಇಲ್ಲ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕವೀಶ್ವರರಿಲ್ಲ್ [genitive, sg, neut., sanskrit]
+- **ವರ್ಣಕಂಕತೆಯೊಳೊಡಂಬಡಂ** ← ವರ್ಣ + ಅಂ + ಕತೆ + ಒಳ್ + ಒಡ್ + ಅಂ + ಬಡಿ + ಅಂ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ವರ್ಣಕಂಕತೆಯೊಳೊಡಂಬಡು [accusative, sg, neut., kannada]; ವರ್ಣಕಂಕತೆಯೊಳೊಡಂಬಡ [nominative, sg, masc./neut./fem., kannada]
+- **ಪಡೆಯೆ** ← ಪಡೆ [verb; sati-saptamī (when …), to obtain, acquire; (n.) an army] (lexicon) · rules 246, 53 · alt: ಪಡೆ [vocative, sg, neut./fem., kannada]; ಪಡೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ವೊಡೆ** ← ಪೇೞ್ [verb; conditional -oḍe, to tell] (lexicon) · rules 250, 217 · alt: ಪೇೞ್ವೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಪಂಪನೆ** ← ಪಂಪನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೇೞ್ಗುಮೆಂದು** ← ಪೇೞ್ + ಗುಮೆಂದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೇೞ್ಗುಮೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಪಂಡಿತರೆ** ← ಪಣ್ + ಇತರೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪಂಡಿತರೆ [nominative, sg, neut./fem., kannada]
+- **ತಗುಳ್ದು** ← ತಗುಳ್ [verb; past gerund, to pursue, follow] (lexicon) · rules 236, 217 · alt: ತಗುಳ್ದು [nominative, sg, neut./masc., kannada]
+- **ಬಿಚ್ಚೞಿಸೆ** ← ಬಿಚ್ಚೞಿಸೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೇೞಲೊಡರ್ಚಿದೆನೀ** ← ಪೇೞ್ + ಒಡರ್ಚು + ಇದು + ಎನಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಪೇೞಲೊಡರ್ಚಿದೆನಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಪ್ರಬಂಧಮಂ** ← ಪ್ರಬಂಧಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪ್ರಬಂಧ [accusative, sg, neut., sanskrit]; ಪ್ರಬಂಧಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಲಲಿತಪದಂ** ← ಲಲಿತಪದು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಲಲಿತಪದ [nominative, sg, masc./neut./fem., kannada]
+- **ಪ್ರಸನ್ನ** ← ಪ್ರಸಂನ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕವಿತಾಗುಣಮಿಲ್ಲದೆ** ← ಕವಿ + ತಾಗು + ಉಣ್ + ಅಂ + ಇಲ್ಲ + ಅದೆ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಕವಿತಾಗುಣಮಿಲ್ಲ [instrumental, sg, neut., kannada]; ಕವಿತಾಗುಣಮಿಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ಪೂಣ್ದು** ← ಪೂಣ್ [verb; past gerund, to vow, promise, undertake] (lexicon) · rules 236, 217 · alt: ಪೂಣ್ದು [nominative, sg, neut./masc., kannada]
+- **ಪೇೞ್ದ** ← ಪೇೞ್ [verb; past relative participle, to tell] (lexicon) · rules 221
+- **ಬೆಳ್ಗಳ** ← ಬೆಳು + ಗಳ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೆಳ್ಗಳ [vocative, sg, masc./neut./fem., kannada]
+- **ಕೃತಿಬಂಧಮುಂ** ← ಕೃತಿಬಂಧು [noun; accusative, sg, neut., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 52, 161 · alt: ಕೃತಿಬಂಧ [nominative, sg, masc./neut./fem., -uṃ 'and/also' (122), sanskrit]; ಕೃತಿಬಂಧಮು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]
+- **ಬರೆಪಕಾಱರ** ← ಬರ್ + ಎಪಕಾಱರ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬರೆಪಕಾಱರ್ [genitive, sg, neut., kannada]; ಬರೆಪಕಾಱ [genitive, pl, masc., kannada]
+- **ಕೈಗಳ** ← ಕೈಗಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕೇಡು** ← ಕೇಡು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ಕೇಡು [vocative, sg, neut./masc., kannada]
+- **ನುಣ್ಣನಪ್ಪಳಕದ** ← ನುಣ್ + ಅಂ + ಆಗು + ಅಳಕ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನುಣ್ಣನಪ್ಪಳಕ [genitive, sg, neut., kannada]
+- **ಕೇಡು** ← ಕೇಡು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ಕೇಡು [vocative, sg, neut./masc., kannada]
+- **ಪೇೞಿಸಿದೊಡರ್ಥದ** ← ಪೇೞ್ + ಇಸು + ಇದು + ಒಡ್ + ಅರೆ + ಥ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಪೇೞಿಸಿದೊಡರ್ಥ [genitive, sg, neut., kannada]
+- **ಕೇಡೆನೆ** ← ಕೇಡು + ಎನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕೇಡೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ದು** ← ಪೇೞ್ [verb; past gerund, to tell] (lexicon) · rules 236, 217 · alt: ಪೇೞ್ದು [nominative, sg, neut./masc., kannada]
+- **ಬೀಗಿ** ← ಬೀಗು [verb; past gerund, to be elated; to swell, grow bulky] (lexicon) · rules 236, 52 · alt: ಬೀಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೊಟ್ಟಳಿಸಿ** ← ಪೊ + ಟ್ಟಳಿಸಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊಟ್ಟಳಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನೆಗೞ್ತೆಗಾಟಿಸುವ** ← ನೆಗೞ್ + ತೆಗೆ + ಆಟ + ಇಸು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನೆಗೞ್ತೆಗಾಟಿಸು [genitive, sg, masc., kannada]
+- **ದುಷ್ಕವಿಯುಂ** ← ದುಷ್ಕವಿಯು [noun; nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 105 · alt: ದುಷ್ಕವಿ [nominative, sg, neut./fem./masc., -uṃ 'and/also' (122), sanskrit]; ದುಷ್ಕವಿಯು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), sanskrit]
+- **ಕವಿಯೆಂಬ** ← ಕವಿ + ಎನ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕವಿಯೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಲೆಕ್ಕಮೇ** ← ಲೆಕ್ಕ [noun; vocative, sg, neut., kannada] (lexicon) · rules 123, 124, 124
+- **ವ್ಯಾಸಮುನೀಂದ್ರ** ← ವ್ಯಾಸಮುನೀಂದ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ರುಂದ್ರ** ← ರುಂದ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ವಚನಾಮೃತವಾರ್ಧಿಯನೀಸುವೆಂ** ← ವಚನಾಮೃತವಾರ್ಧಿಯನೀಸು [verb; future/present, sg, 1] (inferred) · rules 221, 217, 161 · alt: ವಚನಾಮೃತವಾರ್ಧಿಯನೀಸು [future/present, pl, 1]
+- **ಕವಿವ್ಯಾಸನೆನೆಂಬ** ← ಕವಿ + ಇದು + ಆಸು + ಎನೆ + ಎನ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕವಿವ್ಯಾಸನೆನೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಗರ್ವಮೆನಗಿಲ್ಲ** ← ಗರ್ವಮೆನಗಿಲ್ಲ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಗುಣಾರ್ಣವನೊಳ್ಪು** ← ಗುಣ + ಆವುದು + ಣವನೊಳ್ಪು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವನೊಳ್ಪು [nominative, sg, neut./masc., kannada]
+- **ಮನ್ಮನೋವಾಸಮನೆಯ್ದೆ** ← ಮು + ಅಂ + ಓವು + ಆಸು + ಅಂ + ಅಂ + ಎಯ್ದೆ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಮನ್ಮನೋವಾಸಮನೆಯ್ದೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ದಪೆನದಲ್ಲದೆ** ← ಪೇೞ್ + ಅಪ್ + ಎನೆ + ಅದು + ಅಲ್ಲದೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೇೞ್ದಪೆನದಲ್ಲ [instrumental, sg, neut., kannada]; ಪೇೞ್ದಪೆನದಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ಗರ್ವಮೆ** ← ಗರ್ವಮೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ದೋಷಮೞ್ತಿಗಂದೋಷಮೆ** ← ದೋಷ + ಅಂ + ಅೞ್ + ತಿ + ಅಂ + ದೋಷಮೆ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ದೋಷಮೞ್ತಿಗಂದೋಷಮೆ [nominative, sg, neut./fem., kannada]
+- **ಕಾಣೆನೆನ್ನಱವ** ← ಕಾಣ್ + ಎನೆ + ಆನ್ + ಅಱ್ + ಅವು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕಾಣೆನೆಂನಱವ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಾೞ್ಕೆಯೆ** ← ಮಾಡು + ಎ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾೞ್ಕೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ವೆನಿದಾವ** ← ಪೇೞ್ + ಎನೆ + ಇದು + ಆವ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೇೞ್ವೆನಿದಾವ [vocative, sg, masc./neut./fem., kannada]
+- **ದೋಷಮೋ** ← ದೋಷ + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ದೋಷ [nominative, sg, masc./neut./fem., -ō doubt/admiration (56–57), sanskrit]; ದೋಷು [accusative, sg, neut., -ō doubt/admiration (56–57), sanskrit]
+- **ವಿಪುಳ** ← ವಿಪುಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಯಶೋವಿತಾನ** ← ಯಶೋವಿತಾನ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಗುಣಮಿಲ್ಲದನಂ** ← ಗುಣ + ಅಂ + ಇಲ್ಲ + ಅದು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಗುಣಮಿಲ್ಲದನು [accusative, sg, neut., kannada]; ಗುಣಮಿಲ್ಲದ [accusative, sg, masc./neut./fem., kannada]
+- **ಪ್ರಭು** ← ಪ್ರಭು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ಪ್ರಭು [vocative, sg, neut./masc., sanskrit]
+- **ಮಾಡಿ** ← ಮಾಡು [verb; past gerund, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 236, 52 · alt: ಮಾಡಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೂರ್ವ** ← ಪೂರ್ವ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಭೂಮಿಪರ** ← ಭೂ + ಮಿಗು + ಅರ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಭೂಮಿಪರ್ [genitive, sg, neut., sanskrit]; ಭೂಮಿಪ [genitive, pl, masc., sanskrit]
+- **ಪದಂಗಳಂ** ← ಪದ [noun; accusative, pl, masc./neut./fem., kannada] (lexicon) · rules 102, 103, 161 · alt: ಪದಂಗಳು [accusative, sg, neut., kannada]; ಪದಂಗಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಪುಗಿಸಿ** ← ಪುಗು + ಇಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪುಗಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೋಲಿಪೊಡೀತನುದಾತ್ತ** ← ಪೋಲ್ + ಇಸು + ಇದು + ಉದು + ಆತ್ತ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಪೋಲಿಪೊಡೀತನುದಾಱು [past relative participle]
+- **ಪೂರ್ವ** ← ಪೂರ್ವ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಭೂಮಿಪರುಮನೊಳ್ಪಿನೊಳ್** ← ಭೂ + ಮಿಗು + ಅರೆ + ಉಂ + ಅಂ + ಒಳ್ + ಪು [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಭೂಮಿಪರುಮನೊಳ್ಪು [locative, sg, neut., kannada]
+- **ತಗುಳೆವಂದೊಡೆಯಾ** ← ತಗುಳ್ + ಅಂ + ತೊಡೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಗುಳೆವಂದೊಡೆ [genitive, sg, neut./fem., kannada]
+- **ಕಥೆಯೊಳ್** ← ಕಥೆ [noun; locative, sg, neut./fem., kannada] (inferred) · rules 53
+- **ತಗುಳ್ಚಿ** ← ತಗುಳ್ಚು [verb; past gerund, to set about, engage in; to set fire to] (lexicon) · rules 236, 52 · alt: ತಗುಳ್ಚಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೋಲಿಪೊಡೆನಗೞ್ತಿಯಾದುದು** ← ಪೋಲ್ + ಇಸು + ಎನೆ + ಅಗೞ್ + ತಿ + ಆಗು + ಉದು [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಪೋಲಿಪೊಡೆನಗೞ್ತಿಯಾದುದು [nominative, sg, neut./masc., kannada]
+- **ಗುಣಾರ್ಣವ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವ [vocative, sg, masc./neut./fem., kannada]
+- **ಭೂಭುಜನಂ** ← ಭೂ + ಭುಜ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಭೂಭುಜನು [accusative, sg, neut., sanskrit]; ಭೂಭುಜ [accusative, sg, masc./neut./fem., sanskrit]
+- **ಕಿರೀಟಿಯೊಳ್** ← ಕಿರಿ + ಈಟಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಿರೀಟಿ [locative, sg, neut./fem./masc., kannada]
+- **ಶ್ರೀಮಚ್ಚಳುಕ್ಯ** ← ಶ್ರೀ + ಮಚ್ಚು + ಅಳುಕ್ಯ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಶ್ರೀಮಚ್ಚಳುಕ್ಯ [vocative, sg, masc./neut./fem., sanskrit]
+- **ವಂಶವ್ಯೋಮಾಮೃತಕಿರಣನೆನಿಪ** ← ವಂಶ + ಅದು + ಓ + ಮಾ + ಮೃತ + ಇರ್ + ಅಣೆ + ಅಂ + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ವಂಶವ್ಯೋಮಾಮೃತಕಿರಣನೆನಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಕಾಂತಿಯನೊಳಕೊಂಡೀ** ← ಕಾ + ತಿ + ಅಂ + ಒಳ್ + ಅಕೊಂಡಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಕಾಂತಿಯನೊಳಕೊಂಡಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಮಹಿಯೊಳಾತ್ಮವಂಶಶಿಖಾಮಣಿ** ← ಮಹಿಯೊಳಾತ್ಮವಂಶಶಿಖಾಮಣಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಜಸಮೆಸೆಯೆ** ← ಜಸ + ಅಂ + ಎಸೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಜಸಮೆಸೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಯುದ್ಧಮಲ್ಲಂ** ← ಯುದ್ಧ + ಅಂ + ಅಲ್ಲ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಯುದ್ಧಮಲ್ಲು [accusative, sg, neut., sanskrit]; ಯುದ್ಧಮಲ್ಲ್ [accusative, sg, neut., sanskrit]
+- **ನೆಗೞ್ದಂ** ← ನೆಗೞ್ [verb; past, sg, masc./human, 3, to undertake; to be famous; also a crocodile] (lexicon) · rules 221, 217, 161 · alt: ನೆಗೞ್ದು [accusative, sg, neut., kannada]; ನೆಗೞ್ದ [nominative, sg, masc./neut./fem., kannada]
+- **ಆತಂ** ← ಅದು [pronoun; nominative, sg, masc.] (lexicon) · rules 105, 161 · alt: ಆತ [nominative, sg, masc./neut./fem., kannada]; ಆತು [accusative, sg, neut., kannada]
+- **ನಿಜಭುಜವಿಜಯಖ್ಯಾತಿಯನಾಳ್ದಾಳ್ದನಧಿಕಬಲನವನಿಪತಿವ್ರಾತ** ← ನಿಜಭುಜವಿಜಯಖ್ಯಾತಿಯನಾಳ್ದಾಳ್ದನಧಿಕಬಲನವನಿಪತಿವ್ರಾತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಮಣಿಮಕುಟಕಿರಣದ್ಯೋತಿತಪಾದಂ** ← ಮಣಿ + ಮಕುಟ + ಇರ್ + ಅಣೆ + ಅದು + ಓ + ತಿ + ತಪ + ಆಗು + ಅಂ [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಮಣಿಮಕುಟಕಿರಣದ್ಯೋತಿತಪಾದು [accusative, sg, neut., sanskrit]; ಮಣಿಮಕುಟಕಿರಣದ್ಯೋತಿತಪಾದ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸಪಾದಲಕ್ಷ** ← ಸಪಾದಲಕ್ಷ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕ್ಷಿತಿಯಂ** ← ಕ್ಷಿತಿಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕ್ಷಿತಿ [accusative, sg, neut./fem./masc., sanskrit]; ಕ್ಷಿತಿಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಏನಂ** ← ಏನ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಏನು [accusative, sg, neut., kannada]
+- **ಪೇೞ್ವುದೊ** — ❓ not derivable with the rules + lexicon
+- **ಸಿರಿಯುದ್ದಾನಿಯನೆಣ್ಣೆಯೊಳೆ** ← ಸಿರಿ + ಉದು + ತ + ನಿ + ಅಂ + ಎಣ್ + ಎಯೊಳೆ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಸಿರಿಯುದ್ದಾನಿಯನೆಣ್ಣೆಯೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ತೀವಿ** ← ತೀವು [verb; past gerund, to fill, become full] (lexicon) · rules 236, 52 · alt: ತೀವಿ [nominative, sg, neut./fem./masc., kannada]
+- **ದೀರ್ಘಿಕೆಗಳನಂತಾ** ← ದೀರ್ಘಿಕೆಗಳನಂತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ನೃಪತಿ** ← ನೃಪತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನಿಚ್ಚಲಯ್ನೂಱಾನೆಯನವಗಾಹಮಿರಿಸುವಂ** ← ನಿಚ್ಚಲಯ್ನೂಱಾನೆಯನವಗಾಹಮಿರಿಸುವು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ನಿಚ್ಚಲಯ್ನೂಱಾನೆಯನವಗಾಹಮಿರಿಸು [accusative, sg, neut./masc., kannada]; ನಿಚ್ಚಲಯ್ನೂಱಾನೆಯನವಗಾಹಮಿರಿಸುವ [nominative, sg, masc./neut./fem., kannada]
+- **ಬೋದನದೊಳ್** ← ಬೋದನ [noun; locative, sg, neut., kannada] (inferred) · rules 106
+- **ಶ್ರೀಪತಿಗೆ** ← ಶ್ರೀ + ಪತಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಶ್ರೀಪತಿ [dative, sg, neut./fem./masc., sanskrit]; ಶ್ರೀಪತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಯುದ್ಧಮಲ್ಲ** ← ಯುದ್ಧ + ಅಂ + ಅಲ್ಲ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಯುದ್ಧಮಲ್ಲ್ [genitive, sg, neut., sanskrit]
+- **ಮಹೀಪತಿಗೆ** ← ಮಹೀಪತಿ [noun; dative, sg, neut./fem./masc., kannada] (inferred) · rules 113 · alt: ಮಹೀಪತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ತೆ** ← ನೆಗೆ + ಅೞ್ತೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೆಗೞ್ತೆ [nominative, sg, neut./fem., kannada]
+- **ಪುಟ್ಟೆ** ← ಪುಟ್ಟು [verb; sati-saptamī (when …), to be born, arise; (n.) a wooden ladle, an oar] (lexicon) · rules 246, 52 · alt: ಪುಟ್ಟು [vocative, sg, neut., kannada]; ಪುಟ್ಟೆ [nominative, sg, neut./fem., kannada]
+- **ಪುಟ್ಟಿದನಖಿಳಕ್ಷ್ಮಾಪಾಲ** ← ಪುಟ್ಟು + ಇದು + ಅಂ + ಅಖಿಳಕ್ಷ್ಮಾಪಾಲ್ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಪುಟ್ಟಿದನಖಿಳಕ್ಷ್ಮಾಪಾಲ್ [genitive, sg, neut., sanskrit]
+- **ಮೌಳಿಮಣಿ** ← ಮೌಳಿಮಣಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಕಿರಣಾಪಾಳಿತ** ← ಕಿರಿ + ಅಣೆ + ಆಗು + ಆಳಿ + ತ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕಿರಣಾಪಾಳಿತ [vocative, sg, masc./neut./fem., kannada]
+- **ನಖಮಯೂಖರಂಜಿತ** ← ನಖ + ಅಂ + ಅಯೂಖರಂಜಿತ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಖಮಯೂಖರಂಜಿತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಚರಣಂ** ← ಚರ + ಅಣೆ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಚರಣು [accusative, sg, neut., kannada]; ಚರಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಅರಿಕೇಸರಿಯೆಂಬಂ** ← ಅರಿ + ಕೇ + ಸರಿ + ಎನ್ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಅರಿಕೇಸರಿಯೆಂಬು [accusative, sg, neut., kannada]; ಅರಿಕೇಸರಿಯೆಂಬ [nominative, sg, masc./neut./fem., kannada]
+- **ಸುಂದರಾಂಗನತ್ಯಂತ** ← ಸುಂದು + ಅರೆ + ಆನ್ + ಗನತ್ಯಂತ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸುಂದರಾಂಗನತ್ಯಂತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ವಸ್ತುವಂ** ← ವಸು + ತು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಸ್ತುವು [accusative, sg, neut., kannada]; ವಸ್ತು [accusative, sg, neut./masc., kannada]
+- **ಮದಕರಿಯಂಹರಿಯಂ** ← ಮದ + ಅರಿ + ಅಂ + ಹರಿ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮದಕರಿಯಂಹರಿಯು [accusative, sg, neut., kannada]; ಮದಕರಿಯಂಹರಿ [accusative, sg, neut./fem./masc., kannada]
+- **ಪಡಿವಡೆಗುರ್ಚಿದಕರವಾಳನೆ** ← ಪಡು + ಇದು + ಅಡೆ + ಉರ್ಚು + ಇದ + ಅರೆ + ಅದು + ಆಳನೆ [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಪಡಿವಡೆಗುರ್ಚಿದಕರವಾಳನೆ [nominative, sg, neut./fem., kannada]
+- **ತೋಱಿ** ← ತೋಱು [verb; past gerund, to appear, show] (lexicon) · rules 236, 52 · alt: ತೋಱಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನೃಪತಿ** ← ನೃಪತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಗೆಲ್ಲಂಗೊಂಡಂ** ← ಗೆಲ್ + ಲ + ಕೊಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಗೆಲ್ಲಂಗೊಂಡು [accusative, sg, neut., kannada]; ಗೆಲ್ಲಂಗೊಂಡ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿರುಪಮ** ← ನಿರುಪಮ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದೇವನ** ← ದೇವ [noun; genitive, sg, masc./fem., sanskrit] (lexicon) · rules 105
+- **ರಾಜ್ಯದೊಳರಿಕೇಸರಿ** ← ರಾಜ + ಯದ್ + ಒಳ್ + ಅರೆ + ಇಕೇಸರಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ರಾಜ್ಯದೊಳರಿಕೇಸರಿ [nominative, sg, neut./fem./masc., kannada]
+- **ವೆಂಗಿವಿಷಯಮಂ** ← ವೆಂಗಿವಿಷಯಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವೆಂಗಿವಿಷಯ [accusative, sg, neut., kannada]; ವೆಂಗಿವಿಷಯಮ [nominative, sg, masc./neut./fem., kannada]
+- **ತ್ರಿಕಳಿಂಗಂಬೆರಸೊತ್ತಿಕೊಂಡು** ← ತ್ರಿ + ಕಳ್ + ಇಂ + ಗಂಬೆರಸೊತ್ತಿಕೊಂಡು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ತ್ರಿಕಳಿಂಗಂಬೆರಸೊತ್ತಿಕೊಂಡು [nominative, sg, neut./masc., kannada]
+- **ಗರ್ವದೆಬರೆಯಿಸಿದಂ** ← ಗರ್ವದೆಬರೆಯಿಸಿದು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಗರ್ವದೆಬರೆಯಿಸಿದ [nominative, sg, masc./neut./fem., kannada]; ಗರ್ವದೆಬರೆಯಿಸು [past, sg, masc./human, 3]
+- **ಪೆಸರನಖಿಳ** ← ಪೆಸರನಖಿಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದಿಗ್ಭಿತ್ತಿಗಳೊಳ್** ← ದಿಗ್ಭಿತ್ತಿ [noun; locative, pl, neut./fem./masc., sanskrit] (inferred) · rules 95
+- **ಕ್ಷತ್ರಂ** ← ಕ್ಷತ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕ್ಷತ್ರ್ [accusative, sg, neut., sanskrit]; ಕ್ಷತ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತೇಜೋಗುಣಮಾಕ್ಷತ್ರಿಯರೊಳ್** ← ತೇಜ + ಓ + ಉಣ್ + ಅಂ + ಅದು + ಷತ್ರಿಯರ್ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ತೇಜೋಗುಣಮಾಕ್ಷತ್ರಿಯರ್ [locative, sg, neut., sanskrit]; ತೇಜೋಗುಣಮಾಕ್ಷತ್ರಿಯ [locative, pl, masc., sanskrit]
+- **ನೆಲಸಿ** ← ನೆಲ್ + ಅಸಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನೆಲಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನಿಂದುದಾ** ← ನಿಲ್ + ತ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನಿಂದುದ [vocative, sg, masc./neut./fem., kannada]
+- **ನೆಗೞ್ದಾದಿಕ್ಷತ್ರಿಯರೊಳಮಿಲ್ಲೆನಿಸಿದುದೀ** ← ನೆಗೞ್ದಾದಿಕ್ಷತ್ರಿಯರೊಳಮಿಲ್ಲೆನಿಸಿದುದಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ತ್ರಿಜಗದೊಳೆಸಗಿದೆಸಕಮರಿಕೇಸರಿಯಾ** ← ತ್ರಿ + ಜಗ + ಅದು + ಒಳ್ + ಎಸಗು + ಇದು + ಎಸಕಮರಿಕೇಸರಿ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ತ್ರಿಜಗದೊಳೆಸಗಿದೆಸಕಮರಿಕೇಸರಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಅರಿಕೇಸರಿಗಾತ್ಮಜರರಿನರಪ** ← ಅರಿ + ಕೇ + ಸರಿ + ಇಗಾತ್ಮಜರರಿನರಪ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಅರಿಕೇಸರಿಗಾತ್ಮಜರರಿನರಪ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಶಿರೋದಳನ** ← ಶಿರ + ಓ + ಅಳ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಶಿರೋದಳ [genitive, sg, masc./fem., sanskrit]
+- **ಪರಿಣತೋಗ್ರಾಸಿ** ← ಪರೆ + ಇಣತೋಗ್ರಾಸಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಿಣತೋಗ್ರಾಸಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಭಯಂಕರಕರರಾಯಿರ್ವರೊಳಾರ್ದೊರೆಯೆನೆ** ← ಭಯ + ಅಂ + ಕರ + ಅರೆ + ಅರೆ + ಆಯ್ + ಬರ್ + ಆರ್ + ಒರೆ + ಎನೆ [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಭಯಂಕರಕರರಾಯಿರ್ವರೊಳಾರ್ದೊರೆಯೆನೆ [nominative, sg, neut./fem., kannada]
+- **ನರಸಿಂಹ** ← ನರೆ + ಅಸು + ಹ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರಸಿಂಹ [vocative, sg, masc./neut./fem., kannada]
+- **ಭದ್ರದೇವರ್** ← ಭದ್ರದೇವ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಭದ್ರದೇವರ್ [nominative, sg, neut., sanskrit]
+- **ನೆಗೞ್ದರ್** ← ನೆಗೞ್ [verb; past, pl, masc./human, 3, to undertake; to be famous; also a crocodile] (lexicon) · rules 221, 217 · alt: ನೆಗೞ್ದ [nominative, pl, masc., kannada]; ನೆಗೞ್ದರ್ [nominative, sg, neut., kannada]
+- **ಅವರೊಳ್** ← ಅವರ್ [noun; locative, sg, neut., kannada] (lexicon) · alt: ಅವ [locative, pl, masc., kannada]
+- **ನರಸಿಂಗಂಗತಿಧವಳಯಶಂ** ← ನರೆ + ಅಸು + ಅಂ + ಗತಿಧವಳಯಶು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನರಸಿಂಗಂಗತಿಧವಳಯಶು [accusative, sg, neut., sanskrit]; ನರಸಿಂಗಂಗತಿಧವಳಯಶ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಯುದ್ಧಮಲ್ಲನಗ್ರಸುತಂ** ← ಯುದ್ಧ + ಅಂ + ಅಲ್ಲ + ಅಂ + ಅಗ್ರಸುತು [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಯುದ್ಧಮಲ್ಲನಗ್ರಸುತು [accusative, sg, neut., sanskrit]; ಯುದ್ಧಮಲ್ಲನಗ್ರಸುತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತದ್ಭುವನ** ← ತ + ಭುವ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತದ್ಭುವ [genitive, sg, masc./fem., sanskrit]
+- **ಪ್ರದೀಪನಾಗಿರ್ದವಾರ್ಯವೀರ್ಯಂಗೆ** ← ಪ್ರದೀಪನಾಗಿರ್ದವಾರ್ಯವೀರ್ಯ [noun; dative, sg, masc./fem., sanskrit] (inferred) · rules 113, 161 · alt: ಪ್ರದೀಪನಾಗಿರ್ದವಾರ್ಯವೀರ್ಯಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಬದ್ದೆಗಂ** ← ಬದ್ದೆಗು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬದ್ದೆಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಪಿರಿಯ** ← ಪಿರಿಯ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಪಿರಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಮಗಂ** ← ಮಗ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161
+- **ಪುಟ್ಟಿದೊಡಾತನೊಳಱವೊಡವುಟ್ಟಿದುದಱವಿಂಗೆ** ← ಪುಟ್ಟು + ಇದು + ಒಡ್ + ಅದು + ಒಳಱು + ಅದು + ಒಡ್ + ಅದು + ಉಡು + ಇದು + ಉದು + ಅಱ್ + ಅದು + ಇಂ + ಕೆ [phrase/compound; saṃhitā split into 15] (lexicon) · alt: ಪುಟ್ಟಿದೊಡಾತನೊಳಱವೊಡವುಟ್ಟಿದುದಱವು [dative, sg, neut., kannada]; ಪುಟ್ಟಿದೊಡಾತನೊಳಱವೊಡವುಟ್ಟಿದುದಱವಿಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಪೆಂಪು** ← ಪೆಂಪು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಪೆಂಪಿನೊಳಾಯಂಕಟ್ಟಾಯದೊಳಳವಳವಿನೊಳೊಟ್ಟಜೆ** ← ಪೆಂಪಿನೊಳಾಯಂಕಟ್ಟಾಯದೊಳಳವಳವಿನೊಳೊಟ್ಟಜೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪುಟ್ಟಿದುದು** ← ಪುಟ್ಟು [verb; past, sg, neut., 3, to be born, arise; (n.) a wooden ladle, an oar] (lexicon) · rules 221, 217 · alt: ಪುಟ್ಟು [verbal noun -udu, to be born, arise; (n.) a wooden ladle, an oar]; ಪುಟ್ಟಿದುದು [nominative, sg, neut./masc., kannada]
+- **ಪೋಲ್ವರಾರ್** ← ಪೋಲ್ + ಅರೆ + ಆವುದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೋಲ್ವರಾರ್ [nominative, sg, neut., sanskrit]
+- **ಬದ್ದೆಗನಂ** ← ಬದ್ದೆಗನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬದ್ದೆಗ [accusative, sg, masc./neut./fem., kannada]; ಬದ್ದೆಗನ [nominative, sg, masc./neut./fem., kannada]
+- **ಬಲ್ವರಿಕೆಯೊಳರಿನೃಪರ** ← ಬಲಿ + ಬರ್ + ಕೆಯ್ + ಒಳ್ + ಅರೆ + ಇಂ + ಋಪರ್ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಬಲ್ವರಿಕೆಯೊಳರಿನೃಪರ್ [genitive, sg, neut., kannada]; ಬಲ್ವರಿಕೆಯೊಳರಿನೃಪ [genitive, pl, masc., kannada]
+- **ಪಡಲ್ವಡೆ** ← ಪಡು + ಪಡು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪಡಲ್ವಡೆ [nominative, sg, neut./fem., kannada]
+- **ತಳ್ತಿಱಿದು** ← ತಳಿ + ತಿಱು + ಇದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಳ್ತಿಱಿದು [nominative, sg, neut./masc., kannada]
+- **ರಣದೊಳಾ** ← ರಣದೊಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ವಿಕ್ರಮಮಂಸೊಲ್ವಿನಮಾವರ್ಜಿಸಿದಂನಾಲ್ವತ್ತೆರಡಱಿಕೆಗಾಳೆಗಂಗಳೊಳೀತಂ** ← ವಿಕ್ರಮಮಂಸೊಲ್ವಿನಮಾವರ್ಜಿಸಿದಂನಾಲ್ವತ್ತೆರಡಱಿಕೆಗಾಳೆಗಂಗಳೊಳೀತು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿಕ್ರಮಮಂಸೊಲ್ವಿನಮಾವರ್ಜಿಸಿದಂನಾಲ್ವತ್ತೆರಡಱಿಕೆಗಾಳೆಗಂಗಳೊಳೀತ [nominative, sg, masc./neut./fem., kannada]
+- **ವನಧಿಪರೀತ** ← ವನಧಿಪರೀತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಭೂತಳದೊಳೀತನೆ** ← ಭೂ + ತಳಿ + ಅದು + ಒಳ್ + ಈತನೆ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಭೂತಳದೊಳೀತನೆ [nominative, sg, neut./fem., kannada]
+- **ಸೋಲದ** ← ಸೋಲ್ + ತ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸೋಲ [genitive, sg, neut., kannada]
+- **ಗಂಡನೆಂಬ** ← ಗಂಡ + ಅಂ + ಎನ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಗಂಡನೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೆಂಪಿನ** ← ಪೆಂಪು [noun; genitive, sg, neut., kannada] (inferred) · rules 108
+- **ಪೆಸರಂ** ← ಪೆಸರು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪೆಸರ್ [accusative, sg, neut., kannada]; ಪೆಸ [accusative, pl, masc., kannada]
+- **ನಿಮಿರ್ಚಿದುದುಮಲ್ಲದೆ** ← ನಿಮಿರ್ಚು + ಇದು + ಉದು + ಉಂ + ಅಲ್ಲದೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನಿಮಿರ್ಚಿದುದುಮಲ್ಲ [instrumental, sg, neut., kannada]; ನಿಮಿರ್ಚಿದುದುಮಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಕ್ರಮದಿಂದೆ** ← ವಿಕ್ರಮದು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52 · alt: ವಿಕ್ರಮ [instrumental, sg, neut., sanskrit]; ವಿಕ್ರಮದಿಂದೆ [nominative, sg, neut./fem., kannada]
+- **ನಿಂದಗುರ್ವೆನಲಿಱಿದಾಂತರಂ** ← ನಿಲ್ + ಗುರು + ಎ + ನಲಿ + ಇಱಿ + ಆನ್ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ನಿಂದಗುರ್ವೆನಲಿಱಿದಾಂತರು [accusative, sg, neut., kannada]; ನಿಂದಗುರ್ವೆನಲಿಱಿದಾಂತರ್ [accusative, sg, neut., kannada]
+- **ಮೊಸಳೆಯಂ** ← ಮೊಸಳೆಯು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮೊಸಳೆ [accusative, sg, neut./fem., kannada]; ಮೊಸಳೆಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಪಿಡಿವಂತಿರೆ** ← ಪಿಡಿ + ಇದು + ಅಂತು + ಇರ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪಿಡಿವಂತಿರೆ [nominative, sg, neut./fem., kannada]
+- **ನೀರೊಳೊತ್ತಿ** ← ನೀರ್ + ಒಳ್ + ಒತ್ತು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನೀರೊಳೊತ್ತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಭೀಮನನತಿಗರ್ವದಿಂ** ← ಭೀಂ + ಅಂ + ಅಂ + ಅತಿಗರ್ವದು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಭೀಮನನತಿಗರ್ವದು [instrumental, sg, neut., sanskrit]; ಭೀಮನನತಿಗರ್ವ [instrumental, sg, neut., sanskrit]
+- **ಪಿಡಿಯೆ** ← ಪಿಡಿ [verb; sati-saptamī (when …), to seize, hold; (n.) a she-elephant] (lexicon) · rules 246, 53 · alt: ಪಿಡಿ [vocative, sg, neut./fem./masc., kannada]; ಪಿಡಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ಮೆಯ್ಗಲಿ** ← ಮೆಯ್ + ಕಲಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮೆಯ್ಗಲಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಬದ್ದೆಗನನ್ನನಾವನೋ** ← ಬದ್ದೆಗನಂನನಾವು [noun; accusative, sg, neut., -ō doubt/admiration (56–57), kannada] (inferred) · rules 52, 161 · alt: ಬದ್ದೆಗನಂನನಾವ [nominative, sg, masc./neut./fem., -ō doubt/admiration (56–57), kannada]; ಬದ್ದೆಗನಂನನಾವನು [nominative, sg, neut./masc., -ō doubt/admiration (56–57), kannada]
+- **ಮುಗಿಲಂ** ← ಮುಗಿಲ್ [noun; accusative, sg, neut., kannada] (lexicon) · rules 161 · alt: ಮುಗಿಲು [accusative, sg, neut., kannada]; ಮುಗಿಲ [nominative, sg, masc./neut./fem., kannada]
+- **ಮುಟ್ಟಿದ** ← ಮುಟ್ಟು [verb; past relative participle, to touch; (n.) implements, utensils] (lexicon) · rules 221 · alt: ಮುಟ್ಟಿ [past relative participle]
+- **ಪೆಂಪು** ← ಪೆಂಪು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಪೆಂಪನೊಳಕೊಂಡುದ್ಯೋಗಮುದ್ಯೋಗದೊಳ್ನೆಗೞ್ದಾಜ್ಞಾಫಲಮಾಜ್ಞೆಯೊಳ್** ← ಪೆಂಪನೊಳಕೊಂಡುದ್ಯೋಗಮುದ್ಯೋಗದೊಳ್ನೆಗೞ್ದಾಜ್ಞಾಫಲಮಾಜ್ಞೆ [noun; locative, sg, neut./fem., kannada] (inferred) · rules 53
+- **ತೊಡರ್ದಗುರ್ವೊಂದೊಂದಗುರ್ವಿಂದಗುರ್ವುಗೊಳುತ್ತಿರ್ಪರಿಮಂಡಳಂ** ← ತೊಡರ್ದಗುರ್ವೊಂದೊಂದಗುರ್ವಿಂದಗುರ್ವುಗೊಳುತ್ತಿರ್ಪರಿಮಂಡಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ತೊಡರ್ದಗುರ್ವೊಂದೊಂದಗುರ್ವಿಂದಗುರ್ವುಗೊಳುತ್ತಿರ್ಪರಿಮಂಡಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಜಸಕಡರ್ಪಪ್ಪನ್ನೆಗಂ** ← ಜಸ + ಅಡು + ಅರೆ + ಪಸು + ಅಂ + ನೆಗೆ + ಅಂ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಜಸಕಡರ್ಪಪ್ಪಂನೆಗು [accusative, sg, neut., kannada]; ಜಸಕಡರ್ಪಪ್ಪಂನೆಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಂದನೀಜಗದೊಳ್** ← ಸಲ್ + ಅಂ + ಈಜಗ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಸಂದನೀಜಗ [locative, sg, neut., kannada]
+- **ಬದ್ದೆಗನನ್ನನಾವನಿೞಿಕುಂ** ← ಬದ್ದೆಗನಂನನಾವನಿೞಿಸು [verb; aorist -guṃ/-kuṃ] (inferred) · rules 228 · alt: ಬದ್ದೆಗನಂನನಾವನಿೞಿಗು [aorist -guṃ/-kuṃ]
+- **ಭ್ರೂಕೋಟಿಯಿಂ** ← ಭ್ರೂ + ಕೋಟಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಭ್ರೂಕೋಟಿಯು [instrumental, sg, neut., sanskrit]; ಭ್ರೂಕೋಟಿ [instrumental, sg, neut./fem./masc., sanskrit]
+- **ಕೋಟಿಯಂ** ← ಕೋಟಿ [noun; accusative, sg, neut./fem./masc., kannada] (lexicon) · rules 53, 161 · alt: ಕೋಟಿಯು [accusative, sg, neut., kannada]; ಕೋಟಿಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಮೇರುವ** ← ಮೇರು [noun; genitive, sg, masc./neut., sanskrit] (lexicon) · rules 55
+- **ಪೊನ್** — ❓ not derivable with the rules + lexicon
+- **ಕಲ್ಪಾಂಘ್ರಿಪದಾರವೆ** ← ಕಲ್ + ಪಾಂಘ್ರಿಪದಾರವೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಲ್ಪಾಂಘ್ರಿಪದಾರವೆ [nominative, sg, neut./fem., kannada]
+- **ರಸದೊಱವು** ← ರಸ + ಅದು + ಒಱೆ + ಅದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ರಸದೊಱವು [nominative, sg, neut./masc., kannada]
+- **ಪರುಸವೇದಿಯ** ← ಪರೆ + ಉಸವೇದಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರುಸವೇದಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಕಣಿ** ← ಕಣಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಭಂಡಾರದೊಳುಂಟೆನೆ** ← ಭಂಡ + ಆವುದು + ಅದು + ಒಳ್ + ಉಂಟು + ಎನೆ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಭಂಡಾರದೊಳುಂಟೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಕುಡುವ** ← ಕುಡು [verb; future relative participle, to give; (adj.) crooked] (lexicon) · rules 221 · alt: ಕುಡು [genitive, sg, masc./neut., kannada]
+- **ನಿವಾರಿತ** ← ನಿ + ಪಾರ್ + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿವಾರಿತ [vocative, sg, masc./neut./fem., kannada]
+- **ದಾನಕ್ಕೆ** ← ದಾನ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ದಾನಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಪೋಲ್ವರಾರ್** ← ಪೋಲ್ + ಅರೆ + ಆವುದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೋಲ್ವರಾರ್ [nominative, sg, neut., sanskrit]
+- **ಬದ್ದೆಗನಂ** ← ಬದ್ದೆಗನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬದ್ದೆಗ [accusative, sg, masc./neut./fem., kannada]; ಬದ್ದೆಗನ [nominative, sg, masc./neut./fem., kannada]
+- **ಸುರಭಿ** ← ಸುರಭಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ದೇವತೆಯೆಂಬ** ← ದೇವಿ + ಅತೆಯೆಂಬ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ದೇವತೆಯೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಕಾಪಿನೆ** ← ಕಾಸು + ಇನೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಾಪಿನೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಣ್ದುದೇಱುವುದೊಂದದೆಂದಿರದೆ** ← ಮಾಣ್ + ಉದು + ಏಱು + ಉದು + ಉದು + ಒಂದು + ಅದು + ಎಂದು + ಇರ್ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಮಾಣ್ದುದೇಱುವುದೊಂದದೆಂದಿರ [instrumental, sg, neut., kannada]; ಮಾಣ್ದುದೇಱುವುದೊಂದದೆಂದಿರದೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಣ್ದುದು** ← ಮಾಣ್ [verb; past, sg, neut., 3, to cease, desist; to stop] (lexicon) · rules 241, 217 · alt: ಮಾಣ್ [verbal noun -udu, to cease, desist; to stop]; ಮಾಣ್ದುದು [nominative, sg, neut./masc., kannada]
+- **ದೇವ** ← ದೇವ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ವಾರಣವೇೞೆ** ← ವಾರಣವೇೞೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಉಂಟವು** ← ಉಂಟು + ಅದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಉಂಟವು [nominative, sg, neut./masc., kannada]
+- **ಪೋದೊಡಾಖರಕರಂಗರಿದೆಂದೆ** ← ಪೋದೊಡಾಖರಕರಂಗರಿದೆಂದೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮಾಣ್ದಿರೆ** ← ಮಾಣ್ + ಇರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾಣ್ದಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಣ್ದುವಾ** ← ಮಾಣ್ + ದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾಣ್ದು [genitive, sg, masc., kannada]
+- **ಹರಿ** ← ಹರಿ [verb; imperative/optative, sg, 2, to run, flow] (lexicon) · rules 230 · alt: ಹರಿ [nominative, sg, neut./fem./masc., sanskrit]; ಹರಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ನೀನೆ** ← ನೀನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೇೞರಿಯವೆಂದಿವು** ← ಪೇೞ್ + ಅರಿ + ಅದು + ಎಂದು + ಇದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೇೞರಿಯವೆಂದಿವು [nominative, sg, neut./masc., kannada]
+- **ಭದ್ರದೇವರ** ← ಭದ್ರದೇವರ್ [noun; genitive, sg, neut., sanskrit] (inferred) · alt: ಭದ್ರದೇವ [genitive, pl, masc., sanskrit]
+- **ಚಾಗದೊಳ್ಪೊಱಗಾದುವೇ** ← ಚಾಗದೊಳ್ಪೊಱಗಾದುವು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ಚಾಗದೊಳ್ಪೊಱಗಾದುವೆ [vocative, sg, neut./fem., kannada]; ಚಾಗದೊಳ್ಪೊಱಗಾದು [vocative, sg, neut./masc., kannada]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ಬದ್ದೆಗಂಗೆ** ← ಬದ್ದೆಗ [noun; dative, sg, masc./fem., kannada] (inferred) · rules 113, 161 · alt: ಬದ್ದೆಗಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ವೈರಿತಮೋಬಳ** ← ವೈರಿತಮೋಬಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದಶಶತಕರಂ** ← ದಶಶತಕರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ದಶಶತಕರ್ [accusative, sg, neut., sanskrit]; ದಶಶತಕ [accusative, pl, masc., sanskrit]
+- **ವಿರಾಜಿತ** ← ವಿರಾಜಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವಿಜಯಶ್ರೀ** ← ವಿಜಯಶ್ರಿ [noun; vocative, sg, neut./fem./masc., sanskrit] (inferred) · rules 123, 123
+- **ಬಾಹು** ← ಬಾಹು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಯುದ್ಧಮಲ್ಲನಿಳಾ** ← ಯುದ್ಧ + ಅಂ + ಅಲ್ಲ + ಅಂ + ಇಳ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಯುದ್ಧಮಲ್ಲನಿಳ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಬಹು** ← ಬಹು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ವಿಧರಕ್ಷಣ** ← ವಿಧು + ಅರೆ + ಅಕ್ಷಣ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ವಿಧರಕ್ಷಣ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರವೀಣ** ← ಪ್ರವೀಣ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕೃಪಾಣಂ** ← ಕೃಪಾಣು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕೃಪಾಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಆತ್ಮಭವನಾ** ← ಆತ್ಮಭವ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105, 117
+- **ನರಾಧಿಪನಾತ್ಮಜನಾ** ← ನರೆ + ಆಧಿಪನಾತ್ಮಜ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನರಾಧಿಪನಾತ್ಮಜ [genitive, sg, masc./fem., sanskrit]
+- **ನಹುಷ** ← ನಹುಷ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಪೃಥು** ← ಪೃಥು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ಭಗೀರಥ** ← ಭಗೀರಥ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ನಳ** ← ನಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮಾಹಾತ್ಮರನಿೞಿಸಿ** ← ಮಾ + ಹಾತ್ಮರನಿೞಿಸಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾಹಾತ್ಮರನಿೞಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನೆಗೞ್ದ** ← ನೆಗೞ್ [verb; past relative participle, to undertake; to be famous; also a crocodile] (lexicon) · rules 221
+- **ಮಹಾತ್ಮಂ** ← ಮಹಾತ್ಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಮಹಾತ್ಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ನರಸಿಂಹನಱಿವಿನೊಳ್** ← ನರೆ + ಅಸು + ಹನಿ + ಅಱ್ + ಇದು + ಇಂ + ಒಳ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ನರಸಿಂಹನಱಿವು [locative, sg, neut., kannada]
+- **ಪರಮಾತ್ಮಂ** ← ಪರೆ + ಅಂ + ಆತ್ಮು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪರಮಾತ್ಮು [accusative, sg, neut., sanskrit]; ಪರಮಾತ್ಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮಾಂಕರಿಸದಱಿವು** ← ಮಾಂ + ಕರ್ + ಇಸು + ಅದು + ಅಱ್ + ಇದು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಮಾಂಕರಿಸದಱಿವು [nominative, sg, neut./masc., kannada]
+- **ಗುರು** ← ಗುರು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ಗುರು [vocative, sg, neut./masc., sanskrit]
+- **ವಚನಾಂಕುಶಮಂ** ← ವಚನಾಂಕುಶಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಚನಾಂಕುಶ [accusative, sg, neut., sanskrit]; ವಚನಾಂಕುಶಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪಾೞಿಯೆಡೆಗೆ** ← ಪಾೞಿ + ಎ + ಡೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪಾೞಿಯೆಡೆ [dative, sg, neut./fem., kannada]; ಪಾೞಿಯೆಡೆಗೆ [nominative, sg, neut./fem., kannada]
+- **ಪೊಣರ್ದರಿಬಲಮಂಕಿಂಕೊಳೆ** ← ಪೊಣರ್ದರಿಬಲಮಂಕಿಂಕೊಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮಾೞ್ಪೆಡೆಗಣಮೆ** ← ಮಾಡು + ಎಡೆ + ಎಗಣಮೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಾೞ್ಪೆಡೆಗಣಮೆ [nominative, sg, neut./fem., kannada]
+- **ನಿರಂಕುಶಮೆನಿಸಿದುದು** ← ನಿ + ರಂಕುಶಮೆನಿಸಿದುದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಿರಂಕುಶಮೆನಿಸಿದುದು [nominative, sg, neut./masc., kannada]; ನಿರಂಕುಶಮೆನಿಸು [past, sg, neut., 3]
+- **ಮುನಿಸು** ← ಮುನಿ + ಇಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮುನಿಸು [nominative, sg, neut./masc., kannada]
+- **ಭದ್ರಾಂಕುಶನಾ** ← ಭದ್ರಾಂಕುಶ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105, 117
+- **ತಱಿಸಂದು** ← ತಱಿಸಲ್ [verb; past gerund, to be ascertained, settled] (lexicon) · rules 236, 217 · alt: ತಱಿಸಂದು [nominative, sg, neut./masc., kannada]
+- **ಲಾೞರೊಳ್** ← ಲಾೞರ್ [noun; locative, sg, neut., kannada] (inferred) · alt: ಲಾೞ [locative, pl, masc., kannada]
+- **ತಳ್ತಿಱಿದೇಱಂ** ← ತಳಿ + ತಿಱು + ಇದು + ಏಱು + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ತಳ್ತಿಱಿದೇಱು [accusative, sg, neut., kannada]; ತಳ್ತಿಱಿದೇಱ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೇೞೆ** ← ಪೇೞ್ [verb; sati-saptamī (when …), to tell] (lexicon) · rules 246 · alt: ಪೇೞೆ [nominative, sg, neut./fem., kannada]
+- **ಕೇಳ್ದು** ← ಕೇಳ್ [verb; past gerund, to hear, listen] (lexicon) · rules 236, 217 · alt: ಕೇಳ್ದು [nominative, sg, neut./masc., kannada]
+- **ಮಂಡಲಮಿನ್ನುಂತಿಱುನೀರಿಕ್ಕುವುದೆನಿಸಿದತಱಿಸಲವಿನ** ← ಮು + ಡ + ಲ + ಇಂಂ + ಉಂ + ತಿಱು + ನೀರ್ + ಇಕ್ಕು + ಉದು + ಉದು + ಎನೆ + ಇಸು + ಇದು + ಅತಱಿಸಲವು [phrase/compound; saṃhitā split into 14] (inferred) · alt: ಮಂಡಲಮಿಂನುಂತಿಱುನೀರಿಕ್ಕುವುದೆನಿಸಿದತಱಿಸಲವು [genitive, sg, neut., kannada]
+- **ಚಲದ** ← ಚಲದ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಚಲ [genitive, sg, neut., kannada]
+- **ಬಲದ** ← ಬಲ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಕಲಿ** ← ಕಲಿ [noun; nominative, sg, neut./fem./masc., kannada] (lexicon) · rules 105 · alt: ಕಲಿ [vocative, sg, neut./fem./masc., kannada]
+- **ನರಸಿಂಹಂ** ← ನರೆ + ಅಸಿಂಹು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನರಸಿಂಹು [accusative, sg, neut., kannada]; ನರಸಿಂಹ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಿಂಗಂ** ← ಸಿಂಗ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಸಿಂಗು [accusative, sg, neut., kannada]
+- **ಮಸಗಿದವೋಲ್** ← ಮಸೆ + ಅಗಿ + ವೋಲ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮಸಗಿದವೋಲ್ [nominative, sg, neut., kannada]
+- **ನರಸಿಂಗಂ** ← ನರೆ + ಅಸು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನರಸಿಂಗು [accusative, sg, neut., kannada]; ನರಸಿಂಗ [nominative, sg, masc./neut./fem., kannada]
+- **ತಳ್ತಿಱಿಯೆ** ← ತಳಿ + ತಿಱು + ಎ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಳ್ತಿಱಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ದ** ← ನೆಗೞ್ [verb; past relative participle, to undertake; to be famous; also a crocodile] (lexicon) · rules 221
+- **ನೆತ್ತರ್** ← ನೆತ್ತ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ನೆತ್ತರ್ [nominative, sg, neut., kannada]; ನೆಱು [past, pl, masc./human, 3]
+- **ನಭದೊಳ್ಕೆಂಗುಡಿ** ← ನಭದೊಳ್ಕೆಂಗುಡಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಕವಿದಂತಾದುದಿದೇಂ** ← ಕವಿ + ಇದು + ಅಂತು + ಆಗು + ಉದು + ಇದು + ಏನ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕವಿದಂತಾದುದಿದು [vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada]; ಕವಿದಂತಾದುದಿದೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಗರ್ವದ** ← ಗರ್ವ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಪೆಂಪೊ** — ❓ not derivable with the rules + lexicon
+- **ಸಕಲಲೋಕಾಶ್ರಯನಾ** ← ಸಕಲಲೋಕಾಶ್ರಯ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105, 117
+- **ಏೞುಂ** ← ಏೞ್ [verb; imperative/optative, sg, 2, -uṃ 'and/also' (122), to rise, get up] (lexicon) · rules 230 · alt: ಏೞು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಏೞು [vocative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಮಾಳಮುಮಂ** ← ಮಾ + ಳಮುಮು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾಳಮುಮು [accusative, sg, neut., kannada]; ಮಾಳಮುಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಪಾಱೇೞೆ** ← ಪಾಱೇೞ್ [verb; sati-saptamī (when …), to run away; to be disgraced] (lexicon) · rules 246 · alt: ಪಾಱೇೞೆ [nominative, sg, neut./fem., kannada]
+- **ತಗುಳ್ದಿಱಿದು** ← ತಗು + ಉಳ್ + ಇಱಿ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಗುಳ್ದಿಱಿದು [nominative, sg, neut./masc., kannada]
+- **ನರಗನುರಿಪಿದೊಡೆ** ← ನರೆ + ಅಗಿ + ಅಂ + ಉರಿಪು + ಇದು + ಒಡೆ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನರಗನುರಿಪಿದೊಡೆ [nominative, sg, neut./fem., kannada]; ನರಗನುರಿಪು [conditional -oḍe]
+- **ಕರಿಂಕೇೞಿಸಿದಾತನ** ← ಕರ್ + ಇಂ + ಕೇೞಿ + ಇಸು + ಇದು + ಅದು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕರಿಂಕೇೞಿಸಿದಾತ [genitive, sg, masc./fem., kannada]
+- **ತೇಜದಬೀೞಲನನುಕರಿಪುವಾದುವೊಗೆದುರಿವುರಿಗಳ್** ← ತೇಜದಬೀೞಲನನುಕರಿಪುವಾದುವೊಗೆದುರಿವುರಿ [noun; nominative, pl, neut./fem./masc., kannada] (inferred) · rules 95, 105
+- **ವಿಜಯಾರಂಭ** ← ವಿಜಯಾರಂಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಪುರಸ್ಸರವಿಜಯಗಜಂಗಳನೆ** ← ಪುರಸ್ಸರವಿಜಯಗಜಂಗಳನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪಿಡಿದು** ← ಪಿಡಿ [verb; past gerund, to seize, hold; (n.) a she-elephant] (lexicon) · rules 236, 217 · alt: ಪಿಡಿದು [nominative, sg, neut./masc., kannada]
+- **ಘೂರ್ಜರ** ← ಘೂರ್ಜರ್ [noun; genitive, sg, neut., sanskrit] (inferred) · alt: ಘೂರ್ಜ [genitive, pl, masc., sanskrit]
+- **ರಾಜಧ್ವಜಿನಿಯನಿಱಿದೋಡಿಸಿ** ← ರಾಜ + ಅಧ್ವ + ಅಜಿನಿಯನಿಱಿದೋಡಿಸಿ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ರಾಜಧ್ವಜಿನಿಯನಿಱಿದೋಡಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಭುಜವಿಜಯದೆ** ← ಭುಜ + ಅದು + ಇಜಯ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಭುಜವಿಜಯ [instrumental, sg, neut., sanskrit]; ಭುಜವಿಜಯದೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಜಯನುಮನಿೞಿಸಿದಂ** ← ವಿಜಯನುಮನಿೞಿಸಿದು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿಜಯನುಮನಿೞಿಸಿದ [nominative, sg, masc./neut./fem., kannada]; ವಿಜಯನುಮನಿೞಿಸು [past, sg, masc./human, 3]
+- **ನರಸಿಂಹಂ** ← ನರೆ + ಅಸಿಂಹು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನರಸಿಂಹು [accusative, sg, neut., kannada]; ನರಸಿಂಹ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಿಡಿಲವೊಲೆಱಗುವ** ← ಸಿಡಿಲ್ + ಅದು + ಒಲ್ + ಎಱಗು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಿಡಿಲವೊಲೆಱಗು [genitive, sg, masc., kannada]
+- **ನರಗನಪಡೆಗಗಿದುಮ್ಮಳದಿನುಂಡೆಡೆಯೊಳುಣ್ಣದೆಯುಂಕೆಡೆದೆಡೆಯೊಳ್** ← ನರೆ + ಅಗಿ + ಅಂ + ಅಪ್ + ಅಡೆ + ಅಗಿ + ಉಂ + ಅಳೆ + ಅದು + ಇಂ + ಉಣ್ + ಎಡೆ + ಒಳ್ + ಉಣ್ + ಅದು + ಎ + ಕೆಡೆ + ಎಡೆ + ಒಳ್ [phrase/compound; saṃhitā split into 19] (lexicon) · alt: ನರಗನಪಡೆಗಗಿದುಂಮಳದಿನುಂಡೆಡೆಯೊಳುಣ್ಣದೆಯುಂಕೆಡೆದೆಡೆ [locative, sg, neut./fem., kannada]
+- **ಕೆಡೆಯದೆ** ← ಕೆಡೆ [verb; negative participle -ade, to fall] (lexicon) · rules 71, 53 · alt: ಕೆಡೆಯ [instrumental, sg, neut., kannada]; ಕೆಡೆಯದೆ [nominative, sg, neut./fem., kannada]
+- **ನಿಂದೆಡೆಯೊಳ್** ← ನಿಲ್ + ಎಡೆ + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿಂದೆಡೆ [locative, sg, neut./fem., kannada]
+- **ನಿಲ್ಲದೆಯುಮೋಡಿದಂ** ← ನಿಲ್ + ಅದು + ಎ + ಓಡು + ಇದು + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನಿಲ್ಲದೆಯುಮೋಡಿದು [accusative, sg, neut., kannada]; ನಿಲ್ಲದೆಯುಮೋಡಿದ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಹಿಪಾಲಂ** ← ಮಹಿಪಾಲು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮಹಿಪಾಲ್ [accusative, sg, neut., kannada]; ಮಹಿಪಾಲ [nominative, sg, masc./neut./fem., kannada]
+- **ಗಂಗಾವಾರ್ಧಿಯೊಳಾತ್ಮತುರಂಗಮುಮಂ** ← ಗಂಗಾವಾರ್ಧಿಯೊಳಾತ್ಮತುರಂಗಮುಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಗಂಗಾವಾರ್ಧಿಯೊಳಾತ್ಮತುರಂಗಮುಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಿಸಿಸಿ** ← ಮಿಸಿಸಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ನೆಗೞ್ದ** ← ನೆಗೞ್ [verb; past relative participle, to undertake; to be famous; also a crocodile] (lexicon) · rules 221
+- **ಡಾಳಪ್ರಿಯನೊಳ್ಸಂಗತ** ← ಡ + ಳಪ್ರಿಯನೊಳ್ಸಂಗತ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಡಾಳಪ್ರಿಯನೊಳ್ಸಂಗತ [vocative, sg, masc./neut./fem., kannada]
+- **ಗುಣನಸಿಲತೆಯನಸುಂಗೊಳೆ** ← ಗುಣ + ಅಂ + ಅಸಿ + ಲತೆ + ಅಂ + ಅಸು + ಉಂ + ಕೊಳ್ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಗುಣನಸಿಲತೆಯನಸುಂಗೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಭುಜವಿಜಯಗರ್ವದಿಂ** ← ಭುಜ + ಅವು + ಜಯ + ಅಗಿ + ಅರೆ + ವ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಭುಜವಿಜಯಗರ್ವದು [instrumental, sg, neut., sanskrit]; ಭುಜವಿಜಯಗರ್ವ [instrumental, sg, neut., sanskrit]
+- **ಸ್ಥಾಪಿಸಿದಂ** ← ಸ್ಥಾಪಿಸು [verb; past, sg, masc./human, 3, to set down, place, establish] (lexicon) · rules 221, 217, 161 · alt: ಸ್ಥಾಪಿಸಿದು [accusative, sg, neut., sanskrit]; ಸ್ಥಾಪಿಸಿದ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ನರಸಿಂಹಮಹೀಶ** ← ನರೆ + ಅಸು + ಹಮಹೀಶ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರಸಿಂಹಮಹೀಶ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಮನೋನಯನಪ್ರಿಯೆ** ← ಮು + ನಯ + ಅಂ + ಅಪ್ + ರಿಯೆ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಮನೋನಯನಪ್ರಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಳೋಳನೀಳಾಳಕೆ** ← ವಿಳೋಳನೀಳಾಳ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ವಿಳೋಳನೀಳಾಳಕೆ [nominative, sg, neut./fem., kannada]
+- **ಚಂದ್ರಾನನೆ** ← ಚಂದ್ರ + ನನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಚಂದ್ರಾನನೆ [nominative, sg, neut./fem., kannada]
+- **ಜಾಕವ್ವೆ** ← ಜಾಕವ್ವೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ದಲಾಜಾನಕಿಗಗ್ಗಳಮೆ** ← ದಲ್ + ಆಜಾನಕಿಗಗ್ಗಳಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ದಲಾಜಾನಕಿಗಗ್ಗಳಮೆ [nominative, sg, neut./fem., kannada]
+- **ಕುಲದೊಳಂ** ← ಕುಲ + ಅದು + ಒಳ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕುಲದೊಳು [accusative, sg, neut., kannada]; ಕುಲದೊಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಶೀಲದೊಳಂ** ← ಶೀಲ + ಅದು + ಒಳ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಶೀಲದೊಳು [accusative, sg, neut., kannada]; ಶೀಲದೊಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೊಸತಲರ್ದ** ← ಪೊಸತು + ಅಲರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೊಸತಲರ್ [past relative participle]
+- **ಬಿಳಿಯ** ← ಬಿಳಿ [noun; genitive, sg, neut./fem./masc., kannada] (inferred) · rules 53
+- **ತಾವರೆಯೆಸೞ್ಗಳ** ← ತ + ಅರೆ + ಎಸೞ್ + ಗಳ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತಾವರೆಯೆಸೞ್ಗಳ [vocative, sg, masc./neut./fem., kannada]
+- **ನಡುವಿರ್ಪ** ← ನಡು + ಉದು + ಇರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಡುವಿರ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಸಿರಿಯುಮಾಕೆಯ** ← ಸಿರಿ + ಉಂ + ಅದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಿರಿಯುಮಾಕೆ [genitive, sg, neut./fem., kannada]
+- **ಕೆಲದೊಳ್ನಸು** ← ಕೆಲೆ + ಅದು + ಒಳ್ + ನಸು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಕೆಲದೊಳ್ನಸು [nominative, sg, neut./masc., kannada]
+- **ಮಸುಳ್ದು** ← ಮಸುಳ್ [verb; past gerund, to grow dim, lose lustre] (lexicon) · rules 236, 217 · alt: ಮಸುಳ್ದು [nominative, sg, neut./masc., kannada]
+- **ತೋರ್ಪಳೆನೆ** ← ತೋರ್ಪು + ಅಳೆ + ಎನೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೋರ್ಪಳೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೋಲಿಸುವೊಡೆ** ← ಪೋಲ್ + ಇಸು + ಉದು + ಒಡೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೋಲಿಸುವೊಡೆ [nominative, sg, neut./fem., kannada]; ಪೋಲಿಸು [conditional -oḍe]
+- **ಜಾಕವ್ವೆಗುೞಿದ** ← ಜಾಕವ್ವೆಗುೞು [verb; past relative participle] (inferred) · rules 221 · alt: ಜಾಕವ್ವೆಗುೞಿ [past relative participle]
+- **ಪೆಂಡಿರ್** ← ಪೆಂಡಿರ್ [noun; nominative, sg, neut., kannada] (inferred) · rules 105 · alt: ಪೆಣ್ [past, pl, 2]
+- **ದೊರೆಯೇ** ← ದೊರೆಯು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ದೊರೆಯೆ [vocative, sg, neut./fem., kannada]; ದೊರೆ [vocative, sg, neut./fem., kannada]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ಜಾಕವ್ವೆಗಮಾ** ← ಜಾಕವ್ವೆಗಮ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ವಸುಧಾ** ← ವಸುಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ಜಯ** ← ಜಯ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಸದ್ವಲ್ಲಭಂಗಮತಿ** ← ಸದೆ + ಅಲ್ಲ + ಭಂಗ + ಅಂ + ಅತಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಸದ್ವಲ್ಲಭಂಗಮತಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ವಿಶದ** ← ವಿಶ [noun; genitive, sg, neut., sanskrit] (inferred) · rules 106
+- **ಯಶೋರಾಜಿತನೆನಿಪರಿಕೇಸರಿರಾಜಂ** ← ಯಶೋರಾಜಿತನೆನಿಪರಿಕೇಸರಿರಾಜು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಯಶೋರಾಜಿತನೆನಿಪರಿಕೇಸರಿರಾಜ [nominative, sg, masc./neut./fem., kannada]
+- **ತೇಜೋಗ್ನಿಮಗ್ನ** ← ತೇಜೋಗ್ನಿಮಗ್ನ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ರಿಪು** ← ರಿಪು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ನೃಪಶಲಭಂ** ← ನೃಪಶಲಭು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ನೃಪಶಲಭ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮಗನಾದನಾಗಿ** ← ಮಗ + ಅಂ + ಆಗು + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮಗನಾದನಾಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಚಾಗದನೆಗೞ್ತೆಯೊಳ್** ← ಚಾಗದನೆಗೞ್ತೆ [noun; locative, sg, neut./fem., kannada] (inferred) · rules 53
+- **ಬೀರದೇೞ್ಗೆಯೊಳ್** ← ಬೀ + ರ + ಏೞ್ + ಗೆಯ್ + ಒಳ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬೀರದೇೞ್ಗೆ [locative, sg, neut./fem., kannada]
+- **ನೆಗೞೆ** ← ನೆಗೞ್ [verb; sati-saptamī (when …), to undertake; to be famous; also a crocodile] (lexicon) · rules 246 · alt: ನೆಗೞೆ [nominative, sg, neut./fem., kannada]
+- **ಮಗಂಮಗನೆನೆ** ← ಮಗ + ಅಂ + ಅಗಿ + ಅಂ + ಎನೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮಗಂಮಗನೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಪುಟ್ಟಲೊಡಂ** ← ಪುಟ್ಟು [verb; sati-saptamī (when …), to be born, arise; (n.) a wooden ladle, an oar] (lexicon) · rules 246, 52 · alt: ಪುಟ್ಟಲೊಡು [accusative, sg, neut., kannada]; ಪುಟ್ಟಲೊಡ [nominative, sg, masc./neut./fem., kannada]
+- **ಕೋೞ್ಮೊಗಗೊಂಡುದು** ← ಕೋೞ್ಮೊಗಗೊಂಡುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ಕೋೞ್ಮೊಗಗೊಣ್ [past, sg, neut., 3]
+- **ಭುವನಭವನಮರಿಕೇಸರಿಯೊಳ್** ← ಭುವನಭವನಮರಿಕೇಸರಿ [noun; locative, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ಮದದ** ← ಮದ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ನೀರೊಳೆ** ← ನೀರ್ + ಒಳ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನೀರೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಲೋಕವಾರ್ತೆಗೆ** ← ಲೋಕ + ಅದು + ಆವುದು + ತೆಗೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಲೋಕವಾರ್ತೆ [dative, sg, neut./fem., kannada]; ಲೋಕವಾರ್ತೆಗೆ [nominative, sg, neut./fem., kannada]
+- **ಬೆಚ್ಚುನೀರ್ದಳಿದಾಗಳಾಮದಗಜಾಂಕುಶದಿಂದೆ** ← ಬಿಸು + ನೀರ್ + ದಳ + ಇದು + ಆಗಳ್ + ಆನ್ + ಅದು + ಅಗಜಾಂಕುಶದು [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಬೆಚ್ಚುನೀರ್ದಳಿದಾಗಳಾಮದಗಜಾಂಕುಶದು [instrumental, sg, neut., kannada]; ಬೆಚ್ಚುನೀರ್ದಳಿದಾಗಳಾಮದಗಜಾಂಕುಶ [instrumental, sg, neut., kannada]
+- **ಪೆರ್ಚಿಸಿ** ← ಪೆರ್ಚಿಸು [verb; past gerund, to cause to grow, increase] (lexicon) · rules 236, 52 · alt: ಪೆರ್ಚಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನಾಭಿಯಂ** ← ನಾ + ಭಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಾಭಿಯು [accusative, sg, neut., sanskrit]; ನಾಭಿ [accusative, sg, neut./fem./masc., sanskrit]
+- **ಮದದಂತಿ** ← ಮದ + ಅದು + ಅಂ + ತಿ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮದದಂತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ದಂತದೊಳೆ** ← ದಂತ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ದಂತದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಕಟ್ಟಿದ** ← ಕಟ್ಟು [verb; past relative participle, to bind, tie, build; (n.) decoction of boiled pulse] (lexicon) · rules 221 · alt: ಕಟ್ಟಿ [past relative participle]
+- **ತೊಟ್ಟಿಲಂ** ← ತುಡು + ಇಲು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತೊಟ್ಟಿಲು [accusative, sg, neut., kannada]; ತೊಟ್ಟಿಲ್ [accusative, sg, neut., kannada]
+- **ನಯದಿಂದಮೇಱಿಸೆ** ← ನಯ + ಅದು + ಇಂದು + ಅಂ + ಏಱು + ಇಸು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನಯದಿಂದಮೇಱಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಬಾಳಕಾಲದೊಳೆ** ← ಬಾಳ್ + ಅಕಾಲದೊಳೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬಾಳಕಾಲದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ತೊಟ್ಟಿಲಿಗಂ** ← ತುಡು + ಇಲಿಗು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತೊಟ್ಟಿಲಿಗು [accusative, sg, neut., kannada]; ತೊಟ್ಟಿಲಿಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಗಜಪ್ರಿಯನಪ್ಪುದಂ** ← ಗಜ + ಪ್ರಿಯ + ಅಂ + ಆಗು + ಉದು + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಗಜಪ್ರಿಯನಪ್ಪುದು [accusative, sg, neut., sanskrit]; ಗಜಪ್ರಿಯನಪ್ಪುದ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸಲೆ** ← ಸಲೆ [avyaya; always, constantly] (lexicon) · alt: ಸಲ್ [sati-saptamī (when …), to enter, go into; to be renowned; to be valid]; ಸಲೆ [nominative, sg, neut./fem., kannada]
+- **ತೋಱಿದಂ** ← ತೋಱು + ಇದು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೋಱಿದು [accusative, sg, neut., kannada]; ತೋಱಿದ [nominative, sg, masc./neut./fem., kannada]
+- **ರುಂದ್ರಾಂಭೋಧಿ** ← ರುಂದ್ರಾಂಭೋಧಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪರೀತ** ← ಪರೆ + ಈತ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪರೀತ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಹೀಂದ್ರರದಾರಿನ್ನರೀ** ← ಮಹೀಂದ್ರರದಾರಿಂನರಿ [noun; vocative, sg, neut./fem./masc., sanskrit] (inferred) · rules 123, 123
+- **ನರೇಂದ್ರಂ** ← ನರೆ + ಏನ್ + ದ್ರು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರೇಂದ್ರು [accusative, sg, neut., sanskrit]; ನರೇಂದ್ರ್ [accusative, sg, neut., sanskrit]
+- **ಸಾಕ್ಷಾದಿಂದ್ರಂ** ← ಸಾಕ್ಷಿ + ಆಗು + ಇಂದು + ರ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಾಕ್ಷಾದಿಂದ್ರು [accusative, sg, neut., sanskrit]; ಸಾಕ್ಷಾದಿಂದ್ರ್ [accusative, sg, neut., sanskrit]
+- **ತಾನೆನೆ** ← ತಾನ್ + ಎನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಾನೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಸಲೆ** ← ಸಲೆ [avyaya; always, constantly] (lexicon) · alt: ಸಲ್ [sati-saptamī (when …), to enter, go into; to be renowned; to be valid]; ಸಲೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ದಿಂದ್ರೇಂದ್ರನ** ← ನೆಗೆ + ಅೞ್ + ಇಂದು + ರೇಂದ್ರ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನೆಗೞ್ದಿಂದ್ರೇಂದ್ರ [genitive, sg, masc./fem., kannada]
+- **ತೋಳೆ** ← ತೋಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತೊಟ್ಟಿಲಾಗಿರೆ** ← ತುಡು + ಇಲಾಗಿರೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತೊಟ್ಟಿಲಾಗಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಬಳೆದಂ** ← ಬಳೆ [verb; past, sg, masc./human, 3, to grow, increase; also a glass bangle] (lexicon) · rules 221, 217, 161 · alt: ಬಳೆದು [accusative, sg, neut., kannada]; ಬಳೆದ [nominative, sg, masc./neut./fem., kannada]
+- **ಅಮಿತಮತಿ** ← ಅಂ + ಇತಮತಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಅಮಿತಮತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಗುಣದಿನತಿ** ← ಗುಣ + ಅದು + ಇನತಿ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣದಿನತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ವಿಕ್ರಮಗುಣದಿಂ** ← ವಿಕ್ರಮಗುಣದು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿಕ್ರಮಗುಣ [instrumental, sg, neut., sanskrit]
+- **ಶಾಸ್ತ್ರಪಾರಮುಂ** ← ಶಾಸ್ತ್ರಪಾರು [noun; accusative, sg, neut., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 52, 161 · alt: ಶಾಸ್ತ್ರಪಾರ್ [accusative, sg, neut., -uṃ 'and/also' (122), sanskrit]; ಶಾಸ್ತ್ರಪಾರ [nominative, sg, masc./neut./fem., -uṃ 'and/also' (122), sanskrit]
+- **ರಿಪುಬಳ** ← ರಿಪುಬಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪಾರಮುಮೊಡನೆ** ← ಪಾರ್ + ಅಂ + ಉಂ + ಒಡನೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪಾರಮುಮೊಡನೆ [nominative, sg, neut./fem., kannada]
+- **ಸಂದುವೆನಿಸಿದನಮೇಯ** ← ಸಲ್ + ಉದು + ಎನೆ + ಇಸು + ಇದು + ಅಂ + ಅಂ + ಏಯ [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಸಂದುವೆನಿಸಿದನಮೇಯ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಲಶಾಲಿ** ← ಬಲಿ + ಅಶಾಲಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬಲಶಾಲಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಮನುಜ** ← ಮನುಜ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮಾರ್ತಾಂಡ** ← ಮಾಱು + ಆನ್ + ಡ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮಾರ್ತಾಣ್ [past relative participle]
+- **ನೃಪಂ** ← ನೃಪ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ನೃಸು [future/present, sg, masc./human, 3]; ನೃಗು [future/present, sg, masc./human, 3]
+- **ಉಡೆವಣಿ** ← ಉಡು + ಮಣಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಉಡೆವಣಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪಱಿಯದ** ← ಪಱಿ + ಇಯ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪಱಿಯ [genitive, sg, neut., kannada]
+- **ಮುನ್ನಮೆತೊಡಗಿ** ← ಮು + ನಮೆ + ತೊಡಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮುಂನಮೆತೊಡಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಚಲಂ** ← ಚಲ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161
+- **ನೆಗೞೆ** ← ನೆಗೞ್ [verb; sati-saptamī (when …), to undertake; to be famous; also a crocodile] (lexicon) · rules 246 · alt: ನೆಗೞೆ [nominative, sg, neut./fem., kannada]
+- **ರಿಪುಬಲಂಗಳನೆ** ← ರಿಪುಬಲಂಗಳನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪಡಲ್ವಡಿಸಿ** ← ಪಡು + ಬಡಿಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪಡಲ್ವಡಿಸಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಪರಬಲದ** ← ಪರೆ + ಅಬಲ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಬಲ [genitive, sg, neut., kannada]
+- **ನೆತ್ತರಕಡಲೊಳಗಣ** ← ನೆತ್ತರಕಡಲೊಳಗಣ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಜಿಗುಳೆ** ← ಜಿಗುಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬಳೆವ** ← ಬಳೆ [verb; future relative participle, to grow, increase; also a glass bangle] (lexicon) · rules 221
+- **ತೆಱದೊಳೆ** ← ತೆಱ್ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೆಱದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಬಳೆದಂ** ← ಬಳೆ [verb; past, sg, masc./human, 3, to grow, increase; also a glass bangle] (lexicon) · rules 221, 217, 161 · alt: ಬಳೆದು [accusative, sg, neut., kannada]; ಬಳೆದ [nominative, sg, masc./neut./fem., kannada]
+- **ಮೇಲೆೞ್ದ** ← ಮೇಲೆ + ಎೞ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮೇಲೆೞ್ [past relative participle]
+- **ಬಲಂ** ← ಬಲ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161
+- **ಕೋಟಿಗೆಮೇಲಪ್ಪೊಡಮನ್ಯವನಿತೆ** ← ಕೋಟಿ + ಮೇಲೆ + ಆಗು + ಒಡ್ + ಅಂ + ಅಂ + ಅ + ಅಂ + ಇತೆ [phrase/compound; saṃhitā split into 9] (inferred) · alt: ಕೋಟಿಗೆಮೇಲಪ್ಪೊಡಮನ್ಯವನಿತೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ದೂರ್ವಶಿಗಂಮೇಲಪ್ಪೊಡಮಕ್ಕೆಂದುಂಸೋಲವು** ← ನೆಗೆ + ಅೞ್ + ಊರ್ವಶಿ + ಅಂ + ಮೇಲೆ + ಆಗು + ಒಡ್ + ಅಂ + ಅಕ್ಕು + ಎಂದು + ಉಂ + ಸೋಲ್ + ಅದು [phrase/compound; saṃhitā split into 13] (lexicon) · alt: ನೆಗೞ್ದೂರ್ವಶಿಗಂಮೇಲಪ್ಪೊಡಮಕ್ಕೆಂದುಂಸೋಲವು [nominative, sg, neut./masc., kannada]
+- **ಕಣ್** ← ಕಣ್ [noun; nominative, sg, neut., kannada] (lexicon) · rules 105 · alt: ಕಣ್ [vocative, sg, neut., kannada]
+- **ಪರಬಲಾಬ್ಧಿಗಂ** ← ಪರೆ + ಅಬಲಾಬ್ಧಿಗು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಬಲಾಬ್ಧಿಗು [accusative, sg, neut., sanskrit]; ಪರಬಲಾಬ್ಧಿಗ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪರವಧುಗಂ** ← ಪರೆ + ಅದು + ಅಧುಗು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪರವಧುಗು [accusative, sg, neut., sanskrit]; ಪರವಧುಗ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಧುರದೊಳ್** ← ಧುರ [noun; locative, sg, neut., sanskrit] (inferred) · rules 106
+- **ಮೂಱುಂ** ← ಮೂಱು [noun; nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada] (lexicon) · rules 105 · alt: ಮೂಱು [vocative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಮೂಱು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಲೋಕಂನೆರೆದಿರೆಯುಂ** ← ಲೋಕ + ಅಂ + ನೆರೆ + ಇರ್ + ಉಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಲೋಕಂನೆರೆದಿರೆಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಲೋಕಂನೆರೆದಿರೆ [nominative, sg, neut./fem., -uṃ 'and/also' (122), kannada]
+- **ಕುಡುವ** ← ಕುಡು [verb; future relative participle, to give; (adj.) crooked] (lexicon) · rules 221 · alt: ಕುಡು [genitive, sg, masc./neut., kannada]
+- **ಪೊೞ್ತಱೊಳ್** — ❓ not derivable with the rules + lexicon
+- **ಮೇರುವೆ** ← ಮೇರು [noun; vocative, sg, neut./masc., sanskrit] (lexicon) · rules 123, 55, 124 · alt: ಮೇರುವೆ [nominative, sg, neut./fem., kannada]
+- **ಮುಂದಿರೆಯುಂ** ← ಮುಂದು + ಇರ್ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮುಂದಿರೆಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಮುಂದಿರೆ [nominative, sg, neut./fem., -uṃ 'and/also' (122), kannada]
+- **ಬೀರದ** ← ಬೀ + ರ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೀರ [genitive, sg, neut., kannada]
+- **ಬಿಯದಂತರಕ್ಕೆ** ← ಬಿಯದಂತರ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ಬಿಯದಂತರಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಕಿಱಿದೆಂದು** ← ಕಿಱು + ಇದು + ಎಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕಿಱಿದೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಚಿಂತಿಪಂ** ← ಚಿಂತಿಪು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಚಿಂತಿಪ [nominative, sg, masc./neut./fem., kannada]; ಚಿಂತಿಸು [future/present, sg, masc./human, 3]
+- **ಪ್ರಿಯಗಳ್ಳಂ** ← ಪ್ರಿಯ + ಕಳ್ಳ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪ್ರಿಯಗಳ್ಳು [accusative, sg, neut., sanskrit]; ಪ್ರಿಯಗಳ್ಳ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸಮನೆನಿಸುವರ್** ← ಸಮೆ + ಅಂ + ಎನೆ + ಇಸು + ಉದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸಮನೆನಿಸುವ [nominative, pl, masc., kannada]; ಸಮನೆನಿಸು [nominative, pl, masc., kannada]
+- **ಪ್ರಶಸ್ತಿಕ್ರಮದೊಳ್** ← ಪ್ರಶಸ್ತಿಕ್ರಮ [noun; locative, sg, neut., sanskrit] (inferred) · rules 106
+- **ಸ್ವಸ್ತಿ** ← ಸ್ವಸ್ತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಸಮಧಿಗತ** ← ಸಮೆ + ಅಧಿಗತ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಮಧಿಗತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಪಂಚಮಹಾ** ← ಪಂಚ + ಅಂ + ಅಹ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪಂಚಮಹ [vocative, sg, masc./neut./fem., kannada]
+- **ಶಬ್ದ** ← ಶಬ್ದ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ಮಹಾ** ← ಮಹ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ಸಾಮಂತರೆನಲ್ಸಮನೆನಿಪರೆ** ← ಸಾಮಿ + ಅಂ + ತರ್ + ಎನ್ + ಸಮೆ + ಅಂ + ಎನೆ + ಇಸು + ಅರೆ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಸಾಮಂತರೆನಲ್ಸಮನೆನಿಪರೆ [nominative, sg, neut./fem., kannada]
+- **ಗುಣದೊಳರಿಗನೊಳ್** ← ಗುಣ + ಅದು + ಒಳ್ + ಅರಿ + ಅಂ + ಒಳ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಗುಣದೊಳರಿಗ [locative, sg, masc./fem., kannada]
+- **ಸಾಮಂತರ್** ← ಸಾಮಂತ [noun; nominative, pl, masc., kannada] (lexicon) · rules 98, 52, 105 · alt: ಸಾಮಂತರ್ [nominative, sg, neut., kannada]
+- **ಚಾಗದ** ← ಚಾಗ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಕಂಬಮಂ** ← ಕಂಬಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಕಂಬ [accusative, sg, neut., kannada]; ಕಂಬಮ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿಱಿಸಿ** ← ನಿಱಿಸಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಬೀರದ** ← ಬೀ + ರ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೀರ [genitive, sg, neut., kannada]
+- **ಶಾಸನಮಂ** ← ಶಾಸನಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಶಾಸನ [accusative, sg, neut., sanskrit]; ಶಾಸನಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ನೆಗೞ್ಚಿ** ← ನೆಗೞ್ಚು [verb; past gerund, to make famous; to undertake, engage in] (lexicon) · rules 236, 52 · alt: ನೆಗೞ್ಚಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕೋಳ್ಪೋಗದ** ← ಕೋಳ್ + ಪೋಗು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೋಳ್ಪೋಗ [genitive, sg, neut., kannada]
+- **ಮಂಡಲಂಗಳನೆ** ← ಮಂಡಲಂಗಳನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕೊಂಡು** ← ಕೊಳ್ [verb; past gerund, to take, seize] (lexicon) · rules 236, 217 · alt: ಕೊಂಡು [nominative, sg, neut./masc., kannada]
+- **ಜಗತ್ತ್ರಿತಯಂಗಳೊಳ್** ← ಜಗತ್ತ್ರಿತಯ [noun; locative, pl, masc./neut./fem., sanskrit] (lexicon) · rules 102, 103
+- **ಜಸಕ್ಕಾಗರಮಾದ** ← ಜಸ + ಆಗು + ಅರೆ + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಜಸಕ್ಕಾಗರಮಾದ [vocative, sg, masc./neut./fem., kannada]
+- **ಬದ್ದೆಗನಿನಾ** ← ಬದ್ದೆಗನು [noun; genitive, sg, neut., kannada] (inferred) · rules 108, 117
+- **ನರಸಿಂಹನಿನತ್ತ** ← ನರೆ + ಅಸು + ಹನಿ + ಇಂ + ಅತ್ತ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನರಸಿಂಹನಿನಱು [past relative participle]
+- **ನಾಲ್ವೆರಲ್ಮೇಗು** ← ನಾಲ್ + ಎರಲ್ + ಮೇಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಾಲ್ವೆರಲ್ಮೇಗು [nominative, sg, neut./masc., kannada]
+- **ಪೊದೞ್ದ** ← ಪೊ + ದೞ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊದೞ್ [past relative participle]
+- **ಚಾಗದೊಳಮೊಂದಿದ** ← ಚಾಗದೊಳಮೊಂದು [verb; past relative participle] (inferred) · rules 221 · alt: ಚಾಗದೊಳಮೊಂದಿ [past relative participle]
+- **ಬೀರದೊಳಂ** ← ಬೀ + ರ + ಒಳ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬೀರದೊಳು [accusative, sg, neut., kannada]; ಬೀರದೊಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಗುಣಾರ್ಣವಂ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವು [accusative, sg, neut., kannada]; ಗುಣಾರ್ಣವ [nominative, sg, masc./neut./fem., kannada]
+- **ಎನೆ** ← ಎನೆ [avyaya; when said] (lexicon) · alt: ಎನ್ [sati-saptamī (when …), to say]; ಎನೆ [nominative, sg, neut./fem., kannada]
+- **ಸಂದುಂ** ← ಸಲ್ [verb; past gerund, -uṃ 'and/also' (122), to enter, go into; to be renowned; to be valid] (lexicon) · rules 236, 217 · alt: ಸಲ್ [past gerund, -aṃ 'and' after -oḷ (122), to enter, go into; to be renowned; to be valid]; ಸಂದು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ವೀರವೈರಿಕ್ಷಿತಿಪಗಜಘಟಾಟೋಪಕುಂಭಸ್ಥಳೀಭೇದನನುಗ್ರೋದ್ಭಾಸಿ** ← ವೀರವೈರಿಕ್ಷಿತಿಪಗಜಘಟಾಟೋಪಕುಂಭಸ್ಥಳೀಭೇದನನುಗ್ರೋದ್ಭಾಸಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಭಾಸ್ವದ್ಭುಜಪರಿಘನನಾರೂಢಸರ್ವಜ್ಞನಂ** ← ಭಾಸ್ವದ್ಭುಜಪರಿಘನನಾರೂಢಸರ್ವಜ್ಞನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಭಾಸ್ವದ್ಭುಜಪರಿಘನನಾರೂಢಸರ್ವಜ್ಞ [accusative, sg, masc./neut./fem., sanskrit]; ಭಾಸ್ವದ್ಭುಜಪರಿಘನನಾರೂಢಸರ್ವಜ್ಞನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ವೈರಿ** ← ವೈರಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ನರೇಂದ್ರೋದ್ಧಾಮ** ← ನರೆ + ಏನ್ + ದ್ರೋದ್ಧಾಮ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರೇಂದ್ರೋದ್ಧಾಮ [vocative, sg, masc./neut./fem., sanskrit]
+- **ದರ್ಪೋದ್ದಳನನನೆ** ← ದರ್ಪ + ಓ + ದಳ + ಅಂ + ಅಂ + ಅನೆ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ದರ್ಪೋದ್ದಳನನನೆ [nominative, sg, neut./fem., kannada]
+- **ಕಥಾನಾಯಕಂ** ← ಕಥಾಂ + ಆಯ್ + ಅಕು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕಥಾನಾಯಕು [accusative, sg, neut., sanskrit]; ಕಥಾನಾಯಕ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮಾಡಿ** ← ಮಾಡು [verb; past gerund, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 236, 52 · alt: ಮಾಡಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಸಂದರ್ಜುನನೊಳ್** ← ಸಲ್ + ಅರೆ + ಸು + ಅಂ + ಒಳ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸಂದರ್ಜುನ [locative, sg, masc./fem., kannada]
+- **ಪೋಲ್ವೀ** ← ಪೋಲ್ವಿ [noun; vocative, sg, neut./fem./masc., sanskrit] (inferred) · rules 123, 123
+- **ಕಥಾಭಿತ್ತಿಯನನುನಯದಿಂ** ← ಕಥಾ + ಭಿತ್ತಿಯನನುನಯದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಥಾಭಿತ್ತಿಯನನುನಯದು [instrumental, sg, neut., sanskrit]; ಕಥಾಭಿತ್ತಿಯನನುನಯ [instrumental, sg, neut., sanskrit]
+- **ಪೇೞಲೆಂದೆತ್ತಿಕೊಂಡೆಂ** ← ಪೇೞ್ + ಎಂದು + ಎತ್ತು + ಇಕೊಣ್ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಪೇೞಲೆಂದೆತ್ತಿಕೊಣ್ [past, sg, 1]; ಪೇೞಲೆಂದೆತ್ತಿಕೊಣ್ [past, pl, 1]
+- **ಜಲಜಲನೊೞ್ಕುತಿರ್ಪ** ← ಜಲ + ಸಲ್ + ಅಂ + ಒೞ್ಕು + ಇರ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಜಲಜಲನೊೞ್ಕುತಿರ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಪರಿಕಾಲ್** ← ಪರೆ + ಇಕಾಲ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಿಕಾಲ್ [nominative, sg, neut., kannada]
+- **ಪರಿಕಾಲೊಳಳುರ್ಕೆಗೊಂಡ** ← ಪರೆ + ಇಕಾಲೊಳಳುರ್ಕೆಗೊಣ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಿಕಾಲೊಳಳುರ್ಕೆಗೊಣ್ [past relative participle]
+- **ನೆಯ್ದಿಲ** ← ನೆಯ್ದಿಲ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಪೊಸವೂ** ← ಪೊಸೆ + ಅವು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೊಸವು [vocative, sg, neut./masc., kannada]
+- **ಪೊದೞ್ದ** ← ಪೊ + ದೞ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊದೞ್ [past relative participle]
+- **ಪೊಸ** ← ಪೊಸ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ನೆಯ್ದಿಲ** ← ನೆಯ್ದಿಲ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಕಂಪನೆ** ← ಕಂಪನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬೀಱಿ** ← ಬೀಱು [verb; past gerund, to give freely, lavish] (lexicon) · rules 236, 52 · alt: ಬೀಱಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕಾಯ್ತ** ← ಕಾಯ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕೆಂಗೊಲೆಯೊಳೆ** ← ಕೆ + ಕೊಲ್ + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೆಂಗೊಲೆಯೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಜೋಲ್ವ** ← ಜೋಲ್ [verb; future relative participle, to hang down, dangle] (lexicon) · rules 221
+- **ಶಾಳಿ** ← ಶಾಳಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನವಶಾಳಿಗೆ** ← ನವಶಾಳಿ [noun; dative, sg, neut./fem./masc., sanskrit] (inferred) · rules 113 · alt: ನವಶಾಳಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಪಾಯ್ವ** ← ಪಾಯ್ [verb; future relative participle, to leap over, jump] (lexicon) · rules 221
+- **ಶುಕಾಳಿ** ← ಶುಕಾಳಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ತೋಱೆ** ← ತೋಱು [verb; sati-saptamī (when …), to appear, show] (lexicon) · rules 246, 52 · alt: ತೋಱು [vocative, sg, neut., kannada]; ತೋಱೆ [nominative, sg, neut./fem., kannada]
+- **ಕೆಯ್ವೊಲಗಳಿನೊಪ್ಪಿ** ← ಕೆಯ್ + ಒ + ಲ + ಇಂ + ಒಪ್ಪು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕೆಯ್ವೊಲಗಳಿನೊಪ್ಪಿ [nominative, sg, neut./fem./masc., kannada]
+- **ತೋಱಿ** ← ತೋಱು [verb; past gerund, to appear, show] (lexicon) · rules 236, 52 · alt: ತೋಱಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಸಿರಿ** ← ಸಿರಿ [noun; nominative, sg, neut./fem./masc., kannada] (lexicon) · rules 105 · alt: ಸಿರಿ [vocative, sg, neut./fem./masc., kannada]
+- **ನೋಡುಗುಮಾ** ← ನೋಡು + ಉಗುಮ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೋಡುಗುಮ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಷಯಾಂತರಾಳದೊಳ್** ← ವಿಷ + ಆನ್ + ತರ್ + ಆಳ್ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ವಿಷಯಾಂತರಾಳ [locative, sg, neut., sanskrit]
+- **ಬೆಳೆದೊಱಗಿರ್ದ** ← ಬೆಳೆ + ಒಱಗು + ಇರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೆಳೆದೊಱಗಿರ್ [past relative participle]
+- **ಕೆಯ್ವೊಲನೆ** ← ಕೆಯ್ವೊಲ [noun; vocative, sg, masc./fem., kannada] (lexicon) · rules 123, 124, 124 · alt: ಕೆಯ್ವೊಲನೆ [nominative, sg, neut./fem., kannada]
+- **ಕೆಯ್ವೊಲನಂ** ← ಕೆಯ್ವೊಲ [noun; accusative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಕೆಯ್ವೊಲನು [accusative, sg, neut., kannada]; ಕೆಯ್ವೊಲನ [nominative, sg, masc./neut./fem., kannada]
+- **ಬಳಸಿರ್ದ** ← ಬಳಸು + ಇರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಳಸಿರ್ [past relative participle]
+- **ಪೂತ** ← ಪೂ [verb; past relative participle, to blossom; (noun) flower] (lexicon) · rules 241
+- **ಪೂಗೊಳಗಳೆ** ← ಪೂ + ಒಳಗೆ + ಅಳೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೂಗೊಳಗಳೆ [nominative, sg, neut./fem., kannada]
+- **ಪೂತ** ← ಪೂ [verb; past relative participle, to blossom; (noun) flower] (lexicon) · rules 241
+- **ಪೂಗೊಳಗಳಂ** ← ಪೂ + ಒಳಗೆ + ಅಳೆ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೂಗೊಳಗಳು [accusative, sg, neut., kannada]; ಪೂಗೊಳ [accusative, pl, neut., kannada]
+- **ಬಳಸಿರ್ದ** ← ಬಳಸು + ಇರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಳಸಿರ್ [past relative participle]
+- **ವಿಚಿತ್ರ** ← ವಿಚಿತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ನಂದನಾವಳಿಗಳೆ** ← ನಂದು + ಅಂ + ಆವಳಿಗಳೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಂದನಾವಳಿಗಳೆ [nominative, sg, neut./fem., kannada]
+- **ನಂದನಾವಳಿಗಳಂ** ← ನಂದು + ಅಂ + ಆವಳಿಗಳು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಂದನಾವಳಿಗಳು [accusative, sg, neut., kannada]; ನಂದನಾವಳಿ [accusative, pl, neut./fem./masc., kannada]
+- **ಬಳಸಿರ್ದ** ← ಬಳಸು + ಇರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಳಸಿರ್ [past relative participle]
+- **ಮದಾಳಿ** ← ಮದಾಳಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಸಂಕುಲಂಗಳೆ** ← ಸು + ಕುಲ + ಅಂ + ಕಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಂಕುಲಂಗಳೆ [nominative, sg, neut./fem., kannada]
+- **ವಿಷಯಾಂಗನಾಲುಳಿತ** ← ವಿಷ + ಆನ್ + ಗನಾಲುಳಿತ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ವಿಷಯಾಂಗನಾಲುಳಿತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಕುಂತಳದಂತೆವೊಲೊಪ್ಪಿ** ← ಕುಂತ + ಅಳೆ + ಅದು + ಅಂತೆ + ಒಲ್ + ಒಪ್ಪು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕುಂತಳದಂತೆವೊಲೊಪ್ಪಿ [nominative, sg, neut./fem./masc., kannada]
+- **ತೋಱುಗುಂ** ← ತೋಱು [verb; aorist -guṃ/-kuṃ, to appear, show] (lexicon) · rules 227
+- **ಲಳಿತ** ← ಲಳಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವಿಚಿತ್ರ** ← ವಿಚಿತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಪತ್ರ** ← ಪತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಫಲ** ← ಫಲ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123 · alt: ಫಲ್ [genitive, sg, neut., sanskrit]
+- **ಪುಷ್ಪಯುತಾಟವಿ** ← ಪುಷ್ಪಯುತಾಟವಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಸೊರ್ಕಿದಾನೆಯಂಬೆಳೆವುದು** ← ಸೊರ್ಕು + ಇದು + ಆನ್ + ಅಂ + ಬೆಳೆ + ಉದು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಸೊರ್ಕಿದಾನೆಯಂಬೆಳೆವುದು [nominative, sg, neut./masc., kannada]; ಸೊರ್ಕಿದಾನೆಯಂಬೆಳೆ [future/present, sg, neut., 3]
+- **ದೇವಮಾತೃಕಮೆನಿಪ್ಪ** ← ದೇವಿ + ಅಂ + ಆತ + ಋಕ್ + ಅಂ + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ದೇವಮಾತೃಕಮೆನಿಪ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೊಲಂ** ← ಪೊಲ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161
+- **ನವಗಂಧಶಾಳಿಯಂಬೆಳೆವುದು** ← ನವ + ಅಗಿ + ಅಂ + ಧಶಾಳಿಯಂಬೆಳೆವುದು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನವಗಂಧಶಾಳಿಯಂಬೆಳೆವುದು [nominative, sg, neut./masc., kannada]; ನವಗಂಧಶಾಳಿಯಂಬೆಳೆ [future/present, sg, neut., 3]
+- **ರಮ್ಯ** ← ರಮ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ನಂದನ** ← ನಂದನ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ನಂದ [genitive, sg, masc./fem., kannada]
+- **ವನಾಳಿ** ← ವನಾಳಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ವಿಯೋಗಿಜನಕ್ಕೆ** ← ವಿಯೋಗಿಜನ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ವಿಯೋಗಿಜನಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಬೇಟಮಂಬಳೆವುದು** ← ಬೇಟಮಂಬಳೆವುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ಬೇಟಮಂಬಳೆ [future/present, sg, neut., 3]
+- **ನಾಡ** ← ನಾಡ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಕಾಡ** ← ಕಾಡು [verb; imperative/optative, sg, 2, to tease, harass; (n.) forest] (lexicon) · rules 125 · alt: ಕಾಡು [infinitive, to tease, harass; (n.) forest]
+- **ಬೆಳಸಿಂಬೆಳಸಾ** ← ಬೆಳು + ಅಸು + ಬೆಳಸ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬೆಳಸಿಂಬೆಳಸ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಷಯಾಂತರಾಳದೊಳ್** ← ವಿಷ + ಆನ್ + ತರ್ + ಆಳ್ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ವಿಷಯಾಂತರಾಳ [locative, sg, neut., sanskrit]
+- **ಆವಲರುಂ** ← ಆವು + ಅಲರ್ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಆವಲ [nominative, pl, masc., -uṃ 'and/also' (122), kannada]; ಆವಲರು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಪಣ್ಣುಂ** ← ಪಣ್ [verb; imperative/optative, sg, 2, -uṃ 'and/also' (122), to make ready; (n.) a ripe fruit] (lexicon) · rules 230 · alt: ಪಣ್ಣು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಪಣ್ಣು [vocative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಬೀತೋವವು** ← ಬೀ + ಓವು + ಅದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೀತೋವವು [nominative, sg, neut./masc., kannada]
+- **ಗಡ** ← ಗಡ [avyaya; reportative/courteous particle ('it is said, indeed')] (lexicon) · alt: ಗಡ [vocative, sg, masc./neut./fem., kannada]
+- **ಬೀಯವಲ್ಲಿ** ← ಬೀ + ಅದು + ಅಲ್ಲಿ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೀಯವಲ್ಲಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮಲ್ಲಿಗೆಗಳುಮಿಮ್ಮಾವುಗಳುಮೆಂದೊಡಿನ್** ← ಮಲ್ಲಿಗೆಗಳುಮಿಂಮಾವುಗಳುಮೆಂದೊಡು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161
+- **ಪೆಱತಾವುದು** ← ಪೆಱತು + ಆವುದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೆಱತಾವುದು [nominative, sg, neut./masc., kannada]
+- **ಸಂಸಾರ** ← ಸು + ಸಾರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸಂಸಾರ್ [genitive, sg, neut., kannada]
+- **ಸಾರಸರ್ವಸ್ವ** ← ಸಾರ್ + ಅಸು + ಅರೆ + ವಸ್ವ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸಾರಸರ್ವಸ್ವ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಫಲಂ** ← ಫಲ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಫಲ್ [accusative, sg, neut., sanskrit]
+- **ಮಿಡಿದೊಡೆ** ← ಮಿಡಿ [verb; conditional -oḍe, to flick with the finger; (n.) a tender unripe fruit] (lexicon) · rules 250, 217 · alt: ಮಿಡಿದೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ತನಿಗರ್ವು** ← ತ + ನಿ + ಅರೆ + ಮು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತನಿಗರ್ವು [nominative, sg, neut./masc., kannada]
+- **ರಸಂಬಿಡುವುವು** ← ರಸ + ಅಂ + ಬಿಡು + ಉದು + ಉದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ರಸಂಬಿಡುವುವು [nominative, sg, neut./masc., kannada]; ರಸಂಬಿಡು [future/present, pl, neut., 3]
+- **ಬಿರಿದೊಂದು** ← ಬಿರಿ + ಇದು + ಒಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಿರಿದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಮುಗುಳ** ← ಮುಗುಳ್ [verb; imperative/optative, sg, 2, to close (the eyes); also a bud] (lexicon) · rules 125 · alt: ಮುಗುಳ್ [infinitive, to close (the eyes); also a bud]
+- **ಕಂಪಿನೊಳೆ** ← ಕಂಪಿನೊಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮೊಗಂಗಿಡುವುವು** ← ಮೊಗೆ + ಅಂ + ಗಿಡು + ಉದು + ಉದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮೊಗಂಗಿಡುವುವು [nominative, sg, neut./masc., kannada]; ಮೊಗಂಗಿಡು [future/present, pl, neut., 3]
+- **ತುಂಬಿಗಳೞ್ಕಮೆವಡುವುವು** ← ತುಂಬು + ಗಳ + ಅೞ್ಕು + ಅಂ + ಎವಡುವುವು [phrase/compound; saṃhitā split into 5] (inferred) · alt: ತುಂಬಿಗಳೞ್ಕಮೆವಡುವುವು [nominative, sg, neut./masc., kannada]; ತುಂಬಿಗಳೞ್ಕಮೆವಡು [future/present, pl, neut., 3]
+- **ಕುಡಿದೊಂದು** ← ಕುಡು + ಇದು + ಒಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕುಡಿದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಪಣ್ಣ** ← ಪಣ್ [verb; infinitive, to make ready; (n.) a ripe fruit] (lexicon) · rules 235, 69 · alt: ಪಣ್ [genitive, sg, neut., kannada]
+- **ರಸದೊಳೆ** ← ರಸ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ರಸದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಗಿಳಿಗಳ್** ← ಗಿಳಿ [noun; nominative, pl, neut./fem./masc., kannada] (lexicon) · rules 95, 105
+- **ಸುತ್ತಿಱಿದ** ← ಸುತ್ತು + ಇಱಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸುತ್ತಿಱಿ [past relative participle]
+- **ರಸದ** ← ರಸ [noun; genitive, sg, neut., kannada] (lexicon) · rules 106
+- **ತೊಱೆಗಳೆಮುತ್ತಿನ** ← ತೊಱ್ + ಕಳ್ + ಮುತ್ತು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೊಱೆಗಳೆಮುತ್ತು [genitive, sg, neut., kannada]
+- **ಮಾಣಿಕದ** ← ಮಾಣಿಕದ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಮಾಣಿಕ [genitive, sg, neut., kannada]
+- **ಪಲವುಮಾಗರಮೆ** ← ಪಲ್ + ಅದು + ಉಂ + ಆಗು + ಅರಮೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪಲವುಮಾಗರಮೆ [nominative, sg, neut./fem., kannada]
+- **ಮದೋನ್ಮತ್ತ** ← ಮದೋನ್ಮಱು [verb; past relative participle] (inferred) · rules 240
+- **ಮದಕರಿ** ← ಮದ + ಅರಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮದಕರಿ [nominative, sg, neut./fem./masc., kannada]
+- **ವನಂಗಳೆಸುತ್ತಲುಮಾ** ← ವನ + ಅಂ + ಕಳ್ + ಸುತ್ತು + ಅಲುಮ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ವನಂಗಳೆಸುತ್ತಲುಮ [vocative, sg, masc./neut./fem., kannada]
+- **ನೆಲದ** ← ನೆಲ [noun; genitive, sg, neut., kannada] (lexicon) · rules 106
+- **ಸಿರಿಯನೇನಂ** ← ಸಿರಿ + ಅಂ + ಏನ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಿರಿಯನೇನು [accusative, sg, neut., kannada]; ಸಿರಿಯನೇನ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೊಗೞ್ವೆಂ** ← ಪೊಗೞ್ [verb; future/present, sg, 1, to praise] (lexicon) · rules 221, 217, 161 · alt: ಪೊಗೞ್ [future/present, pl, 1, to praise]
+- **ಅದಱ** ← ಅದು [pronoun; genitive, sg] (lexicon) · rules 110 · alt: ಅದಱ [vocative, sg, masc./neut./fem., kannada]; ಅದು [genitive, sg, neut., kannada]
+- **ಪೊಱವೊೞಲ** ← ಪೊಱು + ಅದು + ಒೞಲ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪೊಱವೊೞಲ್ [genitive, sg, neut., kannada]
+- **ವಿಶಾಳ** ← ವಿಶಾಳ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕನಕ** ← ಕನಕ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕೃತಕ** ← ಕೃತಕ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಗಿರಿಗಳಿಂ** ← ಗಿರಿ [noun; instrumental, pl, neut./fem./masc., sanskrit] (lexicon) · rules 95, 161 · alt: ಗಿರಿಗಳು [instrumental, sg, neut., kannada]
+- **ಫಳಪ್ರಕೀರ್ಣತರುಗಳಿಂನನೆಯ** ← ಫಳಪ್ರಕೀರ್ಣತರುಗಳಿಂನನೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53
+- **ಕೊನೆಯ** ← ಕೊನೆ [verb; infinitive, to prosper in an undertaking; (noun) tip, point] (lexicon) · rules 235, 53 · alt: ಕೊನೆ [genitive, sg, neut./fem., kannada]
+- **ತಳಿರ** ← ತಳಿರ್ [verb; imperative/optative, sg, 2, to sprout] (lexicon) · rules 125 · alt: ತಳಿರ್ [infinitive, to sprout]; ತಳಿರ್ [genitive, sg, neut., kannada]
+- **ಮುಗುಳ** ← ಮುಗುಳ್ [verb; imperative/optative, sg, 2, to close (the eyes); also a bud] (lexicon) · rules 125 · alt: ಮುಗುಳ್ [infinitive, to close (the eyes); also a bud]
+- **ವನಲತಾನಿಕುಂಜದಿಂ** ← ವನ + ಲತೆ + ಆನ್ + ಇಸು + ಜ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ವನಲತಾನಿಕುಂಜದು [instrumental, sg, neut., kannada]; ವನಲತಾನಿಕುಂಜ [instrumental, sg, neut., kannada]
+- **ಪ್ರಸೂನ** ← ಪ್ರಸೂನ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ರಜದ** ← ರಜ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಪುಂಜದಿಂಗಗನತಳಮೆ** ← ಪುಂಜದಿಂಗಗನತಳಮೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪಱಿದು** ← ಪಱಿ [verb; past gerund, to be torn, cut off] (lexicon) · rules 236, 217 · alt: ಪಱಿದು [nominative, sg, neut./masc., kannada]
+- **ಬಿೞ್ದುದೆನಿಪ** ← ಬೀೞ್ + ಉದು + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬಿೞ್ದುದೆನಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಹುತಟಾಕದಿಂ** ← ಬಹುತಟಾಕದು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಹುತಟಾಕ [instrumental, sg, neut., kannada]
+- **ಕುಕಿಲ್ವ** ← ಕುಕಿಲ್ [verb; future relative participle, to coo like a cuckoo; (noun) cuckoo] (lexicon) · rules 221
+- **ನಲಿವ** ← ನಲಿ [verb; future relative participle, to delight, dance with joy] (lexicon) · rules 221
+- **ಕೋಕದಿಂಸುರಿವ** ← ಕೋಕದಿಂಸುರಿವ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸುರಯಿಯರಲ** ← ಸುರ + ಇ + ಅರಲ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸುರಯಿಯರಲ್ [genitive, sg, neut., kannada]
+- **ಮುಗುಳ್ಗೆ** ← ಮುಗುಳ್ [verb; imperative/optative, sg, 3, to close (the eyes); also a bud] (lexicon) · rules 229 · alt: ಮುಗುಳ್ಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮೊಗಸಿದಳಿಕುಳಂಗಳಿಂ** ← ಮೊಗಸು + ಇದು + ಅಳಿಕುಳಂಗಳು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮೊಗಸಿದಳಿಕುಳಂಗಳು [instrumental, sg, neut., kannada]; ಮೊಗಸಿದಳಿಕುಳ [instrumental, pl, masc./neut./fem., kannada]
+- **ತೊದಲ್ವ** ← ತೊದಲ್ವ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಶಿಶುಶುಕಂಗಳಿಂತೆಗೆಯೆ** ← ಶಿಶುಶುಕಂಗಳಿಂತೆಗೆಯೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬೀರರವದೆ** ← ಬೀ + ರ + ಅವು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೀರರವ [instrumental, sg, neut., kannada]; ಬೀರರವದೆ [nominative, sg, neut./fem., kannada]
+- **ಮೇಲೆ** ← ಮೇಲೆ [avyaya; above] (lexicon) · alt: ಮೇಲ್ [vocative, sg, neut., kannada]; ಮೇಲೆ [nominative, sg, neut./fem., kannada]
+- **ಪರಿವ** ← ಪರೆ + ಇವ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪರಿವ [vocative, sg, masc./neut./fem., kannada]
+- **ಮದಗಜಂಗಳಿಂ** ← ಮದ + ಗಜ + ಅಂ + ಕಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮದಗಜಂಗಳು [instrumental, sg, neut., kannada]; ಮದಗಜ [instrumental, pl, masc./neut./fem., kannada]
+- **ಚಳತ್ತುರಂಗಮಂಗಳಿಂಲವಣಜಳಧಿ** ← ಚಳತ್ + ತುರಂಗ + ಅಂ + ಅಂ + ಗಳ + ಇಂ + ಲವಣಜಳಧಿ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಚಳತ್ತುರಂಗಮಂಗಳಿಂಲವಣಜಳಧಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಬಳಸಿದಂತೆ** ← ಬಳಸು + ಇದು + ಅಂತೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಳಸಿದಂತೆ [nominative, sg, neut./fem., kannada]
+- **ಬಳಸಿದಗೞ** ← ಬಳಸು + ಇದು + ಅಗೞ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಳಸಿದಗೞ [vocative, sg, masc./neut./fem., kannada]
+- **ನೀಳದಿಂದುದಗ್ರ** ← ನೀಳ್ + ಅದು + ಇಂದು + ಉದು + ಅಗ್ರ್ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ನೀಳದಿಂದುದಗ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಕನಕಶಾಳದಿಂದೊಳಗೆ** ← ಕನಕಶಾಳದಿಂದೊಳಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕುಲನಗಂಗಳೆನಿಪ** ← ಕುಲ + ನಗು + ಅಂ + ಗಳ + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕುಲನಗಂಗಳೆನಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ದೇವಕುಲದ** ← ದೇವಕುಲ [noun; genitive, sg, neut., kannada] (lexicon) · rules 106
+- **ಭೋಗದಿಂ** ← ಭೋಗ [noun; instrumental, sg, neut., sanskrit] (lexicon) · rules 106, 161 · alt: ಭೋಗದು [instrumental, sg, neut., sanskrit]
+- **ಸರಾಗಮಾದ** ← ಸರಿ + ಆಗು + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸರಾಗಮಾದ [vocative, sg, masc./neut./fem., kannada]
+- **ರಾಗದಿಂದಿವಮನೇಳಿಪಂತು** ← ರಾಗ + ಅದು + ಇಂದು + ಇದು + ಅಂ + ಅಂ + ಏಳಿಪಂತು [phrase/compound; saṃhitā split into 7] (inferred) · alt: ರಾಗದಿಂದಿವಮನೇಳಿಪಂತು [nominative, sg, neut./masc., kannada]
+- **ಮಿಳಿರ್ವ** ← ಮಿಳಿರ್ + ವ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಿಳಿರ್ವ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿವಿಧ** ← ವಿವಿಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕೇತನಂಗಳಿಂ** ← ಕೇ + ತನು + ಅಂ + ಕಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕೇತನಂಗಳು [instrumental, sg, neut., kannada]; ಕೇತನ [instrumental, pl, masc./neut./fem., kannada]
+- **ಸದಾನಿಕೇತನಂಗಳಿಂಧನದ** ← ಸದೆ + ಆನ್ + ಕೇ + ತನು + ಅಂ + ಗಳ + ಇಂ + ಧನ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಸದಾನಿಕೇತನಂಗಳಿಂಧನ [genitive, sg, neut., sanskrit]
+- **ಭವನಮೆನಿಪ** ← ಭವಿ + ಅಂ + ಅಂ + ಎನೆ + ಇಸು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಭವನಮೆನಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಸಿರಿಯ** ← ಸಿರಿ [noun; genitive, sg, neut./fem./masc., kannada] (lexicon) · rules 53
+- **ಬಚ್ಚರಾಪಣಂಗಳಿಂ** ← ಬಚ್ಚರಾಪಣಂಗಳು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಚ್ಚರಾಪಣ [instrumental, pl, masc./neut./fem., kannada]
+- **ಪೊದೞ್ದ** ← ಪೊ + ದೞ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊದೞ್ [past relative participle]
+- **ಕಾವಣಂಗಳಿಂವಿಟಜನಕ್ಕೆ** ← ಕಾ + ಅಣೆ + ಅಂ + ಗಳ + ಇಂ + ಇ + ಟಜನ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಕಾವಣಂಗಳಿಂವಿಟಜನ [dative, sg, neut., kannada]; ಕಾವಣಂಗಳಿಂವಿಟಜನಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ತೊಡರ್ವ** ← ತೊಡೆ + ಅರೆ + ವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತೊಡರ್ವ [vocative, sg, masc./neut./fem., kannada]
+- **ಚಾರಿಯೆನಿಪ** ← ಚಾರಿಯೆನಿಪ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸೂಳೆಗೇರಿಯಿಂ** ← ಸೂಳೆಗೇರಿಯು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಸೂಳೆಗೇರಿ [instrumental, sg, neut./fem./masc., kannada]
+- **ವಿದಗ್ಧ** ← ವಿದಗ್ಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಹೃದಯಹಾರಿಯಿಂಕನಕ** ← ಹೃದಯ + ಅಹಾರಿಯಿಂಕನಕ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಹೃದಯಹಾರಿಯಿಂಕನಕ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಗೋಪುರಂಗಳೊಳಗಣೆರಡು** ← ಗೋಪುರ + ಅಂ + ಗಳ + ಒಳಗೆ + ಅಣೆ + ಎರಡು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಗೋಪುರಂಗಳೊಳಗಣೆರಡು [nominative, sg, neut./masc., kannada]
+- **ದೆಸೆಯ** ← ದೆಸೆ [noun; genitive, sg, neut./fem., kannada] (lexicon) · rules 53
+- **ಗುಣಣೆಯಿಂ** ← ಗುಣ + ಅಣೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಗುಣಣೆಯು [instrumental, sg, neut., kannada]; ಗುಣಣೆ [instrumental, sg, neut./fem., kannada]
+- **ವಿಳಾಸಿನಿಯರ** ← ವಿಳಾಸಿನಿಯರ್ [noun; genitive, sg, neut., kannada] (inferred) · alt: ವಿಳಾಸಿನಿಯ [genitive, pl, masc., kannada]; ವಿಳಾಸಿನಿ [genitive, pl, fem./masc., kannada]
+- **ಗಡಣೆಯಿಂಸುರತಸುಖದ** ← ಗಡ + ಅಣೆ + ಇಂ + ಸುರಿ + ಅತಸಿ + ಉಖ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಗಡಣೆಯಿಂಸುರತಸುಖ [genitive, sg, neut., kannada]
+- **ಬಳ್ಳವಳ್ಳಿಯೆನಿಪ** ← ಬಳ್ಳಿ + ಅದು + ಅಳ್ಳಿಯೆನಿಪ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬಳ್ಳವಳ್ಳಿಯೆನಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಳ್ಳಿಮಾಡದಿಂ** ← ಬಳ್ಳಿ + ಮಾ + ಡ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಳ್ಳಿಮಾಡದು [instrumental, sg, neut., kannada]; ಬಳ್ಳಿಮಾಡ [instrumental, sg, neut., kannada]
+- **ಮಹಾ** ← ಮಹ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ವಿನೋದನೀಡದಿಂಕನಕಶೈಲಮೆನಿಸಿ** ← ವಿನೋದನೀಡದಿಂಕನಕಶೈಲಮೆನಿಸಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ನೆಗೞ್ದ** ← ನೆಗೞ್ [verb; past relative participle, to undertake; to be famous; also a crocodile] (lexicon) · rules 221
+- **ಭೂಮಿಪಾಲಭವನದಿಂ** ← ಭೂ + ಮಿಗು + ಆಲಭವನದು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಭೂಮಿಪಾಲಭವನದು [instrumental, sg, neut., sanskrit]; ಭೂಮಿಪಾಲಭವನ [instrumental, sg, neut., sanskrit]
+- **ಸಮಸ್ತ** ← ಸಮೆ + ಅಸು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಮಸ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ವಸ್ತುಭುವನದಿಂ** ← ವಸು + ತುಭುವನದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಸ್ತುಭುವನದು [instrumental, sg, neut., sanskrit]; ವಸ್ತುಭುವನ [instrumental, sg, neut., sanskrit]
+- **ಜಳರುಹನಾಭನ** ← ಜಳರುಹನಾಭ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105
+- **ನಾಭಿಯಜಳ** ← ನಾ + ಭಿಯಜಳ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಾಭಿಯಜಳ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಬುದ್ಬುದದೊಳಗೆ** ← ಬುದ್ಬುದದೊಳಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸುರಭಿ** ← ಸುರಭಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪರಿಮಳ** ← ಪರೆ + ಇಮಳ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಿಮಳ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಿಳಿತೋಲ್ಲುಳಿತಾಳಿ** ← ಮಿಳಿತೋಲ್ಲುಳಿತಾಳಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಜಲಜಮಾಯ್ತಾಜಳಜದೊಳೊಗೆದಂ** ← ಜಲ + ಸು + ಆಗು + ಆಜಳಜದೊಳೊಗೆದು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಜಲಜಮಾಯ್ತಾಜಳಜದೊಳೊಗೆದು [accusative, sg, neut., kannada]; ಜಲಜಮಾಯ್ತಾಜಳಜದೊಳೊಗೆದ [nominative, sg, masc./neut./fem., kannada]
+- **ಹಿರಣ್ಯಗರ್ಭ** ← ಹಿರಣ್ಯಗರ್ಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಬ್ರಹ್ಮಂ** ← ಬ್ರಹ್ಮ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಬ್ರಹ್ಮು [accusative, sg, neut., sanskrit]
+- **ಕಮಲೋದ್ಭವನಮಳಿನ** ← ಕಮಲ + ಓ + ಭವಿ + ಅಂ + ಅಂ + ಅಳಿನ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಕಮಲೋದ್ಭವನಮಳು [genitive, sg, neut., sanskrit]
+- **ಹೃತ್ಕಮಲದೊಳೊಗೆದರ್** ← ಹೃತ್ಕಮಲದೊಳೊಗೆದ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ಹೃತ್ಕಮಲದೊಳೊಗೆದರ್ [nominative, sg, neut., kannada]; ಹೃತ್ಕಮಲದೊಳೊಗೆ [past, pl, masc./human, 3]
+- **ಸುರೇಂದ್ರ** ← ಸುರಿ + ಏಂದ್ರ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸುರೇಂದ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಧಾರಕರಾವಾಗಮಳರ್** ← ಧಾರಕರಾವಾಗಮಳ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಧಾರಕರಾವಾಗಮಳರ್ [nominative, sg, neut., sanskrit]
+- **ನೆಗೞ್ದಿರ್ದರ್** ← ನೆಗೆ + ಅೞ್ + ಇರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನೆಗೞ್ದಿರ್ದ [nominative, pl, masc., kannada]; ನೆಗೞ್ದಿರ್ದರ್ [nominative, sg, neut., kannada]
+- **ಪುಲಹ** ← ಪುಲಹ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮರೀಚ್ಯತ್ರ್ಯಂಗಿರಃ** — ❓ not derivable with the rules + lexicon
+- **ಪುಳಸ್ತ್ಯ** ← ಪುಳಸ್ತ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಕ್ರತುಗಳ್** ← ಕ್ರತು [noun; nominative, pl, neut./masc., sanskrit] (inferred) · rules 95, 105
+- **ಅತ್ರಿಯ** ← ಅತ್ರಿ [noun; genitive, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ಪಿರಿಯ** ← ಪಿರಿಯ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಪಿರಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಮಗಂ** ← ಮಗ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161
+- **ಭುವನತ್ರಯ** ← ಭುವನತ್ರಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಸಂಗೀತ** ← ಸು + ಕೀ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸಂಗೀತ [vocative, sg, masc./neut./fem., kannada]
+- **ಕೀರ್ತಿ** ← ಕೀರ್ತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಸೋಮಂ** ← ಸೋಮ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಸೋಮು [accusative, sg, neut., kannada]
+- **ಸಕಲಕ್ಷತ್ರಕುಲಪೂಜ್ಯನಮಳ** ← ಸಕಲಕ್ಷತ್ರಕುಲಪೂಜ್ಯನಮಳ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಚರಿತ್ರಂ** ← ಚರಿತ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಚರಿತ್ರ್ [accusative, sg, neut., sanskrit]; ಚರಿತ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರೋದ್ದಾಮ** ← ಪ್ರೋದ್ದಾಮ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಸೋಮವಂಶಲಲಾಮಂ** ← ಸೋಮ + ಅದು + ಅಂ + ಶಲಲಾಮು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸೋಮವಂಶಲಲಾಮು [accusative, sg, neut., sanskrit]; ಸೋಮವಂಶಲಲಾಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ಸೋಮವಂಶಜರ್** ← ಸೋಮ + ಅದು + ಅಂ + ಶಜ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸೋಮವಂಶಜ [nominative, pl, masc., sanskrit]; ಸೋಮವಂಶಜರ್ [nominative, sg, neut., sanskrit]
+- **ಪಲರಾಸುಕರಂಬೆರಸು** ← ಪಲ್ + ಅರೆ + ಆಸು + ಕರ್ + ಅಂ + ಬೆರಸು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಪಲರಾಸುಕರಂಬೆರಸು [nominative, sg, neut./masc., kannada]
+- **ನೆಗೞ್ದ** ← ನೆಗೞ್ [verb; past relative participle, to undertake; to be famous; also a crocodile] (lexicon) · rules 221
+- **ಜಸದಿಂ** ← ಜಸ [noun; instrumental, sg, neut., kannada] (lexicon) · rules 106, 161 · alt: ಜಸದು [instrumental, sg, neut., kannada]
+- **ಜಗಮಂಬಾಸಣಿಸಿ** ← ಜಗ + ಅಂ + ಅಂ + ಬಾಸು + ಅಣೆ + ಇಸು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಜಗಮಂಬಾಸಣಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೋದೊಡಧಿಕ** ← ಪೋಗು + ಒಡ್ + ಅಧಿಕ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪೋದೊಡಧಿಕ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಳಾಸಂ** ← ವಿಳಾಸು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿಳಾಸ [nominative, sg, masc./neut./fem., kannada]
+- **ದೌಷ್ಯಂತಿ** ← ದೌಷ್ಯಂತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಭರತನೆಂಬಂ** ← ಭರತನೆಂಬು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಭರತನೆಂಬ [nominative, sg, masc./neut./fem., kannada]
+- **ನೆಗೞ್ದಂ** ← ನೆಗೞ್ [verb; past, sg, masc./human, 3, to undertake; to be famous; also a crocodile] (lexicon) · rules 221, 217, 161 · alt: ನೆಗೞ್ದು [accusative, sg, neut., kannada]; ನೆಗೞ್ದ [nominative, sg, masc./neut./fem., kannada]
+- **ಚಾರುಚರಿತ್ರಂ** ← ಚಾರುಚರಿತ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಚಾರುಚರಿತ್ರ್ [accusative, sg, neut., sanskrit]; ಚಾರುಚರಿತ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಭರತನಪಾರಗುಣಂ** ← ಭರತನಪಾರಗುಣು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಭರತನಪಾರಗುಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತನ್ನ** ← ತಾನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ಪೆಸರೊಳಮರ್ದೆಸೆಯೆ** ← ಪೆಸರೊಳಮರ್ದೆಸೆಯೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಯಶೋಭಾರಂ** ← ಯಶೋಭಾರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಯಶೋಭಾರ್ [accusative, sg, neut., sanskrit]; ಯಶೋಭಾರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಕುಲಮುಂ** ← ಕುಲ + ಅಂ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕುಲ [nominative, sg, masc./neut./fem., -uṃ 'and/also' (122), sanskrit]; ಕುಲಮು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಕಥೆಯುಂಭಾರತಮೆನೆ** ← ಕಥೆಯುಂಭಾರತಮೆನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನೆಗೞ್ದನಂತು** ← ನೆಗೆ + ಅೞ್ + ಅಂ + ಅಂತು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನೆಗೞ್ದನಂತು [nominative, sg, neut./masc., kannada]
+- **ನೆಗೞ್ವುದು** ← ನೆಗೞ್ [verb; future/present, sg, neut., 3, to undertake; to be famous; also a crocodile] (lexicon) · rules 221, 217 · alt: ನೆಗೞ್ [verbal noun -udu, to undertake; to be famous; also a crocodile]; ನೆಗೞ್ವುದು [nominative, sg, neut./masc., kannada]
+- **ಭೂಪರ್** ← ಭೂಪ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಭೂಪರ್ [nominative, sg, neut., sanskrit]; ಭೂಸು [future/present, pl, masc./human, 3]
+- **ಭರತನನೇಕಾಧ್ವರ** ← ಭರತನನೇಕಾಧ್ವರ್ [noun; genitive, sg, neut., sanskrit] (inferred) · alt: ಭರತನನೇಕಾಧ್ವ [genitive, pl, masc., sanskrit]
+- **ಭರನಿರತಂ** ← ಭರನಿರತು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಭರನಿರತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಜಸಮುೞಿಯೆ** ← ಜಸ + ಅಂ + ಉೞ್ + ಎ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಜಸಮುೞಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ಕೞಿಯೆ** ← ಕೞಿ [verb; sati-saptamī (when …), to end, die; to go very far away; also sour gruel] (lexicon) · rules 246, 53 · alt: ಕೞಿ [vocative, sg, neut./fem./masc., kannada]; ಕೞಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ಭೂಪರ್** ← ಭೂಪ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಭೂಪರ್ [nominative, sg, neut., sanskrit]; ಭೂಸು [future/present, pl, masc./human, 3]
+- **ಪಲರಾದರಿಸಿದ** ← ಪಲ್ + ಅರೆ + ಆಗು + ಅರೆ + ಇಸಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಪಲರಾದರಿಸು [past relative participle]; ಪಲರಾದರಿಸಿ [past relative participle]
+- **ಧರಣೀಭರಮಂಧರಿಯಿಸಿದಂ** ← ಧರಣೀ + ಭರಮಂಧರಿಯಿಸಿದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಧರಣೀಭರಮಂಧರಿಯಿಸಿದು [accusative, sg, neut., sanskrit]; ಧರಣೀಭರಮಂಧರಿಯಿಸಿದ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರತಿಮನೆಂಬನಪ್ರತಿಮಬಲಂ** ← ಪ್ರತಿಮನೆಂಬನಪ್ರತಿಮಬಲು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪ್ರತಿಮನೆಂಬನಪ್ರತಿಮಬಲ್ [accusative, sg, neut., kannada]; ಪ್ರತಿಮನೆಂಬನಪ್ರತಿಮಬಲ [nominative, sg, masc./neut./fem., kannada]
+- **ಅಂತಾ** ← ಅಂತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ಪ್ರತಿಮಂಗೆ** ← ಪ್ರತಿಮ [noun; dative, sg, masc./fem., sanskrit] (inferred) · rules 113, 161 · alt: ಪ್ರತಿಮಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಸುತರ್ಶಂತನು** ← ಸು + ತರ್ + ಶಂತನು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಸುತರ್ಶಂತನು [nominative, sg, neut./masc., sanskrit]
+- **ಬಾಹ್ಲಿಕ** ← ಬಾಹ್ಲಿಕ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವಿನೂತ** ← ವಿನೂತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದೇವಾಪಿಗಳೋರಂತೆ** ← ದೇವಿ + ಆಗು + ಇಗಳೋರಂತೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ದೇವಾಪಿಗಳೋರಂತೆ [nominative, sg, neut./fem., kannada]
+- **ಧರೆ** ← ಧರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೊಗೞೆ** ← ಪೊಗೞ್ [verb; sati-saptamī (when …), to praise] (lexicon) · rules 246 · alt: ಪೊಗೞೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ದರನಂತ** ← ನೆಗೆ + ಅೞ್ + ಅರೆ + ಅಂ + ಅಂ + ತ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನೆಗೞ್ದರನಂತ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಳರ್** ← ಬಳ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ಬಳರ್ [nominative, sg, neut., kannada]
+- **ಪರಬಳ** ← ಪರೆ + ಅಬಳ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪರಬಳ [vocative, sg, masc./neut./fem., kannada]
+- **ಪ್ರಭೇದನ** ← ಪ್ರಭು + ಏದ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪ್ರಭೇದ [genitive, sg, masc./fem., sanskrit]
+- **ಶೌರ್ಯರ್** ← ಶೌರ್ಯ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಶೌರ್ಯರ್ [nominative, sg, neut., sanskrit]
+- **ಕಂತು** ← ಕಂತು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಶರ** ← ಶರ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123 · alt: ಶರ್ [genitive, sg, neut., sanskrit]; ಶ [genitive, pl, masc., sanskrit]
+- **ಭವನನಾ** ← ಭವಿ + ಅನ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಭವನ [genitive, sg, masc./fem., sanskrit]
+- **ಪ್ರಿಯಕಾಂತಾ** ← ಪ್ರಿಯ + ಆನ್ + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪ್ರಿಯಕಾಂತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಭ್ರೂವಿಭ್ರಮ** ← ಭ್ರೂ + ವಿಭು + ರಮ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಭ್ರೂವಿಭ್ರಮ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಗ್ರಹಾಗ್ರಹವಶದಿಂಭ್ರಾಂತಿಸದುಪಶಾಂತಮನಂಶಂತನುಗಿತ್ತಂ** ← ಗ್ರಹಾಗ್ರಹವಶದಿಂಭ್ರಾಂತಿಸದುಪಶಾಂತಮನಂಶಂತನುಗಿತ್ತು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗ್ರಹಾಗ್ರಹವಶದಿಂಭ್ರಾಂತಿಸದುಪಶಾಂತಮನಂಶಂತನುಗಿತ್ತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸಮಸ್ತ** ← ಸಮೆ + ಅಸು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಮಸ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ರಾಜ್ಯಶ್ರೀಯಂ** ← ರಾಜ + ಅ + ಶ್ರೀ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ರಾಜ್ಯಶ್ರೀಯು [accusative, sg, neut., sanskrit]; ರಾಜ್ಯಶ್ರೀಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಶಂತನುಗಮಮಳ** ← ಶಂತನುಗಮಮಳ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಗಂಗಾಕಾಂತೆಗಮೆಂಟನೆಯ** ← ಗಂಗಾಕಾಂತೆಗಮೆಂಟನೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53
+- **ವಸು** ← ವಸು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ವಸು [vocative, sg, neut./masc., kannada]
+- **ವಸಿಷ್ಠನ** ← ವಸು + ಇಷ್ಠ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಸಿಷ್ಠ [genitive, sg, masc./fem., sanskrit]
+- **ಶಾಪಭ್ರಾಂತಿಯೊಳೆ** ← ಶಾಪ + ಅಭ್ರ + ಆನ್ + ತಿ + ಒಳ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಶಾಪಭ್ರಾಂತಿಯೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಬಂದು** ← ಬರ್ [verb; past gerund, to come] (lexicon) · rules 236, 217 · alt: ಬಂದು [nominative, sg, neut./masc., kannada]
+- **ನಿರ್ಜಿತಕಂತುವೆನಲ್ಕಂತು** ← ನಿರ್ಜಿತಕಂತುವೆನಲ್ಕಂತು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಪುಟ್ಟಿದಂ** ← ಪುಟ್ಟು [verb; past, sg, masc./human, 3, to be born, arise; (n.) a wooden ladle, an oar] (lexicon) · rules 221, 217, 161 · alt: ಪುಟ್ಟಿದು [accusative, sg, neut., kannada]; ಪುಟ್ಟಿದ [nominative, sg, masc./neut./fem., kannada]
+- **ಗಾಂಗೇಯಂ** ← ಗಾಂಗೇಯು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಗಾಂಗೇಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಾಲಪ್ರಾಂಶು** ← ಸಾಲ್ + ಅಪ್ + ರಾಂಶು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಸಾಲಪ್ರಾಂಶು [nominative, sg, neut./masc., sanskrit]
+- **ವಿಶಾಲಲೋಲನಯನಂ** ← ವಿಶಾಲಲೋಲನಯನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿಶಾಲಲೋಲನಯ [accusative, sg, masc./neut./fem., sanskrit]; ವಿಶಾಲಲೋಲನಯನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರೋದ್ಯದ್ವೃಷಸ್ಕಂಧನುನ್ಮೀಲತ್ಪಂಕಜವಕ್ತ್ರನಾಯತ** ← ಪ್ರೋದ್ಯದ್ವೃಷಸ್ಕಂಧನುನ್ಮೀಲತ್ಪಂಕಜವಕ್ತ್ರನಾಯತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಸಮಗ್ರೋರಸ್ಥಳಂ** ← ಸಮೆ + ಅಗ್ರೋರಸ್ಥಳು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಮಗ್ರೋರಸ್ಥಳು [accusative, sg, neut., sanskrit]; ಸಮಗ್ರೋರಸ್ಥಳ [nominative, sg, masc./neut./fem., sanskrit]
+- **ದೀರ್ಘ** ← ದೀರ್ಘ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಬಾಹಾಲಂಬಂ** ← ಬಾಹಾಲಂಬು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಾಹಾಲಂಬ [nominative, sg, masc./neut./fem., kannada]
+- **ಭುಜವೀರ್ಯವಿಕ್ರಮಯುತಂ** ← ಭುಜ + ಅದು + ಈರ್ಯವಿಕ್ರಮಯುತು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಭುಜವೀರ್ಯವಿಕ್ರಮಯುತು [accusative, sg, neut., sanskrit]; ಭುಜವೀರ್ಯವಿಕ್ರಮಯುತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಗಂಗಾತ್ಮಜನ್ಮಂ** ← ಗಂಗಾತ್ಮಜನ್ಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗಂಗಾತ್ಮಜನ್ಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಜಯಶ್ರೀಲೋಲಂ** ← ಜಯಶ್ರೀಲೋಲು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಜಯಶ್ರೀಲೋಲ್ [accusative, sg, neut., sanskrit]; ಜಯಶ್ರೀಲೋಲ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಜಮದಗ್ನಿರಾಮಮುನಿಯೊಳ್** ← ಜಮದಗ್ನಿರಾಮಮುನಿ [noun; locative, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ಕಲ್ತಂ** ← ಕಲ್ [verb; past, sg, masc./human, 3, to learn; (noun) stone] (lexicon) · rules 241, 217, 161 · alt: ಕಲ್ತು [accusative, sg, neut., kannada]; ಕಲ್ತ [nominative, sg, masc./neut./fem., kannada]
+- **ಧನುರ್ವಿದ್ಯೆಯಂ** ← ಧನುರ್ವಿದ್ಯೆಯು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಧನುರ್ವಿದ್ಯೆ [accusative, sg, neut./fem., kannada]; ಧನುರ್ವಿದ್ಯೆಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಮನದೊಳ್** ← ಮನ [noun; locative, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಸೋಲ್ತು** ← ಸೋಲ್ [verb; past gerund, to be defeated, lose] (lexicon) · rules 236, 217 · alt: ಸೋಲ್ತು [nominative, sg, neut./masc., kannada]
+- **ಮುನೀಂದ್ರನಾಕೆಯೊಡಲೀ** ← ಮುನಿ + ಈನ್ + ರ + ಅದು + ಒ + ಡಲಿ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಮುನೀಂದ್ರನಾಕೆಯೊಡಲಿ [vocative, sg, neut./fem./masc., kannada]
+- **ದುರ್ಗಂಧವೋಪಂತೆ** ← ದುರ್ಗಂಧವೋಪಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಯೋಜನ** ← ಯೋಜ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105
+- **ಗಂಧಿತ್ವಮನಿತ್ತು** ← ಗಂಧಿತ್ವಮನಿತ್ತು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105 · alt: ಗಂಧಿತ್ವಮನು [past, sg, neut., 3]
+- **ಕಾಂಡಪಟದಂತಿರ್ಪನ್ನೆಗಂ** ← ಕಾಂಡಪಟ + ಅದು + ಅಂತು + ಇರ್ + ಅಂ + ನೆಗೆ + ಅಂ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕಾಂಡಪಟದಂತಿರ್ಪಂನೆಗು [accusative, sg, neut., kannada]; ಕಾಂಡಪಟದಂತಿರ್ಪಂನೆಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಾಡಿ** ← ಮಾಡು [verb; past gerund, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 236, 52 · alt: ಮಾಡಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮಂಜನಲಂಪೞ್ಕಱನೀಯೆ** ← ಮು + ಸು + ಅಲೆ + ಅಂ + ಪೞಿ + ಕಱ್ + ಅಂ + ಈ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಮಂಜನಲಂಪೞ್ಕಱನೀಯೆ [nominative, sg, neut./fem., kannada]
+- **ಕೂಡುವೆಡೆಯೊಳ್** ← ಕೂಡು + ಉದು + ಎಡೆ + ಒಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕೂಡುವೆಡೆ [locative, sg, neut./fem., kannada]
+- **ಜ್ಞಾನಸ್ವರೂಪಂ** ← ಜ್ಞಾನಸ್ವರೂಪು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಜ್ಞಾನಸ್ವರೂಪ [nominative, sg, masc./neut./fem., sanskrit]; ಜ್ಞಾನಸ್ವರೂಸು [future/present, sg, masc./human, 3]
+- **ಮಹಾಮುನಿಪಂ** ← ಮಹಾಮುನಿಪು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮಹಾಮುನಿಪ [nominative, sg, masc./neut./fem., kannada]; ಮಹಾಮುನಿಸು [future/present, sg, masc./human, 3]
+- **ಪುಟ್ಟಿದನಂತು** ← ಪುಟ್ಟು + ಇದು + ಅಂ + ಅಂತು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪುಟ್ಟಿದನಂತು [nominative, sg, neut./masc., kannada]
+- **ದಿವ್ಯಮುನಿಗಳ್ಗೇಗೆಯ್ದೊಡಂ** ← ದಿವ್ + ಅ + ಮುನಿ + ಗಳ + ಕೇ + ಗೆಯ್ + ಒಡ್ + ಅಂ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ದಿವ್ಯಮುನಿಗಳ್ಗೇಗೆಯ್ದೊಡು [accusative, sg, neut., kannada]; ದಿವ್ಯಮುನಿಗಳ್ಗೇಗೆಯ್ದೊಡ [nominative, sg, masc./neut./fem., kannada]
+- **ತೀರದೇ** ← ತೀರ್ + ತೇ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತೀರದು [vocative, sg, neut., kannada]; ತೀರದೆ [vocative, sg, neut./fem., kannada]
+- **ಮೃಗಯಾವ್ಯಾಜದಿನೊರ್ಮೆ** ← ಮೃಗಯಾವ್ಯಾಜದಿನೊರ್ಮೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಶಂತನು** ← ಶಂತನು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ತೊಱಲ್ತರ್ಪಂ** ← ತೊಱ್ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೊಱಲ್ತರ್ಪು [accusative, sg, neut., kannada]; ತೊಱಲ್ತರ್ಪ [nominative, sg, masc./neut./fem., kannada]
+- **ಪಳಂಚಲೈ** — ❓ not derivable with the rules + lexicon
+- **ತನ್ಮೃಗಶಾಬಾಕ್ಷಿಯ** ← ತನು + ಮೃಗಶಾಬಾಕ್ಷಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತನ್ಮೃಗಶಾಬಾಕ್ಷಿ [genitive, sg, neut./fem./masc., sanskrit]
+- **ಕಂಪು** ← ಕಂಪು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ತಟ್ಟಿ** ← ತಟ್ಟು [verb; past gerund, to pat, strike; (n.) the covering cloth of a Jaina ascetic] (lexicon) · rules 236, 52 · alt: ತಟ್ಟಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮಧುಪಂಬೋಲ್** ← ಮಧು + ಉಗು + ಅಂ + ಪೋಲ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮಧುಪಂಬೋಲ್ [nominative, sg, neut., sanskrit]
+- **ಸೋಲ್ತು** ← ಸೋಲ್ [verb; past gerund, to be defeated, lose] (lexicon) · rules 236, 217 · alt: ಸೋಲ್ತು [nominative, sg, neut./masc., kannada]
+- **ಕಂಡೊಲ್ದು** ← ಕಾಣ್ + ಒಲ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕಂಡೊಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ನಲ್ಮೆಗೆ** ← ನಲಿ + ಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಲ್ಮೆ [dative, sg, neut./fem., kannada]; ನಲ್ಮೆಗೆ [nominative, sg, neut./fem., kannada]
+- **ದಿಬ್ಯಂಬಿಡಿವಂತೆವೋಲ್** ← ದಿಬ್ಯಂಬಿಡಿವಂತೆವೋಲ್ [noun; nominative, sg, neut., kannada] (inferred) · rules 105
+- **ಪಿಡಿದು** ← ಪಿಡಿ [verb; past gerund, to seize, hold; (n.) a she-elephant] (lexicon) · rules 236, 217 · alt: ಪಿಡಿದು [nominative, sg, neut./masc., kannada]
+- **ನೀನ್** ← ನೀನ್ [pronoun; nominative, sg] (lexicon) · rules 146, 161 · alt: ನೀನ್ [nominative, pl]
+- **ಬಾ** ← ಬಾ [verb; imperative/optative, sg, 2, to swell] (lexicon) · rules 230
+- **ಪೋಪಮೆಂದಂಗೆ** ← ಪೋಗು + ಅಂ + ಎಂದು + ಅಂ + ಕೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೋಪಮೆಂದ [dative, sg, masc./fem., kannada]; ಪೋಪಮೆಂದಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮೆಲ್ಲಗೆ** ← ಮೆಲ್ಲಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತತ್ಕನ್ಯಕೆ** ← ತತ್ಕನ್ಯ [noun; dative, sg, neut., sanskrit] (inferred) · rules 113 · alt: ತತ್ಕನ್ಯಕೆ [nominative, sg, neut./fem., kannada]
+- **ನಾಣ್ಚಿ** ← ನಾಣ್ಚು [verb; past gerund, to be ashamed, bashful] (lexicon) · rules 236, 52 · alt: ನಾಣ್ಚಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಬೇಡುವೊಡೆ** ← ಬೇಡು [verb; conditional -oḍe, to beg, ask; (n.) the hunter tribe] (lexicon) · rules 250, 217 · alt: ಬೇಡುವೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ನೀವೆಮ್ಮಯ್ಯನಂ** ← ನಿ + ಎನ್ + ಅಯ್ಯ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನೀವೆಂಮಯ್ಯನು [accusative, sg, neut., kannada]; ನೀವೆಂಮಯ್ಯ [accusative, sg, masc./neut./fem., kannada]
+- **ಬೇಡಿರೇ** ← ಬೇಡು + ಇರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೇಡಿರು [vocative, sg, neut., kannada]; ಬೇಡಿರೆ [vocative, sg, neut./fem., kannada]
+- **ಕ್ರಮಮಂ** ← ಕ್ರಮ [noun; accusative, sg, neut., sanskrit] (lexicon) · rules 106, 161 · alt: ಕ್ರಮಮು [accusative, sg, neut., sanskrit]; ಕ್ರಮಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ವಿಕ್ರಮದಿಂದೆ** ← ವಿಕ್ರಮದು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52 · alt: ವಿಕ್ರಮ [instrumental, sg, neut., sanskrit]; ವಿಕ್ರಮದಿಂದೆ [nominative, sg, neut./fem., kannada]
+- **ತಾಳ್ದುವ** ← ತಾಳ್ದು [verb; future relative participle, to bear, hold, assume] (lexicon) · rules 221 · alt: ತಾಳ್ದು [genitive, sg, masc., kannada]
+- **ಮಗಂ** ← ಮಗ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161
+- **ಗಾಂಗೇಯನಿರ್ದಂತೆ** ← ಗಾಂಗೇಯನಿರ್ದಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನೋಡ** ← ನೋಡು [verb; imperative/optative, sg, 2, to see, look] (lexicon) · rules 125 · alt: ನೋಡು [infinitive, to see, look]
+- **ಮರುಳ್** — ❓ not derivable with the rules + lexicon
+- **ಶಂತನು** ← ಶಂತನು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ತನ್ನದೊಂದು** ← ತಾನ್ + ಅದು + ಒಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಂನದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಸವಿಗಂ** ← ಸವಿ + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸವಿಗು [accusative, sg, neut., kannada]; ಸವಿಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಸೋಲಕ್ಕಮಿತ್ತಂ** ← ಸೋಲ್ + ಅಕ್ಕು + ಅಂ + ಈ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸೋಲಕ್ಕಮಿತ್ತು [accusative, sg, neut., kannada]; ಸೋಲಕ್ಕಮಿತ್ತ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿಜಕ್ರಮಮಂ** ← ನಿಜ + ರ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿಜಕ್ರಮಮು [accusative, sg, neut., sanskrit]; ನಿಜಕ್ರಮ [accusative, sg, neut., sanskrit]
+- **ತನ್ನಯ** ← ತ + ನಯ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಂನಯ [vocative, sg, masc./neut./fem., kannada]
+- **ಬೇಟದಾಕೆಯ** ← ಬೇಟದಾಕೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53
+- **ಮಗಂಗೆಂಬೊಂದಪಖ್ಯಾತಿ** ← ಮಗ + ಎನ್ + ಒಂದು + ಅಪ್ + ಅಖ್ಯಾತಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಮಗಂಗೆಂಬೊಂದಪಖ್ಯಾತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಲೋಕಮನಾವರ್ತಿಸೆ** ← ಲೋಕ + ಅಂ + ಅಂ + ಆವು + ಅರೆ + ತಿಸೆ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಲೋಕಮನಾವರ್ತಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಬೞ್ದೊಡೆನ್ನ** ← ಬೞಿ + ದೊಡೆಂನ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬೞ್ದೊಡೆಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ಕುಲಮುಂ** ← ಕುಲ + ಅಂ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕುಲ [nominative, sg, masc./neut./fem., -uṃ 'and/also' (122), sanskrit]; ಕುಲಮು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ತಕ್ಕೂರ್ಮೆಯುಂ** ← ತ + ಕೂರ್ + ಮೆಯ್ + ಉಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತಕ್ಕೂರ್ಮೆ [nominative, sg, neut./fem., -uṃ 'and/also' (122), kannada]; ತಕ್ಕೂರ್ಮೆಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]
+- **ಮಾಸದೇ** ← ಮಾಸು + ತೇ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾಸದು [vocative, sg, neut., kannada]; ಮಾಸದೆ [vocative, sg, neut./fem., kannada]
+- **ಎನ್ನಯ** ← ಆನ್ + ಅಯ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಎಂನಯ [vocative, sg, masc./neut./fem., kannada]
+- **ದೂಸಱಿಂ** ← ದೂಸಱು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161
+- **ನೃಪತಿ** ← ನೃಪತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಬೇಡಿದುದಂ** ← ಬೇಡು + ಇದು + ಉದು + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬೇಡಿದುದು [accusative, sg, neut., kannada]; ಬೇಡಿದುದ [nominative, sg, masc./neut./fem., kannada]
+- **ಕುಡಲೊಲ್ಲದಂಗಜೋತ್ಪನ್ನ** ← ಕುಡು + ಒಲ್ + ಅದು + ಅಂ + ಗಜ + ಓ + ಪಂನ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಕುಡಲೊಲ್ಲದಂಗಜೋತ್ಪಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಮೋಹದಿಂದೞಿದಪಂ** ← ವಿಮೋಹದಿಂದೞಿದಪು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿಮೋಹದಿಂದೞಿದಪ [nominative, sg, masc./neut./fem., kannada]; ವಿಮೋಹದಿಂದೞಿದಸು [future/present, sg, masc./human, 3]
+- **ಪತಿ** ← ಪತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಸತ್ತೊಡೆ** ← ಸಾ [verb; conditional -oḍe, to die] (lexicon) · rules 250, 217 · alt: ಸತ್ತೊಡೆ [nominative, sg, neut./fem., kannada]; ಸಱು [conditional -oḍe]
+- **ಸತ್ತ** ← ಸಾ [verb; past relative participle, to die] (lexicon) · rules 240 · alt: ಸಱು [past relative participle]
+- **ಪಾಪಮೆನ್ನನ್ನರಕಂಗಳೊಳ್** ← ಪಾಸು + ಅಂ + ಆನ್ + ಅಂ + ನರ + ಅಂ + ಗಳ + ಒಳ್ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಪಾಪಮೆಂನಂನರಕ [locative, pl, masc./neut./fem., kannada]
+- **ತಡೆಯದೞ್ದುಗುಮೇವುದು** ← ತಡೆ + ಅದು + ಅೞ್ + ಉಗು + ಮೇ + ಉದು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ತಡೆಯದೞ್ದುಗುಮೇವುದು [nominative, sg, neut./masc., kannada]
+- **ರಾಜ್ಯಲಕ್ಷ್ಮಿ** ← ರಾಜ್ಯಲಕ್ಷ್ಮಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪೋತನ್ನಯ** ← ಪೋತಂನಯ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ತಂದೆಯೆಂದುದನೆ** ← ತಂದೆ + ಎಂದು + ಉದು + ಅನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ತಂದೆಯೆಂದುದನೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಟ್ಟು** ← ಕುಡು [verb; past gerund, to give; (adj.) crooked] (lexicon) · rules 236, 217 · alt: ಕೊಟ್ಟು [nominative, sg, neut./masc., kannada]
+- **ವಿವಾಹಮನಿಂದೆ** ← ವಿವಾಹಮನು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52 · alt: ವಿವಾಹಮ [instrumental, sg, masc./fem., kannada]; ವಿವಾಹಮನಿಂದೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಡುವೆಂ** ← ಮಾಡು [verb; future/present, sg, 1, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 221, 217, 161 · alt: ಮಾಡು [future/present, pl, 1, to do, make; (n.) a kind of wall-niche / roof]
+- **ನೀಡಿರದೀವುದೀ** ← ನೀಡು + ಇರ್ + ಅದು + ಈವುದಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನೀಡಿರದೀವುದಿ [vocative, sg, neut./fem./masc., kannada]
+- **ನಿಜ** ← ನಿಜ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ತನೂಜೆಯನೀ** ← ತನು + ಊಜೆಯನಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತನೂಜೆಯನಿ [vocative, sg, neut./fem./masc., kannada]
+- **ವಧುಗಾದ** ← ವಧು + ಕಾ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ವಧುಗಾದ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಪುತ್ರರೊಳ್ಕೂಡುಗೆ** ← ಪುತ್ರರೊಳ್ಕೂಡು [noun; dative, sg, masc., kannada] (inferred) · rules 113 · alt: ಪುತ್ರರೊಳ್ಕೂಡುಗೆ [nominative, sg, neut./fem., kannada]
+- **ರಾಜ್ಯಲಕ್ಷ್ಮಿ** ← ರಾಜ್ಯಲಕ್ಷ್ಮಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಮೊರೆಯಲ್ತೆನಗಂತದು** ← ಮೊರೆ + ಅಲ್ತೆ + ಆನ್ + ಅಂತು + ಅದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮೊರೆಯಲ್ತೆನಗಂತದು [nominative, sg, neut./masc., kannada]
+- **ಪೆಂಡಿರೆಂಬರೊಳ್ಕೂಡುವನಲ್ಲೆನಿಂದು** ← ಪೆಂಡಿರೆಂಬರೊಳ್ಕೂಡುವನಲ್ಲೆನಿಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಮೊದಲಾಗಿರೆ** ← ಮೊದಲ್ + ಆಗು + ಇರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೊದಲಾಗಿರೆ [nominative, sg, neut./fem., kannada]
+- **ನಿಕ್ಕುವಮೆಂದು** ← ನಿಕ್ಕುವ + ಅಂ + ಎಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿಕ್ಕುವಮೆಂದು [nominative, sg, neut./masc., kannada]
+- **ರಾಗದಿಂಕೂಡಿದನುಯ್ದು** ← ರಾಗ + ಅದು + ಇಂ + ಕೂಡು + ಇದು + ಅಂ + ಉಯ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ರಾಗದಿಂಕೂಡಿದನುಯ್ದು [nominative, sg, neut./masc., kannada]
+- **ಸತ್ಯವತಿಯಂ** ← ಸತ್ + ಅವು + ತಿ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸತ್ಯವತಿಯು [accusative, sg, neut., sanskrit]; ಸತ್ಯವತಿ [accusative, sg, neut./fem./masc., sanskrit]
+- **ಸತಿಯಂ** ← ಸತ್ + ಇಯು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸತಿಯು [accusative, sg, neut., kannada]; ಸತಿ [accusative, sg, neut./fem./masc., kannada]
+- **ಪತಿಯೊಳ್** ← ಪತಿ [noun; locative, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ನದೀಸುತಂ** ← ನದಿ + ಈಸು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನದೀಸುತು [accusative, sg, neut., kannada]; ನದೀಸುತ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಕಳ** ← ಸಕಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕ್ಷತ್ರಿಯ** ← ಕ್ಷತ್ರಿ [noun; genitive, sg, neut./fem./masc., sanskrit] (inferred) · rules 53
+- **ಮೋಹದಿಂ** ← ಮೋಹದು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮೋಹ [instrumental, sg, neut., kannada]
+- **ನಿಜಭುಜ** ← ನಿಜ + ಭುಜ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನಿಜಭುಜ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರಾರಂಭದಿಂ** ← ಪ್ರಾರಂಭದು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪ್ರಾರಂಭ [instrumental, sg, neut., sanskrit]
+- **ಪೋಗಿ** ← ಪೋಗು [verb; past gerund, to go] (lexicon) · rules 236, 52 · alt: ಪೋಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ತಾಗಿ** ← ತಾಗು [verb; past gerund, to strike against, touch, meet] (lexicon) · rules 236, 52 · alt: ತಾಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕೆಲರ್** ← ಕೆಲ [noun; nominative, pl, masc., kannada] (lexicon) · rules 52, 98, 105 · alt: ಕೆಲರ್ [nominative, sg, neut., kannada]
+- **ನೊಂದೊಡೆ** ← ನೋ [verb; conditional -oḍe, to suffer pain, ache] (lexicon) · rules 250, 217 · alt: ನೊಂದೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಕಾದಿ** ← ಕಾದು [verb; past gerund, to fight] (lexicon) · rules 236, 52 · alt: ಕಾದಿ [nominative, sg, neut./fem./masc., kannada]
+- **ರಾಜಸುತರೊಳ್** ← ರಾಜ + ಅಸು + ತರ್ + ಒಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ರಾಜಸುತರ್ [locative, sg, neut., kannada]; ರಾಜಸುತ [locative, pl, masc., kannada]
+- **ತನ್ನಂಕದೊಂದುಗ್ರಸಾಯಕದಿಂ** ← ತಂನಂಕದೊಂದುಗ್ರಸಾಯಕದು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ತಂನಂಕದೊಂದುಗ್ರಸಾಯಕ [instrumental, sg, neut., kannada]
+- **ನಾಯಕರಂ** ← ನಾ + ಅ + ಕರ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಾಯಕರು [accusative, sg, neut., kannada]; ನಾಯಕರ್ [accusative, sg, neut., kannada]
+- **ಪಡಲ್ವಡಿಸುತುಂ** ← ಪಡು + ಬಡಿಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪಡಲ್ವಡಿಸು [present gerund]
+- **ತಾಂ** ← ತಾನ್ [pronoun; nominative, sg] (lexicon) · rules 146, 161 · alt: ತಾನ್ [nominative, pl]
+- **ತಂದನಂದಂಬೆಯಂಬಿಕೆಯಂಬಾಲೆಯರೆಂಬ** ← ತರ್ + ಅಂ + ಅಂದು + ಅಂ + ಬೆ + ಅಂಬು + ಕೆಯ್ + ಅಂ + ಬಾಲೆಯರೆಂಬ [phrase/compound; saṃhitā split into 9] (inferred) · alt: ತಂದನಂದಂಬೆಯಂಬಿಕೆಯಂಬಾಲೆಯರೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಾಲೆಯರನೇಂ** ← ಬಾಲೆಯರನು [noun; vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada] (inferred) · rules 123, 52, 124 · alt: ಬಾಲೆಯರನೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]; ಬಾಲೆಯರ [vocative, sg, masc./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಭೀಷ್ಮಂ** ← ಭೀ + ಷ್ಮು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಭೀಷ್ಮು [accusative, sg, neut., sanskrit]; ಭೀಷ್ಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಯಶೋಭಾಗಿಯೋ** ← ಯಶೋಭಾಗಿಯು [noun; nominative, sg, neut./masc., -ō doubt/admiration (56–57), sanskrit] (inferred) · rules 105 · alt: ಯಶೋಭಾಗಿ [nominative, sg, neut./fem./masc., -ō doubt/admiration (56–57), sanskrit]
+- **ಅತ್ತ** ← ಅತ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಸುರೇಶ್ವರಾವಸಥಮಿತ್ತ** ← ಸುರಿ + ಏಶ್ವರಾವಸಥಮಿಱು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸುರೇಶ್ವರಾವಸಥಮಿತ್ತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಮಹೀತಳಮುತ್ತ** ← ಮಹೀತಳಮುಱು [verb; past relative participle] (inferred) · rules 240
+- **ಪನ್ನಗೋದಾತ್ತ** ← ಪಂನಗೋದಾಱು [verb; past relative participle] (inferred) · rules 240
+- **ಸಮಸ್ತ** ← ಸಮೆ + ಅಸು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಮಸ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ಲೋಕಮಱಿದಂತಿರೆ** ← ಲೋಕ + ಅಂ + ಅಱ್ + ಇದು + ಅಂತು + ಇರ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಲೋಕಮಱಿದಂತಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಪೂಣ್ದೆನಗಾಗದಂಗಜೋತ್ಪತ್ತಿ** ← ಪೂಣ್ + ಆನ್ + ಆಗು + ಅದು + ಅಂ + ಗಜ + ಓ + ಪತ್ತು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಪೂಣ್ದೆನಗಾಗದಂಗಜೋತ್ಪತ್ತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಸುಖಕ್ಕೆ** ← ಸುಖ [noun; dative, sg, neut., sanskrit] (lexicon) · rules 113 · alt: ಸುಖಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಸೋಲಲೞಿಗುಂ** ← ಸೋಲ್ + ಅೞಿ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸೋಲಲೞಿ [aorist -guṃ/-kuṃ]
+- **ಪುರುಷವ್ರತಮೀಗಳಬ್ಬೆಯೆಂದತ್ತಿಗೆಯೆಂಬ** ← ಪುರುಷವ್ರತಮೀಗಳಬ್ಬೆಯೆಂದತ್ತಿಗೆಯೆಂಬ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮಾತನೆನಗೇನೆನಲಕ್ಕುಮೊ** — ❓ not derivable with the rules + lexicon
+- **ಪಂಕಜಾನನೇ** ← ಪಂಕಜಾನನು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ಪಂಕಜಾನನೆ [vocative, sg, neut./fem., kannada]; ಪಂಕಜಾನ [vocative, sg, masc./fem., kannada]
+- **ಬಂಡಣದೊಳೆನ್ನನೋಡಿಸಿಕೊಂಡುಯ್ದಂ** ← ಬಂಡಣ + ಅದು + ಒಳ್ + ಆನ್ + ಅಂ + ಓಡು + ಇಸು + ಕೊಳ್ + ಉಯ್ + ಅಂ [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಬಂಡಣದೊಳೆಂನನೋಡಿಸಿಕೊಂಡುಯ್ದು [accusative, sg, neut., kannada]; ಬಂಡಣದೊಳೆಂನನೋಡಿಸಿಕೊಂಡುಯ್ದ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿನ್ನನಾ** ← ನಿಂ + ನ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಿಂನ [genitive, sg, masc./fem., kannada]
+- **ಸರಿತ್ಸುತನಾನುಂಪೆಂಡತಿಯೆನಾದೆನದಱಿಂಪೆಂಡಿರ್** ← ಸರಿತ್ಸುತನಾನುಂಪೆಂಡತಿಯೆನಾದೆನದಱಿಂಪೆಂಡಿರ್ [noun; nominative, sg, neut., kannada] (inferred) · rules 105 · alt: ಸರಿತ್ಸುತನಾನುಂಪೆಂಡತಿಯೆನಾದೆನದಱಿಂಪೆಣ್ [past, pl, 2]
+- **ಪೆಂಡಿರೊಳದೆಂತು** ← ಪೆಂಡಿರೊಳದೆಂತು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಬೆರಸುವರಬಲೇ** ← ಬೆರಸು + ಉದು + ಅರೆ + ಅಬಲು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಬೆರಸುವರಬಲು [vocative, sg, neut., kannada]; ಬೆರಸುವರಬಲೆ [vocative, sg, neut./fem., kannada]
+- **ನಯಮಂ** ← ನಯ [noun; accusative, sg, neut., kannada] (lexicon) · rules 106, 161 · alt: ನಯಮು [accusative, sg, neut., kannada]; ನಯಮ [nominative, sg, masc./neut./fem., kannada]
+- **ನಂಬುವೊಡೆನ್ನ** ← ನಂಬು + ಉದು + ಒಡ್ + ಆನ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಂಬುವೊಡೆಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೇೞ್ವ** ← ಪೇೞ್ [verb; future relative participle, to tell] (lexicon) · rules 221
+- **ಸತಿಯಂ** ← ಸತ್ + ಇಯು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸತಿಯು [accusative, sg, neut., kannada]; ಸತಿ [accusative, sg, neut./fem./masc., kannada]
+- **ಕೈಕೊಂಡನಂತಲ್ಲದುರ್ಣಯಮಂ** ← ಕೈಕೊಂಡನಂತಲ್ಲದುರ್ಣಯಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಕೈಕೊಂಡನಂತಲ್ಲದುರ್ಣಯ [accusative, sg, neut., kannada]; ಕೈಕೊಂಡನಂತಲ್ಲದುರ್ಣಯಮ [nominative, sg, masc./neut./fem., kannada]
+- **ನಚ್ಚುವೊಡೆನ್ನನುಗ್ರ** ← ನಚ್ಚು + ಉದು + ಒಡ್ + ಆನ್ + ಅಂ + ಉಗ್ರ್ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ನಚ್ಚುವೊಡೆಂನನುಗ್ರ್ [genitive, sg, neut., kannada]
+- **ರಣದೊಳ್** ← ರಣ [noun; locative, sg, neut., kannada] (inferred) · rules 106
+- **ಮೇಣ್** ← ಮೇಣ್ [avyaya; or (alternative)] (lexicon) · alt: ಮೇಣ್ [nominative, sg, neut., kannada]; ಮೇಣ್ [vocative, sg, neut., kannada]
+- **ಮೀಱಿ** ← ಮೀಱು [verb; past gerund, to transgress, exceed] (lexicon) · rules 236, 52 · alt: ಮೀಱಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮಾರ್ಕೊಂಡನಾರಯೆ** ← ಮಾರ್ + ಕೊಳ್ + ಅಂ + ಆರ್ + ಎ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮಾರ್ಕೊಂಡನಾರಯೆ [nominative, sg, neut./fem., kannada]
+- **ಕಜ್ಜಂ** ← ಕಜ್ಜು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಕಜ್ಜ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೆಱತಿಲ್ಲ** ← ಪೆಱತು + ಇಲ್ಲ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೆಱತಿಲ್ಲ್ [genitive, sg, neut., kannada]
+- **ಶಂತನು** ← ಶಂತನು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ಸುತಂಗೆನ್ನಂ** ← ಸು + ತ + ಆನ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸುತಂಗೆಂನು [accusative, sg, neut., kannada]; ಸುತಂಗೆಂನ [nominative, sg, masc./neut./fem., kannada]
+- **ಕರಂ** ← ಕರಂ [avyaya; very, exceedingly] (lexicon) · alt: ಕರ [nominative, sg, masc./neut./fem., kannada]; ಕರ್ [accusative, sg, neut., kannada]
+- **ನಂಬಿದಂಬೆಯೊಳೆನ್ನಂಬೆವಲಂ** ← ನಂಬು + ಇದು + ಅಂ + ಬೆ + ಒಳ್ + ಆನ್ + ಅಂಬು + ವಲಂ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ನಂಬಿದಂಬೆಯೊಳೆಂನಂಬೆವಲು [accusative, sg, neut., kannada]; ನಂಬಿದಂಬೆಯೊಳೆಂನಂಬೆವಲ್ [accusative, sg, neut., kannada]
+- **ವಿವಾಹವಿಧಿಯಂ** ← ವಿವಾಹವಿಧಿಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿವಾಹವಿಧಿ [accusative, sg, neut./fem./masc., sanskrit]; ವಿವಾಹವಿಧಿಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಮಾೞ್ಪೆಂ** ← ಮಾಡು [verb; future/present, sg, 1, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 232, 217, 161 · alt: ಮಾಡು [future/present, pl, 1, to do, make; (n.) a kind of wall-niche / roof]; ಮಾೞ್ಸು [future/present, sg, 1]
+- **ಪೆಱರ್** ← ಪೆಱತು [pronoun; nominative, pl, human] (lexicon) · alt: ಪೆಱು [negative, pl, masc./human, 3, to obtain; to beget, bear]; ಪೆಱ [nominative, pl, masc., kannada]
+- **ಮಾೞ್ಪರೇ** ← ಮಾಡು + ಅರೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾೞ್ಪರು [vocative, sg, neut., kannada]; ಮಾೞ್ಪರೆ [vocative, sg, neut./fem., kannada]
+- **ಬೆಸನೇನೆಂದೊಡೆ** ← ಬೆಸೆ + ಅಂ + ಏನ್ + ಎನ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬೆಸನೇನೆಂದೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಪೇೞ್ವೆನೆನ್ನ** ← ಪೇೞ್ + ಎನೆ + ಆನ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೇೞ್ವೆನೆಂನ [vocative, sg, masc./neut./fem., kannada]
+- **ಬೆಸನಂ** ← ಬೆಸ [noun; accusative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಬೆಸನು [accusative, sg, neut., kannada]; ಬೆಸನ [nominative, sg, masc./neut./fem., kannada]
+- **ಕೈಕೊಳ್ವುದೀ** ← ಕೈಕೊಳ್ವುದಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ಕನ್ನೆಯಂಪಸುರ್ವಂದರ್** ← ಕಂನೆಯಂಪಸುರ್ವಂದ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ಕಂನೆಯಂಪಸುರ್ವಂದರ್ [nominative, sg, neut., kannada]
+- **ಪಸೆಯೆಂಬಿವಂ** ← ಪಸೆ + ಎನ್ + ಇದು + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪಸೆಯೆಂಬಿವು [accusative, sg, neut., kannada]; ಪಸೆಯೆಂಬಿವ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಮೆದು** ← ಸಮೆ [verb; past gerund, to be made ready, accomplished; to wear away, be used up] (lexicon) · rules 236, 217 · alt: ಸಮೆದು [nominative, sg, neut./masc., kannada]
+- **ನೀಂ** ← ನೀನ್ [pronoun; nominative, sg] (lexicon) · rules 146, 161 · alt: ನೀನ್ [nominative, pl]
+- **ಕೈಕೊಳ್** — ❓ not derivable with the rules + lexicon
+- **ಕೊಳಲ್ಕಾಗದೆಂಬೆಸಕಂ** ← ಕೊಳ್ + ಆಗು + ಅದು + ಎನ್ + ಬೆಸ + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕೊಳಲ್ಕಾಗದೆಂಬೆಸಕು [accusative, sg, neut., kannada]; ಕೊಳಲ್ಕಾಗದೆಂಬೆಸಕ [nominative, sg, masc./neut./fem., kannada]
+- **ಚಿತ್ತದೊಳುಳ್ಳೊಡೀಗಳಿವರೆಮ್ಮಾಚಾರ್ಯರೆಂದೋವದೇರ್ವೆಸನಂ** ← ಚಿತ್ತದೊಳುಳ್ಳೊಡೀಗಳಿವರೆಂಮಾಚಾರ್ಯರೆಂದೋವದೇರ್ವೆಸನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಚಿತ್ತದೊಳುಳ್ಳೊಡೀಗಳಿವರೆಂಮಾಚಾರ್ಯರೆಂದೋವದೇರ್ವೆಸ [accusative, sg, masc./neut./fem., kannada]; ಚಿತ್ತದೊಳುಳ್ಳೊಡೀಗಳಿವರೆಂಮಾಚಾರ್ಯರೆಂದೋವದೇರ್ವೆಸನ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಾಣದೆ** ← ಮಾಣ್ [verb; negative participle -ade, to cease, desist; to stop] (lexicon) · rules 71 · alt: ಮಾಣ [instrumental, sg, neut., kannada]; ಮಾಣದೆ [nominative, sg, neut./fem., kannada]
+- **ಕೈದುಗೊಳ್ಳೆರಡರೊಳ್** ← ಕೈದು + ಉಗು + ಒಳ್ + ಎರಡು + ಅರೆ + ಒಳ್ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕೈದುಗೊಳ್ಳೆರಡರ್ [locative, sg, neut., kannada]; ಕೈದುಗೊಳ್ಳೆರಡ [locative, pl, masc., kannada]
+- **ಮೆಚ್ಚಿತ್ತೆನೇನೆಂದಪಯ್** ← ಮೆಚ್ಚು + ಈ + ಎನೆ + ಏನ್ + ಎನ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮೆಚ್ಚಿತ್ತೆನೇನೆಂದಸು [future/present, sg, 2]; ಮೆಚ್ಚಿತ್ತೆನೇನೆಂದಗು [future/present, sg, 2]
+- **ಕೆಳರ್ದಂದುಗ್ರ** ← ಕೆಳರ್ + ಅಂ + ದುಗ್ರ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕೆಳರ್ದಂದುಗ್ರ್ [genitive, sg, neut., kannada]
+- **ರಣಾಗ್ರಹ** ← ರಣಾಗ್ರಹ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಪ್ರಣಯದಿಂದಾಗಳ್** ← ಪ್ರಣಯದೆ + ಇಂದು + ಆಗಳ್ [phrase/compound; saṃhitā split into 3] (lexicon)
+- **ಕುರುಕ್ಷೇತ್ರಮಂಕಳವೇೞ್ದಿರ್ವರುಮೈಂದ್ರ** ← ಕುರುಕ್ಷೇತ್ರಮಂಕಳವೇೞ್ದಿರ್ವರುಮೈಂದ್ರ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ವಾರುಣದೆ** ← ವಾರುಣ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ವಾರುಣದೆ [nominative, sg, neut./fem., kannada]
+- **ವಾಯವ್ಯಾದಿ** ← ವಾಯವ್ಯಾದಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ದಿವ್ಯಾಸ್ತ್ರ** ← ದಿವ್ + ಯಾಸ್ತ್ರ್ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ದಿವ್ಯಾಸ್ತ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಸಂಕುಳದಿಂದೊರ್ವರನೊರ್ವರೆಚ್ಚು** ← ಸಂಕುಳದಿಂದೊರ್ವರನೊರ್ವರೆಚ್ಚು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ನಿಜಪೀಠಾಂಭೋಜದಿಂ** ← ನಿಜಪೀಠಾಂಭೋಜದು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ನಿಜಪೀಠಾಂಭೋಜ [instrumental, sg, neut., sanskrit]
+- **ಬ್ರಹ್ಮನುಚ್ಚಳಿಪನ್ನಂ** ← ಬ್ರಹ್ಮ + ಅಂ + ಉಚ್ಚ + ಅಳಿಪು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಬ್ರಹ್ಮನುಚ್ಚಳಿಪಂನು [accusative, sg, neut., sanskrit]; ಬ್ರಹ್ಮನುಚ್ಚಳಿಪಂನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪಿರಿದೊಂದು** ← ಪಿರಿದು + ಒಂದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪಿರಿದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಸಂಕಟಮನೀ** ← ಸು + ಕಟ + ಅಂ + ಅನಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸಂಕಟಮನಿ [vocative, sg, neut./fem./masc., kannada]
+- **ತ್ರೈಲೋಕ್ಯದೊಳ್** ← ತ್ರೈಲೋಕ್ಯ [noun; locative, sg, neut., sanskrit] (inferred) · rules 106
+- **ಮಾಡಿದರ್** ← ಮಾಡು [verb; past, pl, masc./human, 3, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 221, 217 · alt: ಮಾಡಿದ [nominative, pl, masc., kannada]; ಮಾಡಿದರ್ [nominative, sg, neut., kannada]
+- **ಅತರ್ಕ್ಯಂ** ← ಅತರ್ಕ್ಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಅತರ್ಕ್ಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ವಿಕ್ರಾಂತಂ** ← ವಿಕ್ರಾಂತು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿಕ್ರಾಂತ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಭುಜಬಲಮಸಾಮಾನ್ಯಮಧಿಕಂಪ್ರತಾಪಂ** ← ಭುಜ + ಬಲಿ + ಅಂ + ಅಸು + ಆನ್ + ಆನ್ + ಅಂ + ಅಧಿಕಂಪ್ರತಾಪು [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಭುಜಬಲಮಸಾಮಾನ್ಯಮಧಿಕಂಪ್ರತಾಪು [accusative, sg, neut., sanskrit]; ಭುಜಬಲಮಸಾಮಾನ್ಯಮಧಿಕಂಪ್ರತಾಪ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪೋಗೀತಂಗೆಣೆಯೆ** ← ಪೋಗು + ಇದು + ಗೆಣೆಯೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪೋಗೀತಂಗೆಣೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ದಿವಿಜರ್** ← ದಿವ್ + ಇಜ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ದಿವಿಜ [nominative, pl, masc., kannada]; ದಿವಿಜರ್ [nominative, sg, neut., kannada]
+- **ವಾಯುಪಥದೊಳ್ಶಿತಾಸ್ತ್ರಂಗಳ್** ← ವಾಯುಪಥದೊಳ್ಶಿತಾಸ್ತ್ರ [noun; nominative, pl, masc./neut./fem., kannada] (inferred) · rules 102, 103, 105
+- **ಪೊಂಕಂಗಿಡಿಸೆ** ← ಪೊ + ಂಕಂಗಿಡಿಸೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊಂಕಂಗಿಡಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಸುಗಿದಂ** ← ಸುಗಿ [verb; past, sg, masc./human, 3, to fear] (lexicon) · rules 221, 217, 161 · alt: ಸುಗಿದು [accusative, sg, neut., kannada]; ಸುಗಿದ [nominative, sg, masc./neut./fem., kannada]
+- **ಭಾರ್ಗವನಿದೇಂಪ್ರತಿಜ್ಞಾ** ← ಭಾರ್ಗವನಿದೇಂಪ್ರತಿಜ್ಞ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ಗಾಂಗೇಯಂಗದಿರದಿದಿರ್ನಿಲ್ವನ್ನರೊಳರೇ** ← ಗಾಂಗೇಯಂಗದಿರದಿದಿರ್ನಿಲ್ವಂನರೊಳರು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ಗಾಂಗೇಯಂಗದಿರದಿದಿರ್ನಿಲ್ವಂನರೊಳರೆ [vocative, sg, neut./fem., kannada]; ಗಾಂಗೇಯಂಗದಿರದಿದಿರ್ನಿಲ್ವಂನರೊಳರ್ [vocative, sg, neut., kannada]
+- **ಮಗನೆಂಬಂತು** ← ಮಗ + ಅಂ + ಎನ್ + ಅಂತು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮಗನೆಂಬಂತು [nominative, sg, neut./masc., kannada]
+- **ಧರಿತ್ರಿ** ← ಧರಿತ್ರಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನಿನ್ನನುಜರಂ** ← ನೀನ್ + ಅಂ + ಉಜರು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಿಂನನುಜರು [accusative, sg, neut., kannada]; ನಿಂನನುಜರ್ [accusative, sg, neut., kannada]
+- **ಕೈಕೊಂಡು** ← ಕೈಕೊಂಡು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಮುಂ** ← ಮು [noun; nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada] (lexicon) · rules 105 · alt: ಮು [vocative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಪೂಣ್ದ** ← ಪೂಣ್ [verb; past relative participle, to vow, promise, undertake] (lexicon) · rules 241
+- **ನನ್ನಿಗೆ** ← ನಂನಿ [noun; dative, sg, neut./fem./masc., kannada] (inferred) · rules 113 · alt: ನಂನಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಬನ್ನಂ** ← ಬಂನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಂನ [nominative, sg, masc./neut./fem., kannada]
+- **ಬರಲೀಯದಾರ್ತೆಸಗಿದೀ** ← ಬರ್ + ಈ + ಅದು + ಆಱು + ಎಸಗು + ತಿ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಬರಲೀಯದಾರ್ತೆಸಗಿದಿ [vocative, sg, neut./fem./masc., kannada]
+- **ವಿಖ್ಯಾತಿಯುಂ** ← ವಿಖ್ಯಾತಿ [noun; nominative, sg, neut./fem./masc., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 105 · alt: ವಿಖ್ಯಾತಿಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]; ವಿಖ್ಯಾತಿಯು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), sanskrit]
+- **ಕೀರ್ತಿಯುಂಮುಗಿಲಂ** ← ಕೀಱು + ಇಯುಂಮುಗಿಲು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕೀರ್ತಿಯುಂಮುಗಿಲು [accusative, sg, neut., kannada]; ಕೀರ್ತಿಯುಂಮುಗಿಲ್ [accusative, sg, neut., kannada]
+- **ಮುಟ್ಟಿದುದಲ್ತೆ** ← ಮುಟ್ಟು + ಇದು + ಉದು + ಅಲ್ತೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮುಟ್ಟಿದುದಲ್ತೆ [nominative, sg, neut./fem., kannada]
+- **ನಮ್ಮ** ← ನಂಮ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕುಲದೊಳ್** ← ಕುಲ [noun; locative, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಮಕ್ಕಳ್ಪೆಱರ್** ← ಮಕ್ಕಳ್ಪೆಱ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ಮಕ್ಕಳ್ಪೆಱರ್ [nominative, sg, neut., kannada]
+- **ನೀನೇ** ← ನೀನು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ನೀನೆ [vocative, sg, neut./fem., kannada]
+- **ಜಟ್ಟಿಗನೈ** — ❓ not derivable with the rules + lexicon
+- **ಮುನ್ನಿನೊರಂಟುವೇಡ** ← ಮುಂನೆ + ಇಂ + ಒರ್ + ಅಂಟು + ಬೇಡು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮುಂನಿನೊರಂಟುವೇಡ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಗನೇ** ← ಮಗ [noun; vocative, sg, masc./fem., kannada] (lexicon) · rules 123, 124, 124
+- **ಕೈಕೊಳ್** — ❓ not derivable with the rules + lexicon
+- **ಧರಾಭಾರಮಂ** ← ಧರಾಭಾರಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಧರಾಭಾರ [accusative, sg, neut., sanskrit]; ಧರಾಭಾರಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಕಿಡುಗುಮೆ** ← ಕಿಡು + ಉಗುಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಿಡುಗುಮೆ [nominative, sg, neut./fem., kannada]
+- **ರಾಜ್ಯಂ** ← ರಾಜ + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ರಾಜ್ಯು [accusative, sg, neut., sanskrit]; ರಾಜ್ಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ರಾಜ್ಯದತೊಡರ್ಪದೇವಾೞ್ತೆ** ← ರಾಜ + ಅ + ತ + ತೊಡೆ + ಅರೆ + ಪದೆ + ಏವಾೞ್ತೆ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ರಾಜ್ಯದತೊಡರ್ಪದೇವಾೞ್ತೆ [nominative, sg, neut./fem., kannada]
+- **ಬಾೞ್ತೆ** ← ಬಾೞ್ತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನನ್ನಿಯ** ← ನಂನಿ [noun; genitive, sg, neut./fem./masc., kannada] (inferred) · rules 53
+- **ನುಡಿಯಂಕಿಡೆ** ← ನುಡಿ + ಅಂ + ಕಿಡು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನುಡಿಯಂಕಿಡೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞೆ** ← ನೆಗೞ್ [verb; sati-saptamī (when …), to undertake; to be famous; also a crocodile] (lexicon) · rules 246 · alt: ನೆಗೞೆ [nominative, sg, neut./fem., kannada]
+- **ನಾನುಮೆರಡಂನುಡಿದೊಡೆ** ← ನಾನ್ + ಉಂ + ಎರಡು + ಅಂ + ನುಡಿ + ಇದು + ಒಡೆ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ನಾನುಮೆರಡಂನುಡಿದೊಡೆ [nominative, sg, neut./fem., kannada]; ನಾನುಮೆರಡಂನುಡು [conditional -oḍe]
+- **ಹರಿ** ← ಹರಿ [verb; imperative/optative, sg, 2, to run, flow] (lexicon) · rules 230 · alt: ಹರಿ [nominative, sg, neut./fem./masc., sanskrit]; ಹರಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ಹರ** ← ಹರ್ [noun; genitive, sg, neut., kannada] (inferred) · alt: ಹ [genitive, pl, masc., kannada]
+- **ಹಿರಣ್ಯಗರ್ಭರ್** ← ಹಿರಣ್ಯಗರ್ಭ [noun; nominative, pl, masc., sanskrit] (inferred) · rules 98, 52, 105 · alt: ಹಿರಣ್ಯಗರ್ಭರ್ [nominative, sg, neut., sanskrit]
+- **ನಗರೇ** ← ನಗು + ಅರೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನಗರು [vocative, sg, neut., kannada]; ನಗರೆ [vocative, sg, neut./fem., kannada]
+- **ಹಿಮಕರನಾತ್ಮಶೀತರುಚಿಯಂ** ← ಹಿಮ + ಅರೆ + ಅಂ + ಆತ್ಮಶೀತರುಚಿಯು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಹಿಮಕರನಾತ್ಮಶೀತರುಚಿಯು [accusative, sg, neut., sanskrit]; ಹಿಮಕರನಾತ್ಮಶೀತರುಚಿ [accusative, sg, neut./fem./masc., sanskrit]
+- **ದಿನನಾಯಕನುಷ್ಣದೀಧಿತಿಕ್ರಮಮನಗಾಧ** ← ದಿನನಾಯಕನುಷ್ಣದೀಧಿತಿಕ್ರಮಮನಗಾಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ವಾರಿಧಿಯೆ** ← ವಾರಿಧಿಯೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಗುಣ್ಪನಿಳಾವಧು** ← ಗುಣ + ಪನ + ಇಳಾ + ವಧು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಗುಣ್ಪನಿಳಾವಧು [nominative, sg, neut./masc., sanskrit]
+- **ತನ್ನ** ← ತಾನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ತಿಣ್ಪನುತ್ತಮ** ← ತಿಣಿ + ಪನ + ಉತ್ತಮ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಿಣ್ಪನುತ್ತಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಕುಲಶೈಲಮುನ್ನತಿಯನೇಳಿದವಾಗೆ** ← ಕುಲಶೈಲಮುಂನತಿಯನೇಳಿದವಾಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬಿಸುೞ್ಪೊಡಂ** ← ಬಿಸು + ಉೞ್ + ಒಡ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬಿಸುೞ್ಪೊಡು [accusative, sg, neut., kannada]; ಬಿಸುೞ್ಪೊಡ [nominative, sg, masc./neut./fem., kannada]
+- **ಬಿಸುೞ್ಕೆಮ** ← ಬಿಸು + ಉೞ್ + ಕೆಮ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬಿಸುೞ್ಕೆಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಿಸುಡೆಂ** ← ಬಿಸು + ಉಡು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಿಸುಡು [vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada]; ಬಿಸುಡೆ [nominative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಮದೀಯ** ← ಮದ + ಈ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮದೀಯ [vocative, sg, masc./neut./fem., kannada]
+- **ಪುರುಷವ್ರತಮೊಂದುಮನೀಗಳಂಬಿಕೇ** ← ಪುರುಷವ್ರತಮೊಂದುಮನೀಗಳಂಬಿಕು [noun; vocative, sg, neut., kannada] (inferred) · rules 123, 52, 124 · alt: ಪುರುಷವ್ರತಮೊಂದುಮನೀಗಳಂಬಿಕೆ [vocative, sg, neut./fem., kannada]
+- **ರಂಗತ್ತರಂಗವಾರ್ಧಿ** ← ರ + ಅತ್ತೆ + ಅರೆ + ಅಂ + ಗವಾರ್ಧಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ರಂಗತ್ತರಂಗವಾರ್ಧಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಚಯಂಗಳ್** ← ಚಯ [noun; nominative, pl, masc./neut./fem., kannada] (inferred) · rules 102, 103, 105
+- **ತಂತಮ್ಮ** ← ತ + ತಾನ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಂತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಮೇರೆಯಂ** ← ಮೇರು + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮೇರೆಯು [accusative, sg, neut., kannada]; ಮೇರೆ [accusative, sg, neut./fem., kannada]
+- **ದಾಂಟುವೊಡಂಗಾಂಗೇಯನುಂ** ← ದಾಂಟು + ಒ + ಡಂಗೆ + ಆನ್ + ಕೇ + ಉಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ದಾಂಟುವೊಡಂಗಾಂಗೇಯು [accusative, sg, neut., -uṃ 'and/also' (122), kannada]; ದಾಂಟುವೊಡಂಗಾಂಗೇಯ [nominative, sg, masc./neut./fem., -uṃ 'and/also' (122), kannada]
+- **ಪ್ರತಿಜ್ಞಾಗಾಂಗೇಯನುಮೊರ್ಮೆ** ← ಪ್ರತಿಜ್ಞಾಗಾಂಗೇಯನುಮೊರ್ಮೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನುಡಿದುದಂ** ← ನುಡಿ + ಇದು + ಉದು + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನುಡಿದುದು [accusative, sg, neut., kannada]; ನುಡಿದುದ [nominative, sg, masc./neut./fem., kannada]
+- **ತಪ್ಪುವರೇ** ← ತಪ್ಪು [noun; vocative, pl, masc., kannada] (lexicon) · rules 98, 55, 124
+- **ತ್ರಿದಶ** ← ತ್ರಿ + ದಶ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತ್ರಿದಶ [vocative, sg, masc./neut./fem., sanskrit]
+- **ನರಾಸುರೋರಗ** ← ನರೆ + ಆಸು + ಉರೋರಗ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರಾಸುರೋರಗ [vocative, sg, masc./neut./fem., kannada]
+- **ಗಣ** ← ಗಣ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪ್ರಭು** ← ಪ್ರಭು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ಪ್ರಭು [vocative, sg, neut./masc., sanskrit]
+- **ನಿಶ್ಚಿತ** ← ನಿಶ್ಚಿತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ತತ್ತ್ವಯೋಗಿ** ← ತತ್ತ್ವಯೋಗಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಯೋಗದ** ← ಯೋಗ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಬಲಮುಣ್ಮಿ** ← ಬಲಿ + ಅಂ + ಉಣ್ಮು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಲಮುಣ್ಮಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೊಣ್ಮಿ** ← ಪೊಣ್ಮು [verb; past gerund, to rise, appear, spring forth] (lexicon) · rules 236, 52 · alt: ಪೊಣ್ಮಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನಿಲೆ** ← ನಿಲ್ [verb; sati-saptamī (when …), to stop, stand; to set up, establish] (lexicon) · rules 246, 70 · alt: ನಿಲೆ [nominative, sg, neut./fem., kannada]
+- **ಪುತ್ರ** ← ಪುತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ವರಾರ್ಥಿಗಳಾಗಿ** ← ವರಾರ್ಥಿಗಳಾಗಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ತನ್ನ** ← ತಾನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ಕಟ್ಟಿದಿರೊಳೆ** ← ಕಟ್ಟು + ಇದು + ಇರ್ + ಒಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕಟ್ಟಿದಿರೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ನಿಂದರಂ** ← ನಿಲ್ + ಅರೆ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿಂದರು [accusative, sg, neut., kannada]; ನಿಂದರ್ [accusative, sg, neut., kannada]
+- **ನಯದೆ** ← ನಯ [noun; instrumental, sg, neut., kannada] (lexicon) · rules 106 · alt: ನಯದೆ [nominative, sg, neut./fem., kannada]
+- **ನೋಡೆ** ← ನೋಡು [verb; sati-saptamī (when …), to see, look] (lexicon) · rules 246, 52 · alt: ನೋಡು [vocative, sg, neut., kannada]; ನೋಡೆ [nominative, sg, neut./fem., kannada]
+- **ಮುನೀಂದ್ರನ** ← ಮುನಿ + ಈನ್ + ರ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮುನೀಂದ್ರ [genitive, sg, masc./fem., sanskrit]
+- **ದಿವ್ಯದೃಷ್ಟಿಮಂತ್ರದೊಳೆ** ← ದಿವ್ + ಅ + ದೃಷ್ಟಿಮಂತ್ರದೊಳೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ದಿವ್ಯದೃಷ್ಟಿಮಂತ್ರದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಪೊದೞ್ದುದಾ** ← ಪೊ + ದೞ್ದುದ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊದೞ್ದುದ [vocative, sg, masc./neut./fem., kannada]
+- **ಸತಿಯರಿರ್ವರೊಳಂ** ← ಸತ್ + ಇಯರಿರ್ವರೊಳು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸತಿಯರಿರ್ವರೊಳು [accusative, sg, neut., kannada]; ಸತಿಯರಿರ್ವರೊಳ [nominative, sg, masc./neut./fem., kannada]
+- **ನವಗರ್ಭವಿಭ್ರಮಂ** ← ನವ + ಅಗಿ + ಅರೆ + ಭವಿ + ಇಭ್ರಮು [phrase/compound; saṃhitā split into 5] (inferred) · alt: ನವಗರ್ಭವಿಭ್ರಮು [accusative, sg, neut., sanskrit]; ನವಗರ್ಭವಿಭ್ರ [accusative, sg, neut., sanskrit]
+- **ವರಂಬಡೆದ** ← ವರಂಬಡೆ [verb; past relative participle] (inferred) · rules 221
+- **ಸಂತಸಂ** ← ಸಂತಸು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಸಂತಸ [nominative, sg, masc./neut./fem., kannada]
+- **ಮನದೊಳಾಗಲೊಂದುತ್ತರೋತ್ತರಂ** ← ಮನು + ಅದು + ಒಳ್ + ಆಗು + ಒಂದು + ತರ್ + ಓ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಮನದೊಳಾಗಲೊಂದುತ್ತರೋತ್ತರು [accusative, sg, neut., kannada]; ಮನದೊಳಾಗಲೊಂದುತ್ತರೋತ್ತರ್ [accusative, sg, neut., kannada]
+- **ಬಳೆವ** ← ಬಳೆ [verb; future relative participle, to grow, increase; also a glass bangle] (lexicon) · rules 221
+- **ಮಾೞ್ಕೆಯಿಂ** ← ಮಾ + ೞ್ಕೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾೞ್ಕೆಯು [instrumental, sg, neut., kannada]; ಮಾೞ್ಕೆ [instrumental, sg, neut./fem., kannada]
+- **ಬಳೆವ** ← ಬಳೆ [verb; future relative participle, to grow, increase; also a glass bangle] (lexicon) · rules 221
+- **ಗರ್ಭಮಂ** ← ಗರ್ಭಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗರ್ಭ [accusative, sg, neut., sanskrit]; ಗರ್ಭಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತಾಳ್ದಿಯಾದರಂ** ← ತಾಳ್ದು + ಆಗು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಾಳ್ದಿಯಾದರು [accusative, sg, neut., kannada]; ತಾಳ್ದಿಯಾದರ್ [accusative, sg, neut., kannada]
+- **ಬೆರಸು** ← ಬೆರಸು [verb; imperative/optative, sg, 2, to mix] (lexicon) · rules 230 · alt: ಬೆರಸು [nominative, sg, neut./masc., kannada]; ಬೆರಸು [vocative, sg, neut./masc., kannada]
+- **ಪೆತ್ತರಂದು** ← ಪೆಱು + ಅರೆ + ಅಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೆತ್ತರಂದು [nominative, sg, neut./masc., kannada]
+- **ಧೃತರಾಷ್ಟ್ರ** ← ಧೃತರಾಷ್ಟ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ವಿಖ್ಯಾತ** ← ವಿಖ್ಯಾತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಪಾಂಡುರಾಜ** ← ಪಾಂಡುರಾಜ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವಿದುರರ್ಕಳಂ** ← ವಿದುರರ್ಕಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿದುರರ್ಕಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಕ್ರಮದೆ** ← ಕ್ರಮದೆ [noun; nominative, sg, neut./fem., kannada] (lexicon) · rules 105 · alt: ಕ್ರಮದೆ [vocative, sg, neut./fem., kannada]; ಕ್ರಮ [instrumental, sg, neut., sanskrit]
+- **ಮೂವರುಂ** ← ಮೂವರ್ + ಉಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮೂವರ್ [nominative, sg, neut., -uṃ 'and/also' (122), kannada]; ಮೂವರ್ [vocative, sg, neut., -uṃ 'and/also' (122), kannada]
+- **ಮೂವರಂ** ← ಮೂವರ್ [noun; accusative, sg, neut., kannada] (lexicon) · rules 161 · alt: ಮೂವರು [accusative, sg, neut., kannada]; ಮೂವ [accusative, pl, masc., kannada]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ವಿವಿಧ** ← ವಿವಿಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಲಕ್ಷಣಂಗಳೊಳಾವರಿಸಿದ** ← ಲಕ್ಷಣ + ಅಂ + ಗಳ + ಒಳ್ + ಆವು + ಅರೆ + ಇಸಿ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಲಕ್ಷಣಂಗಳೊಳಾವರಿಸು [past relative participle]; ಲಕ್ಷಣಂಗಳೊಳಾವರಿಸಿ [past relative participle]
+- **ಕುಲದ** ← ಕುಲ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಬಲದ** ← ಬಲ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಚಲದಳವಿಗಳೊಳ್ಮೂವರುಮನಾದಿ** ← ಚಲ + ಅದು + ಅಳೆ + ಅವು + ಗಳ + ಒಳ್ + ಮೂವರ್ + ಉಂ + ಅಂ + ಆದಿ [phrase/compound; saṃhitā split into 10] (inferred) · alt: ಚಲದಳವಿಗಳೊಳ್ಮೂವರುಮನಾದಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪುರುಷರ್ಮೂವರುಮೆನಲಲ್ಲದತ್ತ** ← ಪುರುಷರ್ಮೂವರುಮೆನಲಲ್ಲದತ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮತ್ತೇನೆಂಬರ್** ← ಮತ್ತೆ + ಏನ್ + ಎನ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮತ್ತೇನೆಂಬ [nominative, pl, masc., kannada]; ಮತ್ತೇನೆಂಬರ್ [nominative, sg, neut., kannada]
+- **ಮತ್ತಿತ್ತ** ← ಮತ್ತೆ + ಈ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮತ್ತಿಱು [past relative participle]
+- **ನೆಗೞ್ತೆಯ** ← ನೆಗೞ್ + ತೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೆಗೞ್ತೆ [genitive, sg, neut./fem., kannada]
+- **ಪುರುಷೋತ್ತಮನ** ← ಪುರುಷೋತ್ತಮ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105
+- **ಪಿತಾಮಹಂಗೆ** ← ಪಿತಾಮಹ [noun; dative, sg, masc./fem., kannada] (inferred) · rules 113, 161 · alt: ಪಿತಾಮಹಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಶೂರಂಗೆ** ← ಶೂರ [noun; dative, sg, masc./fem., sanskrit] (inferred) · rules 113, 161 · alt: ಶೂರಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮಗಳ್ಮತ್ತಗಜಗಮನೆ** ← ಮಗ + ಅಳೆ + ಮತ್ತೆ + ಅಗಜಗಮನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮಗಳ್ಮತ್ತಗಜಗಮನೆ [nominative, sg, neut./fem., kannada]
+- **ಯದುವಂಶೋತ್ತಮೆಯೆನೆ** ← ಯದ್ + ಉದು + ಅಂ + ಶೋತ್ತಮೆಯೆನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಯದುವಂಶೋತ್ತಮೆಯೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಕುಂತಿಭೋಜನ** ← ಕುಂತಿಭೋಜ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105
+- **ಮನೆಯೊಳ್** ← ಮನೆ [noun; locative, sg, neut./fem., kannada] (lexicon) · rules 53
+- **ಬಳೆಯುತ್ತಿರ್ಪನ್ನೆಗಮಾನಳಿನಾಸ್ಯೆಯ** ← ಬಳೆ + ಇರ್ + ಅಂ + ನೆಗೆ + ಅಂ + ಆನ್ + ಇಂ + ಆಸು + ಯೆ [phrase/compound; saṃhitā split into 9] (inferred) · alt: ಬಳೆಯುತ್ತಿರ್ಪಂನೆಗಮಾನಳಿನಾಸ್ಯೆ [genitive, sg, neut./fem., kannada]
+- **ಗೆಯ್ದುದೊಂದು** ← ಗೆಯ್ + ಉದು + ಒಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಗೆಯ್ದುದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಶುಶ್ರೂಷೆ** ← ಶುಶ್ರೂಷೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮನಂಗೊಳೆ** ← ಮನಂಗೊಳ್ [verb; sati-saptamī (when …), to captivate the mind] (lexicon) · rules 246 · alt: ಮನಂಗೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಟ್ಟಂ** ← ಕುಡು [verb; past, sg, masc./human, 3, to give; (adj.) crooked] (lexicon) · rules 239, 217, 161 · alt: ಕೊಟ್ಟು [accusative, sg, neut., kannada]; ಕೊಟ್ಟ [nominative, sg, masc./neut./fem., kannada]
+- **ದುರ್ವಾಸಂವಿಳಸಿತ** ← ದುರ್ವಾಸಂವಿಳಸಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮಂತ್ರಾಕ್ಷರಂಗಳಂ** ← ಮಂತ್ರಿ + ಅದು + ಷರಂಗಳು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಂತ್ರಾಕ್ಷರಂಗಳು [accusative, sg, neut., sanskrit]; ಮಂತ್ರಾಕ್ಷರ [accusative, pl, masc./neut./fem., sanskrit]
+- **ದಯೆಯಿಂದಂ** ← ದಯೆಯಿಂದು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ದಯೆಯು [instrumental, sg, neut., kannada]; ದಯೆ [instrumental, sg, neut./fem., kannada]
+- **ಪುಚ್ಚವಣಂ** ← ಪುಚ್ಚವಣ [noun; nominative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಪುಚ್ಚವಣು [accusative, sg, neut., kannada]
+- **ನೋಡುವೆನೆನ್ನಿಚ್ಚೆಯೊಳೀ** ← ನೋಡು + ಉದು + ಎನೆ + ಆನ್ + ಇಚ್ಚೆಯೊಳಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ನೋಡುವೆನೆಂನಿಚ್ಚೆಯೊಳಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಮುನಿಯ** ← ಮುನಿ [verb; infinitive, to be angry; (noun) ascetic] (lexicon) · rules 235, 53 · alt: ಮುನಿ [genitive, sg, neut./fem./masc., sanskrit]
+- **ವರದ** ← ವರ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಮಹಿಮೆಯನೆನುತಂದುಚ್ಚಸ್ತನಿ** ← ಮಹಿಮೆಯನೆನುತಂದುಚ್ಚಸ್ತನಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಗಂಗೆಗೆ** ← ಗಂಗೆ [noun; dative, sg, neut./fem., kannada] (inferred) · rules 113 · alt: ಗಂಗೆಗೆ [nominative, sg, neut./fem., kannada]
+- **ಶಫರೋಚ್ಚಳಿತ** ← ಶಫರೋಚ್ಚಳಿತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ತರತ್ತರಂಗೆಗೊರ್ವಳೆ** ← ತರ್ + ಅತ್ತೆ + ಅರೆ + ಅಂ + ಗೆಗೊರ್ವಳೆ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ತರತ್ತರಂಗೆಗೊರ್ವಳೆ [nominative, sg, neut./fem., kannada]
+- **ಬಂದಳ್** ← ಬರ್ [verb; past, sg, fem., 3, to come] (lexicon) · rules 237, 217
+- **ಬಂದು** ← ಬರ್ [verb; past gerund, to come] (lexicon) · rules 236, 217 · alt: ಬಂದು [nominative, sg, neut./masc., kannada]
+- **ಸುರನದಿಯ** ← ಸುರಿ + ಅಂ + ಅದಿ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಸುರನದಿ [genitive, sg, neut./fem./masc., kannada]
+- **ನೀರೊಳ್ಮಿಂದಿನನಂ** ← ನೀರ್ + ಒಳ್ + ಮೀ + ಇಂ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನೀರೊಳ್ಮಿಂದಿನನು [accusative, sg, neut., kannada]; ನೀರೊಳ್ಮಿಂದಿನ [accusative, sg, masc./neut./fem., kannada]
+- **ನೋಡಿ** ← ನೋಡು [verb; past gerund, to see, look] (lexicon) · rules 236, 52 · alt: ನೋಡಿ [nominative, sg, neut./fem./masc., kannada]; ನೋಡಿ [vocative, sg, neut./fem./masc., kannada]
+- **ನಿನ್ನ** ← ನೀನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ದೊರೆಯನೆ** ← ದೊರೆಯನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮಗನಕ್ಕೆಂದಾಹ್ವಾನಂಗೆಯ್ಯಲೊಡಂ** ← ಮಗ + ಅಂ + ಅಕ್ಕು + ಎಂದು + ಆಹ್ವಾನಂಗೆಯ್ಯಲೊಡು [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಮಗನಕ್ಕೆಂದಾಹ್ವಾನಂಗೆಯ್ಯಲೊಡು [accusative, sg, neut., kannada]; ಮಗನಕ್ಕೆಂದಾಹ್ವಾನಂಗೆಯ್ಯಲೊಡ [nominative, sg, masc./neut./fem., kannada]
+- **ದಲ್** ← ದಲ್ [avyaya; indeed, certainly (also verse-filler)] (lexicon) · alt: ದಲ್ [nominative, sg, neut., kannada]; ದಲ್ [vocative, sg, neut., kannada]
+- **ಧರೆಗಿೞಿದನಂದು** ← ಧರೆಗಿೞಿದನಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ದಶಶತಕಿರಣಂ** ← ದಶಶತಕಿರಣು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ದಶಶತಕಿರಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಕೊಡಗೂಸುತನದ** ← ಕೊಡೆ + ಅಗೂಸುತನ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕೊಡಗೂಸುತನ [genitive, sg, neut., kannada]
+- **ಭಯದಿಂನಡುಗುವ** ← ಭಯ + ಅದು + ಇಂ + ನಡು + ಉಗು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಭಯದಿಂನಡುಗು [genitive, sg, masc./neut., sanskrit]
+- **ಕನ್ನಿಕೆಯ** ← ಕಂನಿಕೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53
+- **ಬೆಮರ** ← ಬೆಮರ್ [verb; imperative/optative, sg, 2, to sweat, perspire] (lexicon) · rules 125 · alt: ಬೆಮರ್ [infinitive, to sweat, perspire]; ಬೆಮರ್ [genitive, sg, neut., kannada]
+- **ನೀರ್ಗಳ** ← ನೀರ್ [noun; genitive, pl, neut., kannada] (lexicon) · rules 95
+- **ಪೊನಲೊೞ್ಕುಡಿಯಲೊಡಗೂಡೆ** ← ಪೊ + ನಲಿ + ಒೞ್ಕು + ಉಡಿ + ಒಡ್ + ಅಗಿ + ಊಡು [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಪೊನಲೊೞ್ಕುಡಿಯಲೊಡಗೂಡೆ [nominative, sg, neut./fem., kannada]
+- **ಗಂಗೆಯಮಡು** ← ಗಂಗೆಯಮಡು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಕರೆಗಣ್ಮಿದುದು** ← ಕರೆಗಣ್ಮು [verb; past, sg, neut., 3, to overflow the bank, exceed the limit] (lexicon) · rules 221, 217 · alt: ಕರೆಗಣ್ಮು [verbal noun -udu, to overflow the bank, exceed the limit]; ಕರೆಗಣ್ಮಿದುದು [nominative, sg, neut./masc., kannada]
+- **ನಾಣ** ← ನಾಣ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪೆಂಪೇಂ** ← ಪೆಂಪು [noun; vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada] (inferred) · rules 123, 52, 124 · alt: ಪೆಂಪೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಪಿರಿದೋ** ← ಪಿರಿದು [noun; nominative, sg, neut./masc., -ō doubt/admiration (56–57), kannada] (lexicon) · rules 105 · alt: ಪಿರಿದು [vocative, sg, neut./masc., -ō doubt/admiration (56–57), kannada]
+- **ಬರಿಸಿದ** ← ಬರ್ + ಇಸಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬರಿಸು [past relative participle]; ಬರಿಸಿ [past relative participle]
+- **ಕಾರಣಮಾವುದೊತರುಣಿ** ← ಕಾರ್ + ಅಣೆ + ಅಂ + ಆವುದು + ಒತರುಣಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಕಾರಣಮಾವುದೊತರುಣಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮುನೀಶ್ವರನ** ← ಮುನಿ + ಈಶ್ವರ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮುನೀಶ್ವರ [genitive, sg, masc./fem., sanskrit]
+- **ಮಂತ್ರಮೇ** ← ಮಂತ್ರಮು [noun; vocative, sg, neut., sanskrit] (inferred) · rules 123, 52, 124 · alt: ಮಂತ್ರಮೆ [vocative, sg, neut./fem., kannada]; ಮಂತ್ರ [vocative, sg, neut., sanskrit]
+- **ದೊರೆಯೆಂದಾಂಮರುಳಿಯೆನೆಯಱಿದುಮಱಿಯದೆಬರಿಸಿದೆನಿನ್ನೇೞಿಮೆಂದೊಡಾಗದು** ← ದೊರೆಯೆಂದಾಂಮರುಳಿಯೆನೆಯಱಿದುಮಱಿಯದೆಬರಿಸಿದೆನಿಂನೇೞಿಮೆಂದೊಡಾಗದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಪೋಗಲ್** ← ಪೋಗು [verb; infinitive, to go] (lexicon) · rules 234, 52 · alt: ಪೋಗು [prohibitive, to go]; ಪೋಗಲ್ [nominative, sg, neut., kannada]
+- **ಮುಂ** ← ಮು [noun; nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada] (lexicon) · rules 105 · alt: ಮು [vocative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಬೇಡಿದ** ← ಬೇಡು [verb; past relative participle, to beg, ask; (n.) the hunter tribe] (lexicon) · rules 221 · alt: ಬೇಡಿದ [vocative, sg, masc./neut./fem., kannada]; ಬೇಡಿ [past relative participle]
+- **ವರಮಂ** ← ವರಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವರ [accusative, sg, neut., kannada]; ವರಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಕುಡದಂಬುಜಮುಖಿ** ← ಕುಡು + ಅದು + ಅಂ + ಬುಜಮುಖಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಕುಡದಂಬುಜಮುಖಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಪುತ್ರನೆನ್ನ** ← ಪುತ್ರನೆಂನ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದೊರೆಯಂ** ← ದೊರೆಯು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ದೊರೆ [accusative, sg, neut./fem., kannada]; ದೊರೆಯ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿನಗಕ್ಕಂಬುದುಮೊದವಿದ** ← ನೀನ್ + ಅಕ್ಕು + ಅಂಬು + ಉದು + ಉಂ + ಒದವು [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ನಿನಗಕ್ಕಂಬುದುಮೊದವು [past relative participle]; ನಿನಗಕ್ಕಂಬುದುಮೊದವಿ [past relative participle]
+- **ಗರ್ಭದೊಳಂಬುಜಮಿತ್ರನನೆ** ← ಗರ್ಭದೊಳಂಬುಜಮಿತ್ರನನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೋಲ್ವ** ← ಪೋಲ್ [verb; future relative participle, to resemble] (lexicon) · rules 221
+- **ಮಗನೊಗೆತಂದಂ** ← ಮಗ + ಅಂ + ಒಗೆ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮಗನೊಗೆತಂದು [accusative, sg, neut., kannada]; ಮಗನೊಗೆತಂದ [nominative, sg, masc./neut./fem., kannada]
+- **ಒಡವುಟ್ಟಿದ** ← ಒಡ್ + ಅದು + ಉಡು + ಇದ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಒಡವುಟ್ಟು [past relative participle]; ಒಡವುಟ್ಟಿ [past relative participle]
+- **ಮಣಿಕುಂಡಲಮೊಡವುಟ್ಟಿದ** ← ಮಣಿ + ಕುಂಡ + ಅಲೆ + ಅಂ + ಒಡ್ + ಅದು + ಉಡು + ಇದ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಮಣಿಕುಂಡಲಮೊಡವುಟ್ಟು [past relative participle]; ಮಣಿಕುಂಡಲಮೊಡವುಟ್ಟಿ [past relative participle]
+- **ಸಹಜಕವಚಮಮರ್ದಿರೆ** ← ಸಹಜಕವಚಮಮರ್ದಿರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ತನ್ನೊಳ್ತೊಡರ್ದಿರೆಯುಂ** ← ತಾನ್ + ಒಳ್ + ತೊಡರ್ + ಇರ್ + ಉಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ತಂನೊಳ್ತೊಡರ್ದಿರೆಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ತಂನೊಳ್ತೊಡರ್ದಿರೆ [nominative, sg, neut./fem., -uṃ 'and/also' (122), kannada]
+- **ಬಂದಾಕೆಯನಡುಕಮನೊಡರಿಸಿದನಾಗಳಾ** ← ಬರ್ + ಅದು + ಅಂ + ಅಡುಕು + ಅಂ + ಅಂ + ಒಡ್ + ಅರೆ + ಇಸು + ಇದು + ಅಂ + ಆಗಳ [phrase/compound; saṃhitā split into 12] (inferred) · alt: ಬಂದಾಕೆಯನಡುಕಮನೊಡರಿಸಿದನಾಗಳ [vocative, sg, masc./neut./fem., kannada]
+- **ಬಾಲಿಕೆಯಾ** ← ಬಾಲಿಕೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53, 117
+- **ಬಾಳದಿನೇಶಬಿಂಬದ** ← ಬಾಳ್ + ಅದು + ಇಂ + ಏಶಬಿಂಬ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಬಾಳದಿನೇಶಬಿಂಬ [genitive, sg, neut., sanskrit]
+- **ನೆೞಲ್** ← ನೆೞಲ್ [verb; imperative/optative, sg, 2, to hang down motionless or powerless; to faint] (lexicon) · rules 230 · alt: ನೆೞಲ್ [nominative, sg, neut., kannada]; ನೆೞಲ್ [vocative, sg, neut., kannada]
+- **ಜಲದೊಳ್** ← ಜಲ [noun; locative, sg, neut., sanskrit] (lexicon) · rules 106
+- **ನೆಲಸಿತ್ತೊ** — ❓ not derivable with the rules + lexicon
+- **ಮೇಣ್** ← ಮೇಣ್ [avyaya; or (alternative)] (lexicon) · alt: ಮೇಣ್ [nominative, sg, neut., kannada]; ಮೇಣ್ [vocative, sg, neut., kannada]
+- **ಫಣೀಂದ್ರಾಳಯದಿಂದಮುರ್ಚಿದ** ← ಫಣಿ + ಈನ್ + ರಾಳಯದಿಂದಮುರ್ಚು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಫಣೀಂದ್ರಾಳಯದಿಂದಮುರ್ಚು [past relative participle]; ಫಣೀಂದ್ರಾಳಯದಿಂದಮುರ್ಚಿ [past relative participle]
+- **ಫಣಾಮಣಿ** ← ಫಣಿ + ಆನ್ + ಅಣಿ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಫಣಾಮಣಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಮಂಗಳ** ← ಮಂಗಳ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಮ [genitive, pl, masc./neut./fem., kannada]
+- **ರಶ್ಮಿಯೋ** ← ರಶ್ಮಿ [noun; nominative, sg, neut./fem./masc., -ō doubt/admiration (56–57), sanskrit] (inferred) · rules 105 · alt: ರಶ್ಮಿಯು [nominative, sg, neut./masc., -ō doubt/admiration (56–57), sanskrit]
+- **ಕರಂಮೇಳಿಸಿದಪ್ಪುದೆನ್ನೆರ್ದೆಯನೆಂದು** ← ಕರ್ + ಅಂ + ಮೇಳಿಸು + ಇದು + ಆಗು + ಉದು + ಆನ್ + ಎರ್ದೆಯನೆಂದು [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಕರಂಮೇಳಿಸಿದಪ್ಪುದೆಂನೆರ್ದೆಯನೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಬೊದಿಲ್ಲೆನೆ** ← ಬೊದಿಲ್ಲೆನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪಾಯ್ದು** ← ಪಾಯ್ [verb; past gerund, to leap over, jump] (lexicon) · rules 236, 217 · alt: ಪಾಯ್ದು [nominative, sg, neut./masc., kannada]
+- **ನೀರೊಳಾಬಾಳನನಾದಮಾದರದೆ** ← ನೀರ್ + ಒಳ + ಬಾಳ್ + ಅಂ + ಅಂ + ಆಗು + ಅಂ + ಆಗು + ರ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ನೀರೊಳಾಬಾಳನನಾದಮಾದರ [instrumental, sg, neut., kannada]; ನೀರೊಳಾಬಾಳನನಾದಮಾದರದೆ [nominative, sg, neut./fem., kannada]
+- **ಕಂಡೊಸೆದಂ** ← ಕಾಣ್ + ಒಸೆ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕಂಡೊಸೆದು [accusative, sg, neut., kannada]; ಕಂಡೊಸೆದ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿಧಿಗಂಡನಂತೆವೋಲ್** ← ನಿಧಿ + ಅಂ + ಡ + ಅಂತೆ + ವೋಲ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನಿಧಿಗಂಡನಂತೆವೋಲ್ [nominative, sg, neut., kannada]
+- **ಅಗುೞ್ದರಲಾ** ← ಅಗುೞ್ + ಅರಲ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಅಗುೞ್ದರಲ್ [genitive, sg, neut., kannada]
+- **ಕುೞಿಯೊಳ್** ← ಕುೞಿ [noun; locative, sg, neut./fem./masc., kannada] (lexicon) · rules 53
+- **ತೊಟ್ಟಗೆ** ← ತುಡು + ಕೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತೊಟ್ಟಗೆ [nominative, sg, neut./fem., kannada]
+- **ನಿಧಿಗಂಡಂತೆ** ← ನಿಧಿ + ಅಂ + ಡಂತೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಿಧಿಗಂಡಂತೆ [nominative, sg, neut./fem., kannada]
+- **ವಸುಧೆಗಸದಳಮಾಯ್ತಾಮಗನಂದಮೆಂದು** ← ವಸುಧೆಗಸದಳಮಾಯ್ತಾಮಗನಂದಮೆಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಲೋಗರ್ಬಗೆದಿರೆ** ← ಲೋಗರ್ಬಗೆದಿರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ವಸುಷೇಣನೆಂಬ** ← ವಸು + ಉಷೇಣನೆಂಬ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಸುಷೇಣನೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೆಸರಾಯ್ತಾಗಳ್** — ❓ not derivable with the rules + lexicon
+- **ಅಂತು** ← ಅಂತು [avyaya; verse-filler (expletive)] (lexicon) · alt: ಅಂತು [nominative, sg, neut./masc., kannada]
+- **ವಸುಷೇಣನಾ** ← ವಸು + ಉಷೇಣ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಸುಷೇಣ [genitive, sg, masc./fem., sanskrit]
+- **ಲೋಕಾಂತಂಬರಮಳವಿ** ← ಲೋಕ + ಆನ್ + ಅಂ + ಬರ್ + ಅಂ + ಅಳೆ + ಅವು [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಲೋಕಾಂತಂಬರಮಳವಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಬಳೆಯೆ** ← ಬಳೆ [verb; sati-saptamī (when …), to grow, increase; also a glass bangle] (lexicon) · rules 246, 53 · alt: ಬಳೆ [vocative, sg, neut./fem., kannada]; ಬಳೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಬಳೆದೆಸಕಮದೋರಂತೆ** ← ಬಳೆ + ಎಸಕಮದೋರಂತೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬಳೆದೆಸಕಮದೋರಂತೆ [nominative, sg, neut./fem., kannada]
+- **ಜನಂಗಳ** ← ಜನ [noun; genitive, pl, masc./neut./fem., sanskrit] (lexicon) · rules 102, 103
+- **ಕರ್ಣೋಪಾಂತದೊಳೊಗೆದೆಸೆಯೆ** ← ಕರ್ಣ + ಓ + ಆನ್ + ಅದು + ಒಳ್ + ಒಗೆ + ಎಸೆ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕರ್ಣೋಪಾಂತದೊಳೊಗೆದೆಸೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಕರ್ಣನೆಂಬನುಮಾದಂ** ← ಕರ್ಣ + ಅಂ + ಎನ್ + ಅಂ + ಉಂ + ಆಗು + ಅಂ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕರ್ಣನೆಂಬನುಮಾದು [accusative, sg, neut., kannada]; ಕರ್ಣನೆಂಬನುಮಾದ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೊಡೆದುದು** ← ಪೊಡೆ [verb; past, sg, neut., 3, to strike; (n.) the belly] (lexicon) · rules 221, 217 · alt: ಪೊಡೆ [verbal noun -udu, to strike; (n.) the belly]; ಪೊಡೆದುದು [nominative, sg, neut./masc., kannada]
+- **ಬಿಲ್ಲ** ← ಬಿಲ್ [verb; infinitive, to sell; (noun) bow] (lexicon) · rules 235, 69 · alt: ಬಿಲ್ಲ [vocative, sg, masc./neut./fem., kannada]; ಬಿಲ್ಲ್ [genitive, sg, neut., kannada]
+- **ಜೇವೊಡೆಯೆ** ← ಜೇವೊಡೆ [verb; sati-saptamī (when …), to twang the bowstring] (lexicon) · rules 246, 53 · alt: ಜೇವೊಡೆ [vocative, sg, neut./fem., kannada]; ಜೇವೊಡೆಯೆ [nominative, sg, neut./fem., kannada]
+- **ಮೀಱುವ** ← ಮೀಱು [verb; future relative participle, to transgress, exceed] (lexicon) · rules 221 · alt: ಮೀಱು [genitive, sg, masc., kannada]
+- **ವೈರಿ** ← ವೈರಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ನರೇಂದ್ರರಂ** ← ನರೆ + ಏನ್ + ದ್ರರ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರೇಂದ್ರರು [accusative, sg, neut., sanskrit]; ನರೇಂದ್ರರ್ [accusative, sg, neut., sanskrit]
+- **ಸಿಡಿಲ್ವೊಡೆದವೊಲಟ್ಟಿ** ← ಸಿಡಿಲ್ + ಒಡೆ + ಅದು + ಒಲ್ + ಅಟ್ಟು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸಿಡಿಲ್ವೊಡೆದವೊಲಟ್ಟಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮುಟ್ಟಿ** ← ಮುಟ್ಟು [verb; past gerund, to touch; (n.) implements, utensils] (lexicon) · rules 236, 52 · alt: ಮುಟ್ಟಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕಡಿದಿಕ್ಕಿದುದಾದೆಡರಂ** ← ಕಡು + ಇದು + ಇಕ್ಕು + ಇದು + ಉದು + ಆಗು + ಎಡೆ + ಅರೆ + ಅಂ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಕಡಿದಿಕ್ಕಿದುದಾದೆಡರು [accusative, sg, neut., kannada]; ಕಡಿದಿಕ್ಕಿದುದಾದೆಡರ್ [accusative, sg, neut., kannada]
+- **ನಿರಂತರಂಕಡಿಕಡಿದಿತ್ತ** ← ನಿ + ರ + ತರ್ + ಅಂ + ಕಡಿ + ಕಡು + ಇದು + ಈ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ನಿರಂತರಂಕಡಿಕಡಿದಿತ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೊನ್ನ** ← ಪೊಂನ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಬುಧ** ← ಬುಧ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ಮಾಗಧ** ← ಮಾ + ಗಧ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾಗಧ [vocative, sg, masc./neut./fem., sanskrit]
+- **ವಂದಿಜನಕ್ಕೆ** ← ವಂದಿಜನ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ವಂದಿಜನಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಟ್ಟ** ← ಕುಡು [verb; past relative participle, to give; (adj.) crooked] (lexicon) · rules 239
+- **ಕೋಡೆಡರದೆ** ← ಕೋಡು + ಎಡೆ + ಅರೆ + ಅದೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಕೋಡೆಡರ [instrumental, sg, neut., kannada]; ಕೋಡೆಡರದೆ [nominative, sg, neut./fem., kannada]
+- **ಬೇಡಿಮೋಡಿಮಿದು** ← ಬೇಡು + ಇಂ + ಓಡು + ಇಂ + ಇದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬೇಡಿಮೋಡಿಮಿದು [nominative, sg, neut./masc., kannada]
+- **ಚಾಗದ** ← ಚಾಗ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಬೀರದ** ← ಬೀ + ರ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬೀರ [genitive, sg, neut., kannada]
+- **ಮಾತು** ← ಮಾತು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ಮಾತು [vocative, sg, neut./masc., kannada]
+- **ಕರ್ಣನಾ** ← ಕರ್ಣ [noun; genitive, sg, masc./fem., kannada] (lexicon) · rules 105, 117
+- **ಬೇಡಿದೊಡೆ** ← ಬೇಡು [verb; conditional -oḍe, to beg, ask; (n.) the hunter tribe] (lexicon) · rules 250, 217 · alt: ಬೇಡಿದೊಡೆ [nominative, sg, neut./fem., kannada]; ಬೇಡಿ [conditional -oḍe]
+- **ಬಲದ** ← ಬಲ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ಬರಿಯುಮನೀಡಾಡುಗುಮುಗಿದು** ← ಬರ್ + ಉಂ + ಅಂ + ಈಡಾಡು + ಉಗು + ಉಂ + ಉಗು + ಇದು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಬರಿಯುಮನೀಡಾಡುಗುಮುಗಿದು [nominative, sg, neut./masc., kannada]
+- **ಕರ್ಣನೆಂದಾಗಳೆ** ← ಕರ್ಣ + ಅಂ + ಎಂದು + ಆಗು + ಅಳೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕರ್ಣನೆಂದಾಗಳೆ [nominative, sg, neut./fem., kannada]
+- **ಕೈಗೂಡಿದ** ← ಕೈಗೂಡು [verb; past relative participle] (inferred) · rules 221 · alt: ಕೈಗೂಡಿ [past relative participle]
+- **ವಟುವಾಕೃತಿಯೊಳೆಬೇಡಿದನಾ** ← ವಟುವಾಕೃತಿಯೊಳೆಬೇಡಿದ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105, 117
+- **ಸಹಜಕವಚಮಂ** ← ಸಹಜಕವಚಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಸಹಜಕವಚ [accusative, sg, neut., kannada]; ಸಹಜಕವಚಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಕುಂಡಳಮಂ** ← ಕುಂಡ + ಅಳೆ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕುಂಡಳಮು [accusative, sg, neut., kannada]; ಕುಂಡಳ [accusative, sg, neut., kannada]
+- **ಬೇಡಿದುದನರಿದುಕೊಳ್ಳೆನೆಬೇಡಿದುದಂ** ← ಬೇಡು + ಇದು + ಉದು + ಅಂ + ಅರೆ + ಇದು + ಕೊಳ್ + ಎನೆ + ಬೇಡು + ಇದು + ಉದು + ಅಂ [phrase/compound; saṃhitā split into 12] (lexicon) · alt: ಬೇಡಿದುದನರಿದುಕೊಳ್ಳೆನೆಬೇಡಿದುದು [accusative, sg, neut., kannada]; ಬೇಡಿದುದನರಿದುಕೊಳ್ಳೆನೆಬೇಡಿದುದ [nominative, sg, masc./neut./fem., kannada]
+- **ಮುಟ್ಟಲಾಗದೆನಗೆನೆ** ← ಮುಟ್ಟು + ಆಗು + ಅದು + ಆನ್ + ಎನೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮುಟ್ಟಲಾಗದೆನಗೆನೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಗೞ್ದಲ್ಲಾಡದೆ** ← ನೆಗೆ + ಅೞ್ + ಅಲ್ಲ + ಆಡು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನೆಗೞ್ದಲ್ಲಾಡ [instrumental, sg, neut., kannada]; ನೆಗೞ್ದಲ್ಲಾಡದೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಳ್ಳೆಂದರಿದೀಡಾಡಿದನಿಂದ್ರಂಗೆ** ← ಕೊಳ್ + ಎಂದು + ಅರೆ + ಇದು + ಈಡಾಡು + ಇದು + ಅಂ + ಇಂದು + ರ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಕೊಳ್ಳೆಂದರಿದೀಡಾಡಿದನಿಂದ್ರ [dative, sg, masc./fem., kannada]; ಕೊಳ್ಳೆಂದರಿದೀಡಾಡಿದನಿಂದ್ರಂಗೆ [nominative, sg, neut./fem., kannada]
+- **ಕವಚಮಂ** ← ಕವಿ + ಅಚಮು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕವಚಮು [accusative, sg, neut., kannada]; ಕವಚ [accusative, sg, neut., kannada]
+- **ರಾಧೇಯಂ** ← ರಾಧೇಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ರಾಧೇಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಎಂದುಂ** ← ಎಂದುಂ [avyaya; ever] (lexicon)
+- **ಪೋಗೆಂದನೆ** ← ಪೋಗು + ಎಂದು + ಅನೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪೋಗೆಂದನೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಣೆಂದನೆ** ← ಮಾಣ್ + ಎಂದು + ಅನೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಾಣೆಂದನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೆಱತೊಂದನೀವೆನೆಂದನೆ** ← ಪೆಱತು + ಒಂದು + ಅಂ + ಈ + ಎನೆ + ಎಂದು + ಅನೆ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಪೆಱತೊಂದನೀವೆನೆಂದನೆ [nominative, sg, neut./fem., kannada]
+- **ನೊಂದಃಎಂದನೆ** ← ನೋ + ಅಃ + ಎಂದು + ಅನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನೊಂದಃಎಂದನೆ [nominative, sg, neut./fem., kannada]
+- **ಸೆರಗಿಲ್ಲದೆ** ← ಸೆರಗಿಲ್ಲ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ಸೆರಗಿಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ಪಿಡಿಯೆಂದನಿದೇಂ** ← ಪಿಡಿ + ಎಂದು + ಅಂ + ಇದು + ಏನ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪಿಡಿಯೆಂದನಿದು [vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada]; ಪಿಡಿಯೆಂದನಿದೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಕಲಿಯೊ** ← ಕಲಿ + ಒ [phrase/compound; saṃhitā split into 2] (lexicon)
+- **ಚಾಗಿಯೋ** ← ಚಾಗಿ [noun; nominative, sg, neut./fem./masc., -ō doubt/admiration (56–57), kannada] (inferred) · rules 105 · alt: ಚಾಗಿಯು [nominative, sg, neut./masc., -ō doubt/admiration (56–57), kannada]
+- **ರವಿತನಯಂ** ← ರವಿ + ತ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ರವಿತನಯು [accusative, sg, neut., kannada]; ರವಿತನಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಸುರ** ← ಸುರ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಸುರ್ [genitive, sg, neut., kannada]
+- **ದನುಜ** ← ದನುಜ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಭುಜಗ** ← ಭುಜಗ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ವಿದ್ಯಾಧರ** ← ವಿದ್ಯಾಧರ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123 · alt: ವಿದ್ಯಾಧರ್ [genitive, sg, neut., sanskrit]; ವಿದ್ಯಾಧ [genitive, pl, masc., sanskrit]
+- **ನರಸಂಕುಲದೊಳಾರನಾದೊಡಮೇನೋಗರ** ← ನರೆ + ಅಸು + ಅಂ + ಕುಲ + ಅದು + ಒಳ್ + ಆವುದು + ಅಂ + ಆಗು + ಅಂ + ಏನ್ + ಕರ್ [phrase/compound; saṃhitā split into 12] (lexicon) · alt: ನರಸಂಕುಲದೊಳಾರನಾದೊಡಮೇನೋಗರ್ [genitive, sg, neut., kannada]; ನರಸಂಕುಲದೊಳಾರನಾದೊಡಮೇನೋಗ [genitive, pl, masc., kannada]
+- **ಮುಟ್ಟೆ** ← ಮುಟ್ಟು [verb; sati-saptamī (when …), to touch; (n.) implements, utensils] (lexicon) · rules 246, 52 · alt: ಮುಟ್ಟು [vocative, sg, neut., kannada]; ಮುಟ್ಟೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಲ್ಗುಮಿದು** ← ಕೊಲ್ + ಉಂ + ಇದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೊಲ್ಗುಮಿದು [nominative, sg, neut./masc., kannada]
+- **ನಿಜವಿರೋಧಿಯಂ** ← ನಿಜ + ಅದು + ಇರ್ + ಓಧಿಯು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನಿಜವಿರೋಧಿಯು [accusative, sg, neut., sanskrit]; ನಿಜವಿರೋಧಿ [accusative, sg, neut./fem./masc., sanskrit]
+- **ಧುರದೊಳೆಂದು** ← ಧುರದೊಳೆಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಶಕ್ತಿಯನಿತ್ತಂ** ← ಶಕ್ತಿಯನಿತ್ತು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಶಕ್ತಿಯನಿತ್ತ [nominative, sg, masc./neut./fem., sanskrit]; ಶಕ್ತಿಯನಿಱು [past, sg, masc./human, 3]
+- **ಕೂರಿಸೆ** ← ಕೂರ್ + ಇಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕೂರಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಗುರು** ← ಗುರು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ಗುರು [vocative, sg, neut./masc., sanskrit]
+- **ಶುಶ್ರೂಷೆಯೊಳಾ** ← ಶುಶ್ರೂಷೆಯೊಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ರಾಮನನುಗ್ರ** ← ರಾಮ + ಅಂ + ಅಂ + ಉಗ್ರ್ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ರಾಮನನುಗ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಪರಶು** ← ಪರಶು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ಪರಶು [vocative, sg, neut./masc., sanskrit]
+- **ಪಾಟಿತ** ← ಪಾಟಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ರಿಪು** ← ರಿಪು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ವಂಶಾರಾಮನನಿಷುವಿದ್ಯಾಪಾರಗನೆನಿಸಿದುದು** ← ವಂಶಾರಾಮನನಿಷುವಿದ್ಯಾಪಾರಗನೆನಿಸಿದುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ವಂಶಾರಾಮನನಿಷುವಿದ್ಯಾಪಾರಗನೆನಿಸು [past, sg, neut., 3]; ವಂಶಾರಾಮನನಿಷುವಿದ್ಯಾಪಾರಗನೆನಿಸಿ [past, sg, neut., 3]
+- **ಬಲ್ಮೆ** ← ಬಲ್ಮೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ವೈಕರ್ತನನಾ** ← ವೈಕರ್ತನ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105, 117
+- **ಅತಿ** ← ಅತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ವಿಶದ** ← ವಿಶ [noun; genitive, sg, neut., sanskrit] (inferred) · rules 106
+- **ವಿಶಾಲೋರುಕ್ಷತದಿಂದೊಱೆದನಿತು** ← ವಿಶಾಲೋರುಕ್ಷತದಿಂದೊಱೆದನಿತು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ವಿಶಾಲೋರುಕ್ಷತದಿಂದೊಱೆದನು [past, sg, neut., 3]
+- **ಜಡೆಯುಮಂ** ← ಜಡಿ + ಎ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಜಡೆಯುಮು [accusative, sg, neut., kannada]; ಜಡೆಯುಮ [nominative, sg, masc./neut./fem., kannada]
+- **ನಾಂದಿ** ← ನಾಂದು [verb; past gerund, to soak, liquefy] (lexicon) · rules 236, 52 · alt: ನಾಂದಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮನಃಕ್ಷತದೊಡನೆೞ್ಚಱಿಸಿದುದುತ್ಥಿತಮಾ** ← ಮನಃಕ್ಷತದೊಡನೆೞ್ಚಱಿಸಿದುದುತ್ಥಿತಮ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ವಂದಸ್ರ** ← ವಂದಸ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಮಿಶ್ರ** ← ಮಿಶ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಗಂಧಂ** ← ಗಂಧ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಗಂಧು [accusative, sg, neut., sanskrit]
+- **ಮುನಿಯಂ** ← ಮುನಿ [verb; negative, sg, masc./human, 3, to be angry; (noun) ascetic] (lexicon) · rules 222, 53, 161 · alt: ಮುನಿ [accusative, sg, neut./fem./masc., sanskrit]; ಮುನಿಯು [accusative, sg, neut., kannada]
+- **ಸೊಗಯಿಪ** ← ಸೊಗಯಿಸು [verb; future relative participle, to be beautiful, shine] (lexicon) · rules 232
+- **ತಮ್ಮ** ← ತಾನ್ [pronoun; genitive, pl] (lexicon) · rules 146, 146 · alt: ತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಜವ್ವನದ** ← ಜವ್ವನ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ತಮ್ಮ** ← ತಾನ್ [pronoun; genitive, pl] (lexicon) · rules 146, 146 · alt: ತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಭೂತಿಯ** ← ವಿಭು + ಊತಿ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ವಿಭೂತಿ [genitive, sg, neut./fem./masc., sanskrit]
+- **ತಮ್ಮ** ← ತಾನ್ [pronoun; genitive, pl] (lexicon) · rules 146, 146 · alt: ತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ತಮ್ಮ** ← ತಾನ್ [pronoun; genitive, pl] (lexicon) · rules 146, 146 · alt: ತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಚೆಲ್ವುಗಳ** ← ಚೆಲ್ವು [noun; genitive, pl, neut./masc., kannada] (inferred) · rules 95
+- **ವಿಲಾಸದುರ್ಮೆಗಳೊಳಾವೆವಗಾಗಿಪೆವೆಂದು** ← ವಿಲಾಸ + ಅದು + ಉರಿ + ಮು + ಗಳ + ಒಳ್ + ಆವೆವಗಾಗಿಪೆವೆಂದು [phrase/compound; saṃhitā split into 7] (inferred) · alt: ವಿಲಾಸದುರ್ಮೆಗಳೊಳಾವೆವಗಾಗಿಪೆವೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಬಂದ** ← ಬರ್ [verb; past relative participle, to come] (lexicon) · rules 237 · alt: ಬಂದ [vocative, sg, masc./neut./fem., kannada]
+- **ಚೆನ್ನಿಗರುಮನಾಸೆಕಾಱರುಮನೊಲ್ಲದೆ** ← ಚೆಂನಿಗರುಮನಾಸೆಕಾಱರುಮನೊಲ್ಲ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ಚೆಂನಿಗರುಮನಾಸೆಕಾಱರುಮನೊಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ಚೆಲ್ವಿಡಿದಿರ್ದ** ← ಚೆಲ್ವಿಡಿದಿರ್ [verb; past relative participle] (inferred) · rules 221
+- **ರೂಪು** ← ರೂಪು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ದೃಷ್ಟಿಗೆವರೆ** ← ದೃಷ್ಟಿಗೆವರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪಾಂಡುರಾಜನನೆ** ← ಪಾಂಡುರಾಜನನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಮನಂಬುಗೆ** ← ಮನು + ಅಂ + ಪುಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮನಂಬು [dative, sg, masc., kannada]; ಮನಂಬುಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಲೆ** ← ಮಾಲೆ [noun; nominative, sg, neut./fem., sanskrit] (lexicon) · rules 105 · alt: ಮಾಲೆ [vocative, sg, neut./fem., sanskrit]
+- **ಸೂಡಿದಳ್** ← ಸೂಡು [verb; past, sg, fem., 3, to wear (flowers); (n.) a sheaf of grass etc.] (lexicon) · rules 221, 217 · alt: ಸೂಡಿ [past, sg, fem., 3]
+- **ತಳಿರ್ಗಳಸಂ** ← ತಳಿರ್ + ಗಳ + ಅಸು + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತಳಿರ್ಗಳಸು [accusative, sg, neut., kannada]; ತಳಿರ್ಗಳಸ [nominative, sg, masc./neut./fem., kannada]
+- **ಮುಕುಂದರವಮೆತ್ತಿದ** ← ಮು + ಕುಂದು + ಅರೆ + ಅದು + ಅಂ + ಎತ್ತು [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಮುಕುಂದರವಮೆತ್ತು [past relative participle]; ಮುಕುಂದರವಮೆತ್ತಿ [past relative participle]
+- **ಮುತ್ತಿನ** ← ಮುತ್ತು [noun; genitive, sg, neut., kannada] (lexicon) · rules 108
+- **ಮಂಟಪಂ** ← ಮಂಟಪು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮಂಟಪ [nominative, sg, masc./neut./fem., kannada]; ಮಂಟಸು [future/present, sg, masc./human, 3]
+- **ಮನಂಗೊಳಿಪ** ← ಮನು + ಅಂ + ಕೊಳ್ + ಇಸು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮನಂಗೊಳಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿತಾನಪಙ್ಕ್ತಿ** ← ವಿತಾನಪಂಕ್ತಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪಸುರ್ವಂದಲೊಳೊಲ್ದೆಡೆಯಾಡುವೆಯ್ದೆಯರ್ಬಳಸಿದ** ← ಪಸುರ್ + ಅಂ + ದಲ್ + ಒಳ್ + ಒಲ್ + ಎಡೆಯ + ಆಡು + ಉದು + ಎಯ್ದೆ + ಅ + ರ್ಬಳಸು [phrase/compound; saṃhitā split into 11] (inferred) · alt: ಪಸುರ್ವಂದಲೊಳೊಲ್ದೆಡೆಯಾಡುವೆಯ್ದೆಯರ್ಬಳಸು [past relative participle]; ಪಸುರ್ವಂದಲೊಳೊಲ್ದೆಡೆಯಾಡುವೆಯ್ದೆಯರ್ಬಳಸಿ [past relative participle]
+- **ವೇದಪಾರಗರ** ← ವೇದಪಾರಗರ್ [noun; genitive, sg, neut., kannada] (inferred) · alt: ವೇದಪಾರಗ [genitive, pl, masc., kannada]
+- **ಸಂದಣಿಯೆಂಬಿವಱಿಂ** ← ಸು + ತಣಿ + ಎ + ಂಬಿವಱು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸಂದಣಿಯೆಂಬಿವಱು [instrumental, sg, neut., kannada]
+- **ವಿವಾಹಮಂಗಳಮದು** ← ವಿವಾಹಮಂಗಳಮದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಮಾದ್ರಿಗಳೊಳಚ್ಚರಿಯಾದುದು** ← ಮಾ + ತ್ರಿ + ಗಳ + ಒಳ್ + ಅಚ್ಚ + ಅರಿ + ಆಗು + ಉದು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಮಾದ್ರಿಗಳೊಳಚ್ಚರಿಯಾದುದು [nominative, sg, neut./masc., kannada]
+- **ಪಾಂಡುರಾಜನಾ** ← ಪಾಂಡುರಾಜ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105, 117
+- **ತುಱುಗೆಮೆ** ← ತುಱುಗು + ಎಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತುಱುಗೆಮೆ [nominative, sg, neut./fem., kannada]
+- **ನೀಳ್ದ** ← ನೀಳ್ [verb; past relative participle, to stretch, become long] (lexicon) · rules 221
+- **ಪುರ್ವ** ← ಪುರ್ವ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ನಿಡುಗಣ್** ← ನಿಡು + ಕಣ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನಿಡುಗಣ್ [nominative, sg, neut., kannada]
+- **ಪೊಱೆಯಲ್ಲದೆ** ← ಪೊಱು + ಅಲ್ಲದೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೊಱೆಯಲ್ಲ [instrumental, sg, neut., kannada]; ಪೊಱೆಯಲ್ಲದೆ [nominative, sg, neut./fem., kannada]
+- **ಬಟ್ಟಿತಪ್ಪ** ← ಬಟ್ಟಿತಪ್ಪ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಬಾಯ್ದೆಱೆ** ← ಬಾ + ತೆಱ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಾಯ್ದೆಱೆ [nominative, sg, neut./fem., kannada]
+- **ತನು** ← ತನು [noun; nominative, sg, neut./masc., sanskrit] (lexicon) · rules 105 · alt: ತನು [vocative, sg, neut./masc., sanskrit]
+- **ರೇಖೆಗೊಂಡ** ← ರೇಖೆ + ಕೊಳ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ರೇಖೆಗೊಣ್ [past relative participle]
+- **ಕೊರಲೊಡ್ಡಿದ** ← ಕೊರೆ + ಅಲೆ + ಒಡ್ಡು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೊರಲೊಡ್ಡು [past relative participle]; ಕೊರಲೊಡ್ಡಿ [past relative participle]
+- **ಪೆರ್ಮೊಲೆ** ← ಪೆರ್ + ಮೊಲೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೆರ್ಮೊಲೆ [nominative, sg, neut./fem., kannada]
+- **ತೆಳ್ವಸಿಱು** ← ತೆಳ್ + ವಸು + ಇಱು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತೆಳ್ವಸಿಱು [nominative, sg, neut./masc., kannada]
+- **ಕರಂನೆಱೆದ** ← ಕರ್ + ಅಂ + ನೆಱೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕರಂನೆಱೆ [past relative participle]
+- **ನಿತಂಬಮಿಂಬುವಡೆದೊಳ್ದೊಡೆ** ← ನಿ + ತ + ಬಮಿಂಬುವಡೆದೊಳ್ದೊಡೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಿತಂಬಮಿಂಬುವಡೆದೊಳ್ದೊಡೆ [nominative, sg, neut./fem., kannada]; ನಿತಂಬಮಿಂಬುವಡೆದೊಳ್ [conditional -oḍe]
+- **ನಕ್ಕರವದ್ದಿ** ← ನಗು + ಅರೆ + ಅದು + ಅದು + ತಿ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನಕ್ಕರವದ್ದಿ [nominative, sg, neut./fem./masc., kannada]
+- **ತಾನೆ** ← ತಾನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೋಕಿಱುದೊಡೆಯೆಂದು** ← ಪೋಗು + ಇಱು + ಉದು + ಒಡೆ + ಎಂದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೋಕಿಱುದೊಡೆಯೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಧಾತ್ರಿ** ← ಧಾತ್ರಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪೊಗೞ್ಗುಂ** ← ಪೊಗೞ್ + ಗು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೊಗೞ್ಗು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ಪೊಗೞ್ಗು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಪೊಗೞ್ವನ್ನರೆ** ← ಪೊಗೞ್ + ಅಂ + ಅರೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೊಗೞ್ವಂನರೆ [nominative, sg, neut./fem., kannada]
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಮಾದ್ರಿಗಳ್** ← ಮಾ + ತ್ರಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾದ್ರಿ [nominative, pl, neut./fem./masc., sanskrit]
+- **ಮೀಱುವೆವೆಂಬ** ← ಮೀಱು + ಎ + ಎನ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೀಱುವೆವೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಾಂಡಳಿಕರೀಯದರೆಂಬದಟರ್** ← ಮಾಂಡಳಿಕರೀಯದರೆಂಬದಟ [noun; nominative, pl, masc., kannada] (inferred) · rules 98, 52, 105 · alt: ಮಾಂಡಳಿಕರೀಯದರೆಂಬದಟರ್ [nominative, sg, neut., kannada]
+- **ವಯಲ್ಗೆ** ← ವಯಲ್ [noun; dative, sg, neut., kannada] (inferred) · rules 113 · alt: ವಯಲ್ಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮೆಯ್ದೋಱುವೆವೆಂಬ** ← ಮೆಯ್ + ತೋಱು + ಎ + ಎನ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಮೆಯ್ದೋಱುವೆವೆಂಬ [vocative, sg, masc./neut./fem., kannada]
+- **ಪೂಣಿಗರಡಂಗಿ** ← ಪೂಣ್ + ಕರ್ + ಅಡು + ಅಂ + ಕಿ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೂಣಿಗರಡಂಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕುನುಂಗಿ** ← ಕುನುಂಗು [verb; past gerund, to contract, shrink, bend] (lexicon) · rules 236, 52 · alt: ಕುನುಂಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಸಿಡಿಲ್ದು** ← ಸಿಡಿಲ್ [verb; past gerund, to scatter, burst; (noun) thunderbolt] (lexicon) · rules 236, 217 · alt: ಸಿಡಿಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ಜೋಲ್ದು** ← ಜೋಲ್ [verb; past gerund, to hang down, dangle] (lexicon) · rules 236, 217 · alt: ಜೋಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ಕಾಯ್ಪಾಱೆ** ← ಕಾ + ಪಾಱು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕಾಯ್ಪಾಱೆ [nominative, sg, neut./fem., kannada]
+- **ನಭಕ್ಕೆ** ← ನಭ [noun; dative, sg, neut., sanskrit] (inferred) · rules 113 · alt: ನಭಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಪಾಱಿದುದು** ← ಪಾಱು + ಇದು + ಉದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪಾಱಿದುದು [nominative, sg, neut./masc., kannada]; ಪಾಱಿ [past, sg, neut., 3]
+- **ಗಂಡರ** ← ಗಂಡ [noun; genitive, pl, masc., kannada] (lexicon) · rules 98, 52 · alt: ಗಂಡರ್ [genitive, sg, neut., kannada]
+- **ನೆತ್ತಿಯೊಳೊತ್ತಿ** ← ನೆತ್ತಿಯೊಳೊತ್ತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಬಾಳನಿನ್ನೂಱುಗುಮೆಂದೊಡೇಂ** ← ಬಾಳ್ + ಅಂ + ಇಂ + ನೂಱು + ಉಗು + ಉಂ + ಎಂದು + ಒಡ್ + ಏನ್ [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಬಾಳನಿಂನೂಱುಗುಮೆಂದೊಡು [vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada]; ಬಾಳನಿಂನೂಱುಗುಮೆಂದೊಡೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಪಿರಿದೊ** — ❓ not derivable with the rules + lexicon
+- **ತೇಜದ** ← ತೇಜ [noun; genitive, sg, neut., sanskrit] (lexicon) · rules 106
+- **ದಳ್ಳುರಿ** ← ದಳ್ಳು + ಉರಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ದಳ್ಳುರಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪಾಂಡುರಾಜನಾ** ← ಪಾಂಡುರಾಜ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105, 117
+- **ಬೆಸಕೆಯ್ದತ್ತು** ← ಬೆಸ + ಎಯ್ದೆ + ಅತ್ತು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬೆಸಕೆಯ್ದತ್ತು [nominative, sg, neut./masc., kannada]
+- **ಸಮುದ್ರಮುದ್ರಿತಧರಾಚಕ್ರಂ** ← ಸಮೆ + ಉದು + ರ + ಉದು + ರಿತಧರಾಚಕ್ರು [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಸಮುದ್ರಮುದ್ರಿತಧರಾಚಕ್ರು [accusative, sg, neut., sanskrit]; ಸಮುದ್ರಮುದ್ರಿತಧರಾಚಕ್ರ್ [accusative, sg, neut., sanskrit]
+- **ಪ್ರತಾಪಕ್ಕಗುರ್ವಿಸೆ** ← ಪ್ರತಾಪಕ್ಕಗುರ್ವಿಸೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಗೋಳುಂಡೆಗೊಳುತ್ತುಮಿರ್ದುದು** ← ಗೋಳುಂಡೆಗೊಳುತ್ತುಮಿರ್ದುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105 · alt: ಗೋಳುಂಡೆಗೊಳುತ್ತುಮಿರ್ [past, sg, neut., 3]
+- **ದಿಶಾಚಕ್ರಂ** ← ದಿಶಾ + ಚಕ್ರ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ದಿಶಾಚಕ್ರು [accusative, sg, neut., sanskrit]; ದಿಶಾಚಕ್ರ್ [accusative, sg, neut., sanskrit]
+- **ಪೊದೞ್ದಾಜ್ಞೆಗಂಪೆಸರ್ಗಂ** ← ಪೊ + ತ + ೞ್ದಾಜ್ಞೆಗಂಪೆಸರ್ಗು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪೊದೞ್ದಾಜ್ಞೆಗಂಪೆಸರ್ಗು [accusative, sg, neut., kannada]; ಪೊದೞ್ದಾಜ್ಞೆಗಂಪೆಸರ್ಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಮುನ್ನಮೆ** ← ಮು + ನಮೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮುಂನಮೆ [nominative, sg, neut./fem., kannada]
+- **ರೂಪುವೋದುದು** ← ರೂಪ + ಉದು + ಓ + ಉದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ರೂಪುವೋದುದು [nominative, sg, neut./masc., kannada]
+- **ವಿಯಚ್ಚಕ್ರಂ** ← ವಿಯಚ್ಚಕ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿಯಚ್ಚಕ್ರ್ [accusative, sg, neut., sanskrit]; ವಿಯಚ್ಚಕ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸಮಂತೆಂಬಿನಂಜಸಮಾ** ← ಸಮೆ + ಅಂತು + ಎನ್ + ಇಂ + ಅಂ + ಜಸಮ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಸಮಂತೆಂಬಿನಂಜಸಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಪಾಂಡುರಮಾದುದಾ** ← ಪಾಂಡುರಮಾದುದ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ನೃಪರೊಳಾರಾ** ← ನೃಪ + ಅರೆ + ಒಳ್ + ಆರ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನೃಪರೊಳಾರ್ [genitive, sg, neut., kannada]
+- **ಪಾಂಡುರಾಜಂಬರಂ** ← ಪಾಂಡುರಾಜಂಬರು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪಾಂಡುರಾಜಂಬರ್ [accusative, sg, neut., kannada]; ಪಾಂಡುರಾಜಂಬ [accusative, pl, masc., kannada]
+- **ಇನಿಯಳನೞ್ತಿಯಿಂದೆ** ← ಇನಿ + ಅಳೆ + ಅಂ + ಅೞ್ + ತಿ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಇನಿಯಳನೞ್ತಿಯು [instrumental, sg, neut., kannada]; ಇನಿಯಳನೞ್ತಿ [instrumental, sg, neut./fem./masc., kannada]
+- **ಮೃಗಿ** ← ಮೃಗಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಮಾಡಿ** ← ಮಾಡು [verb; past gerund, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 236, 52 · alt: ಮಾಡಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮನೋಜಸುಖಕ್ಕೆ** ← ಮನು + ಓಜಸುಖ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮನೋಜಸುಖ [dative, sg, neut., sanskrit]; ಮನೋಜಸುಖಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಸೋಲ್ತಲಂಪಿನೆ** ← ಸೋಲ್ + ತಲೆ + ಅಂ + ಪಿನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸೋಲ್ತಲಂಪಿನೆ [nominative, sg, neut./fem., kannada]
+- **ನೆರೆಯಲ್ಕೆ** ← ನೆರೆ [verb; infinitive, to unite, assemble; (noun) neighbourhood] (lexicon) · rules 235, 53 · alt: ನೆರೆಯಲ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ದಿವ್ಯಮುನಿಯುಂ** ← ದಿವ್ + ಅ + ಮುನಿ + ಉಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ದಿವ್ಯಮುನಿ [nominative, sg, neut./fem./masc., -uṃ 'and/also' (122), sanskrit]; ದಿವ್ಯಮುನಿಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]
+- **ಮೃಗಮಾಗಿ** ← ಮೃಗ + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೃಗಮಾಗಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಮರಲ್ದು** ← ಮರಲ್ [verb; past gerund, to turn back; (noun) flower] (lexicon) · rules 236, 217 · alt: ಮರಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ಕೂಡೆ** ← ಕೂಡೆ [avyaya; together] (lexicon) · alt: ಕೂಡು [sati-saptamī (when …), to join, unite, meet]; ಕೂಡು [vocative, sg, neut., kannada]
+- **ಮೆಲ್ಲನೆ** ← ಮೆಲ್ಲನೆ [avyaya; -ane avyaya, 'softly, slowly'] (lexicon) · alt: ಮೆಲ್ಲನೆ [nominative, sg, neut./fem., kannada]; ಮೆಲ್ಲನೆ [vocative, sg, neut./fem., kannada]
+- **ಮೃಗಮೆಂದು** ← ಮೃಗ + ಅಂ + ಎಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮೃಗಮೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಸಾರ್ದು** ← ಸಾರ್ [verb; past gerund, to approach, go near] (lexicon) · rules 236, 217 · alt: ಸಾರ್ದು [nominative, sg, neut./masc., kannada]
+- **ನೆಱನಂ** ← ನೆಱ್ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನೆಱನು [accusative, sg, neut., kannada]; ನೆಱ [accusative, sg, masc./neut./fem., kannada]
+- **ನಡೆ** ← ನಡು [verb; sati-saptamī (when …), to plant, fix; (n.) the middle, waist] (lexicon) · rules 246, 52 · alt: ನಡೆ [imperative/optative, sg, 2, to walk, go]; ನಡೆ [nominative, sg, neut./fem., kannada]
+- **ನೋಡಿ** ← ನೋಡು [verb; past gerund, to see, look] (lexicon) · rules 236, 52 · alt: ನೋಡಿ [nominative, sg, neut./fem./masc., kannada]; ನೋಡಿ [vocative, sg, neut./fem./masc., kannada]
+- **ನರೇಂದ್ರನೆಚ್ಚು** ← ನರೆ + ಏನ್ + ದ್ರನೆಚ್ಚು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನರೇಂದ್ರನೆಚ್ಚು [nominative, sg, neut./masc., kannada]
+- **ಭೋಂಕನೆ** ← ಭೋಂಕನೆ [avyaya; suddenly, quickly] (lexicon) · alt: ಭೋಂಕನೆ [nominative, sg, neut./fem., kannada]; ಭೋಂಕನೆ [vocative, sg, neut./fem., kannada]
+- **ಮೃಗಚಾರಿಯಂ** ← ಮೃಗಚಾರಿಯು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಮೃಗಚಾರಿ [accusative, sg, neut./fem./masc., sanskrit]; ಮೃಗಚಾರಿಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತನಗೆ** ← ತಾನ್ [pronoun; dative, sg] (lexicon) · rules 146 · alt: ತನಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಣದೆ** ← ಮಾಣ್ [verb; negative participle -ade, to cease, desist; to stop] (lexicon) · rules 71 · alt: ಮಾಣ [instrumental, sg, neut., kannada]; ಮಾಣದೆ [nominative, sg, neut./fem., kannada]
+- **ತಂದನದೊಂದು** ← ತರ್ + ಅಂ + ಅದು + ಒಂದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತಂದನದೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಮಾರಿಯಂ** ← ಮಾರ್ + ಇಯು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಾರಿಯು [accusative, sg, neut., kannada]; ಮಾರಿ [accusative, sg, neut./fem./masc., kannada]
+- **ಸನ್ನತದಿಂ** ← ಸು + ಅತದು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಂನತದು [instrumental, sg, neut., kannada]; ಸಂನತ [instrumental, sg, neut., kannada]
+- **ರತಕ್ಕೆಳಸಿ** ← ರ + ತ + ಎಳಸು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ರತಕ್ಕೆಳಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನಲ್ಲಳೊಳೋತೊಡಗೂಡಿದೆನ್ನನಿಂತನ್ನೆಯಮೆಚ್ಚುದರ್ಕೆ** ← ನಲ್ಲಳ್ + ಒಳ್ + ಓ + ಅಗಿ + ಊಡು + ಇದು + ಆನ್ + ಅಂ + ಇಂತು + ಅಂ + ನೆಯ್ + ಅಂ + ಇಸು + ಉದು + ಅರೆ + ಕೆ [phrase/compound; saṃhitā split into 16] (lexicon) · alt: ನಲ್ಲಳೊಳೋತೊಡಗೂಡಿದೆಂನನಿಂತಂನೆಯಮೆಚ್ಚುದರ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಪೆಱತಿಲ್ಲದು** ← ಪೆಱತು + ಇಲ್ಲ + ಅದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೆಱತಿಲ್ಲದು [nominative, sg, neut./masc., kannada]
+- **ದಂಡಮೊಱಲ್ದು** ← ದಂಡ + ಅಂ + ಒಱಲ್ದು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ದಂಡಮೊಱಲ್ದು [nominative, sg, neut./masc., kannada]
+- **ನಲ್ಲಳೊಳ್ನೀನ್ನಡೆನೋಡಿಯುಂ** ← ನಲ್ಲಳ್ + ಒಳ್ + ನೀನ್ + ನಡು + ಎನೆ + ಓಡು + ಉಂ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ನಲ್ಲಳೊಳ್ನೀಂನಡೆನೋಡಿಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ನಲ್ಲಳೊಳ್ನೀಂನಡೆನೋಡಿ [nominative, sg, neut./fem./masc., -uṃ 'and/also' (122), kannada]
+- **ಬಯಸಿ** ← ಬಯ್ + ಅಸಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಬಯಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕೂಡಿಯುಮಾಗಡೆ** ← ಕೂಡು + ಉಂ + ಆಗು + ಅಡು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕೂಡಿಯುಮಾಗಡೆ [nominative, sg, neut./fem., kannada]
+- **ಸಾವೆಯಾಗಿ** ← ಸಾ + ಎ + ಆಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಾವೆಯಾಗಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಪೋಗಿನ್ನೆನೆ** ← ಪೋಗು + ಇಂಂ + ಎನೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೋಗಿಂನೆನೆ [nominative, sg, neut./fem., kannada]
+- **ರೌದ್ರಶಾಪಪರಿತಾಪವಿಳಾಪದೊಳಾ** ← ರೌದ್ರಶಾಪಪರಿತಾಪವಿಳಾಪದೊಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ಮಹೀಶ್ವರಂ** ← ಮಹೀಶ್ವರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಮಹೀಶ್ವರ್ [accusative, sg, neut., sanskrit]; ಮಹೀಶ್ವ [accusative, pl, masc., sanskrit]
+- **ಎತ್ತ** ← ಎತ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಎಱು [past relative participle]
+- **ವನಮೆತ್ತ** ← ವನ + ಅಂ + ಎತ್ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ವನಮೆಱು [past relative participle]
+- **ಮೃಗಯಾವೃತ್ತಕಮೀ** ← ಮೃಗ + ಆ + ವೃತ್ತಿ + ಅಕಮಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮೃಗಯಾವೃತ್ತಕಮಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ತಪಸಿಯೆತ್ತ** ← ತ + ಪಸು + ಯೆಱು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತಪಸಿಯೆಱು [past relative participle]
+- **ಮೃಗಮೆಂದೆಂತಾನೆತ್ತೆಚ್ಚೆನಾತ್ಮಕರ್ಮಾಯತ್ತಂ** ← ಮೃಗ + ಅಂ + ಎಂದು + ಎಂತು + ಆನ್ + ಎತ್ತು + ಇಸು + ಎನೆ + ಆತ + ಮಕರ + ಮಾಯೆ + ಅತ್ತೆ + ಅಂ [phrase/compound; saṃhitā split into 13] (lexicon) · alt: ಮೃಗಮೆಂದೆಂತಾನೆತ್ತೆಚ್ಚೆನಾತ್ಮಕರ್ಮಾಯತ್ತು [accusative, sg, neut., kannada]; ಮೃಗಮೆಂದೆಂತಾನೆತ್ತೆಚ್ಚೆನಾತ್ಮಕರ್ಮಾಯತ್ತ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೆಱತಲ್ತಿದೆಲ್ಲಮಘಟಿತಘಟಿತಂ** ← ಪೆಱತು + ಅಲ್ತೆ + ಇದು + ಎಲ್ಲಿ + ಅಂ + ಅಘಟಿತಘಟಿತು [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಪೆಱತಲ್ತಿದೆಲ್ಲಮಘಟಿತಘಟಿತು [accusative, sg, neut., kannada]; ಪೆಱತಲ್ತಿದೆಲ್ಲಮಘಟಿತಘಟಿತ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಾರಮನಂಗ** ← ಸಾರ್ + ಅಂ + ಅಂ + ಅಂ + ಗ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಸಾರಮನಂಗ [vocative, sg, masc./neut./fem., kannada]
+- **ಜಂಗಮಲತಾ** ← ಜಂಗಮಲತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ಲಲಿತಾಂಗಿಯರಿಂದಮಲ್ತೆ** ← ಲಲಿತಾಂಗಿಯರಿಂದಮಲ್ತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸಂಸಾರಮಿದೆಂಬುದಿನ್ನೆನಗೆ** ← ಸು + ಸಾರ್ + ಅಂ + ಇದು + ಎನ್ + ಉದು + ಇಂಂ + ಆನ್ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಸಂಸಾರಮಿದೆಂಬುದಿಂನೆನಗೆ [nominative, sg, neut./fem., kannada]
+- **ತಪ್ಪುದು** ← ತವು [verb; past, sg, neut., 3, to decrease, waste away] (lexicon) · rules 240, 217 · alt: ತವು [verbal noun -udu, to decrease, waste away]; ತಪ್ಪುದು [nominative, sg, neut./masc., kannada]
+- **ತನ್ಮುನಿ** ← ತನು + ಮುನಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತನ್ಮುನಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಶಾಪದಿಂದಮಿನ್ನಾರುಮಿದರ್ಕೆ** ← ಶಾಪ + ಅದು + ಇಂದು + ಅಂ + ಇಂಂ + ಆವುದು + ಉಂ + ಇದು + ಅರೆ + ಕೆ [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಶಾಪದಿಂದಮಿಂನಾರುಮಿದು [dative, sg, neut., sanskrit]; ಶಾಪದಿಂದಮಿಂನಾರುಮಿದರ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ವಕ್ರಿಸದಿರಿಂ** ← ವಕ್ರಿಸದಿರು [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಕ್ರಿಸದಿರ್ [instrumental, sg, neut., sanskrit]
+- **ವನವಾಸದೊಳಿರ್ಪೆನೆಂದು** ← ವನ + ಅದು + ಆಸು + ಅದು + ಒಳ್ + ಇರ್ + ಎನೆ + ಎಂದು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ವನವಾಸದೊಳಿರ್ಪೆನೆಂದು [nominative, sg, neut./masc., kannada]
+- **ದುರ್ವಾರ** ← ದುರ್ವಾರ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಪರಾಕ್ರಮಂ** ← ಪರೆ + ಅದು + ರ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪರಾಕ್ರಮು [accusative, sg, neut., sanskrit]; ಪರಾಕ್ರ [accusative, sg, neut., sanskrit]
+- **ತಳರೆ** ← ತಳರ್ [verb; sati-saptamī (when …), to move, set out] (lexicon) · rules 246 · alt: ತಳರ್ [vocative, sg, neut., kannada]; ತಳ [vocative, pl, masc., kannada]
+- **ಬಾರಿಸಿವಾರಿಸಿ** ← ಬಾರ್ + ಇಸು + ಇದು + ಆವುದು + ಇಸು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬಾರಿಸಿವಾರಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಮಾದ್ರಿಯರ್** ← ಮಾ + ತ್ರಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಾದ್ರಿಯ [nominative, pl, masc., sanskrit]; ಮಾದ್ರಿ [nominative, pl, fem./masc., sanskrit]
+- **ತುಂಗ** ← ತುಂಗ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವನ್ಯ** ← ವನ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಮತಂಗಜ** ← ಮತಂಗಜ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದಂತಾಘಾತ** ← ದಂತಾಘಾತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ನಿಪಾತಿತ** ← ನಿಪಾತಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸಲ್ಲಕೀಭಂಗಮಂ** ← ಸಲ್ + ಕೀ + ಭಂಗ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸಲ್ಲಕೀಭಂಗಮು [accusative, sg, neut., sanskrit]; ಸಲ್ಲಕೀಭಂಗ [accusative, sg, neut., sanskrit]
+- **ಮಣಿಮೌಕ್ತಿಕ** ← ಮಣಿ + ಇಂ + ಔಕ್ತಿಕ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಣಿಮೌಕ್ತಿಕ [vocative, sg, masc./neut./fem., sanskrit]
+- **ನೀಳ** ← ನೀಳ್ [verb; imperative/optative, sg, 2, to stretch, become long] (lexicon) · rules 125 · alt: ನೀಳ್ [infinitive, to stretch, become long]
+- **ಸ್ಥೂಳ** ← ಸ್ಥೂಳ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಶಿಲಾ** ← ಶಿಲ್ [noun; genitive, sg, neut., sanskrit] (inferred) · rules 117
+- **ಪ್ರವಿಭಾಸಿತೋ** ← ಪ್ರವಿಭಾಸಿತು [noun; nominative, sg, neut./masc., -ō doubt/admiration (56–57), sanskrit] (inferred) · rules 105 · alt: ಪ್ರವಿಭಾಸು [past, sg, neut., 3, -ō doubt/admiration (56–57)]
+- **ತ್ತುಂಗಮಂ** ← ತ್ತುಂಗಮು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ತ್ತುಂಗ [accusative, sg, neut., kannada]; ತ್ತುಂಗಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಮುನಿಮುಖ್ಯಮುಖಾಂಭೋಜೋದರ** ← ಮುನಿ + ಮುಖ + ಅ + ಮುಖ + ಆನ್ + ಭೋ + ಜೋ + ತರ್ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಮುನಿಮುಖ್ಯಮುಖಾಂಭೋಜೋದರ್ [genitive, sg, neut., sanskrit]; ಮುನಿಮುಖ್ಯಮುಖಾಂಭೋಜೋದ [genitive, pl, masc., sanskrit]
+- **ನಿರ್ಗತಮಂತ್ರ** ← ನಿರ್ಗತಮಂತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಪೂತಾಂಗಮಂ** ← ಪೂ + ತಾಂಗು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೂತಾಂಗಮು [accusative, sg, neut., kannada]; ಪೂತಾಂಗ [accusative, sg, neut., kannada]
+- **ನೃಪನೆಯ್ದಿದನುದ್ಯಚ್ಛೃಂಗಮನಾ** ← ನೃಪ + ಅಂ + ಎಯ್ದೆ + ಇದು + ಅಂ + ಉದು + ಅ + ಚ್ಛೃಂಗಮ [phrase/compound; saṃhitā split into 8] (inferred) · alt: ನೃಪನೆಯ್ದಿದನುದ್ಯಚ್ಛೃಂಗಮ [genitive, sg, masc./fem., kannada]
+- **ಶತಶೃಂಗಮಂ** ← ಶತಶೃಂಗಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಶತಶೃಂಗ [accusative, sg, neut., sanskrit]; ಶತಶೃಂಗಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ವಿನಯದಿನಿತ್ತ** ← ವಿನಯದಿನಿತ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಬನ್ನಿಮಿರಿಮೆಂಬವೊಲಿಂಚರದಿಂದಮೊಯ್ಯನೊಯ್ಯನೆ** ← ಬರ್ + ಇರ್ + ಇಂ + ಎನ್ + ಅದು + ಒಲ್ + ಇಂ + ಚರ + ಅದು + ಇಂದು + ಅಂ + ಒಯ್ಯನೆ + ಒಯ್ಯನೆ [phrase/compound; saṃhitā split into 13] (lexicon) · alt: ಬಂನಿಮಿರಿಮೆಂಬವೊಲಿಂಚರದಿಂದಮೊಯ್ಯನೊಯ್ಯನೆ [nominative, sg, neut./fem., kannada]
+- **ಮಱಿದುಂಬಿಗಳ್** ← ಮಱ್ + ಇದು + ಉಂ + ಬಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮಱಿದುಂಬಿ [nominative, pl, neut./fem./masc., kannada]
+- **ಮೊರೆವುವೞ್ಕಱೊಳೊಲ್ದೆಱಪಂತೆ** ← ಮೊರೆ + ಉದು + ಅೞ್ + ಕಱ್ + ಒಳ್ + ಒಲ್ + ಎಱಗು + ಅಂತೆ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಮೊರೆವುವೞ್ಕಱೊಳೊಲ್ದೆಱಪಂತೆ [nominative, sg, neut./fem., kannada]
+- **ತಳ್ತ** ← ತಳ್ತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪೂವಿನ** ← ಪೂವು [noun; genitive, sg, neut., kannada] (lexicon) · rules 108
+- **ಪೊಸ** ← ಪೊಸ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಗೊಂಚಲಿಂ** ← ಗೊಂಚಲು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಗೊಂಚಲ್ [instrumental, sg, neut., kannada]
+- **ಮರನಿದೇನೆಸೆದಿರ್ದುವೊ** ← ಮರೆ + ಅಂ + ಇದು + ಏನ್ + ಎಸೆ + ಇರ್ + ಒ [phrase/compound; saṃhitā split into 7] (lexicon)
+- **ಕಲ್ತುವಾಗದೇವಿನಯಮನೀ** ← ಕಲ್ + ಉದು + ಆಗು + ಅದು + ಏವಿನಯಮನಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಕಲ್ತುವಾಗದೇವಿನಯಮನಿ [vocative, sg, neut./fem./masc., kannada]
+- **ತಪೋಧನರ** ← ತಪೋಧನರ್ [noun; genitive, sg, neut., sanskrit] (inferred) · alt: ತಪೋಧನ [genitive, pl, masc., sanskrit]
+- **ಕೈಯೊಳೆ** ← ಕೈಯೊಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಶಾಖಿಗಳುಂ** ← ಶಾಖಿ [noun; nominative, pl, neut./fem./masc., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 95, 105 · alt: ಶಾಖಿಗಳು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]; ಶಾಖಿಗಳು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), sanskrit]
+- **ನಗೇಂದ್ರದಾ** ← ನಗು + ಏನ್ + ದ್ರ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಗೇಂದ್ರ [genitive, sg, neut., sanskrit]
+- **ವಿಸಸನದೊಳ್** ← ವಿಸಸನ [noun; locative, sg, neut., kannada] (inferred) · rules 106
+- **ವಿರೋಧಿನೃಪರಂ** ← ವಿರೋಧಿನೃಪರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿರೋಧಿನೃಪರ್ [accusative, sg, neut., sanskrit]; ವಿರೋಧಿನೃಪ [accusative, pl, masc., sanskrit]
+- **ತಱಿದೊಟ್ಟಲುಮರ್ಥಿಗರ್ಥಮಂಕಸವಿನ** ← ತಱಿ + ಇದು + ಒಟ್ಟು + ಉಂ + ಅರೆ + ಥಿಗರ್ಥಮಂಕಸವು [phrase/compound; saṃhitā split into 6] (inferred) · alt: ತಱಿದೊಟ್ಟಲುಮರ್ಥಿಗರ್ಥಮಂಕಸವು [genitive, sg, neut., kannada]
+- **ಲೆಕ್ಕಮೆಂದು** ← ಲೆಕ್ಕ + ಅಂ + ಎಂದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಲೆಕ್ಕಮೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಕುಡಲುಂ** ← ಕುಡು [verb; infinitive, to give; (adj.) crooked] (lexicon) · rules 234, 52
+- **ವಿಪುಳಾಯತಿಯಂ** ← ವಿಪುಳಾಯತಿಯು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಿಪುಳಾಯತಿ [accusative, sg, neut./fem./masc., kannada]; ವಿಪುಳಾಯತಿಯ [nominative, sg, masc./neut./fem., kannada]
+- **ದಿಗಂತದೊಳ್ಪಸರಿಸಲುಂ** ← ದಿಗಂತದೊಳ್ಪಸರಿಸಲು [noun; nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada] (inferred) · rules 105 · alt: ದಿಗಂತದೊಳ್ಪಸರಿಸಲ್ [nominative, sg, neut., -uṃ 'and/also' (122), kannada]; ದಿಗಂತದೊಳ್ಪಸರಿಸಲು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), kannada]
+- **ಕರಂ** ← ಕರಂ [avyaya; very, exceedingly] (lexicon) · alt: ಕರ [nominative, sg, masc./neut./fem., kannada]; ಕರ್ [accusative, sg, neut., kannada]
+- **ನೆಱೆವ** ← ನೆಱೆ [verb; future relative participle, to be full, complete] (lexicon) · rules 221
+- **ಮಕ್ಕಳನೀಯದೆ** ← ಮಕ್ಕಳನೀಯ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ಮಕ್ಕಳನೀಯದೆ [nominative, sg, neut./fem., kannada]
+- **ನೋಡೆ** ← ನೋಡು [verb; sati-saptamī (when …), to see, look] (lexicon) · rules 246, 52 · alt: ನೋಡು [vocative, sg, neut., kannada]; ನೋಡೆ [nominative, sg, neut./fem., kannada]
+- **ನಾಡೆ** ← ನಾಡೆ [avyaya; very, much] (lexicon) · alt: ನಾಡು [vocative, sg, neut., kannada]; ನಾಡೆ [nominative, sg, neut./fem., kannada]
+- **ನೋಯಿಸಿದಪುದಿಕ್ಷುಪುಷ್ಪದವೊಲೆನ್ನಯ** ← ನೋಯಿಸಿದಪುದಿಕ್ಷುಪುಷ್ಪದವೊಲೆಂನಯ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ನಿಷ್ಫಲ** ← ನಿಷ್ಫಲ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಪುಷ್ಪದರ್ಶನಂ** ← ಪುಷ್ಪದರ್ಶನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪುಷ್ಪದರ್ಶ [accusative, sg, masc./neut./fem., sanskrit]; ಪುಷ್ಪದರ್ಶನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಚಿಂತೆಯಿದೇನೊ** — ❓ not derivable with the rules + lexicon
+- **ಸಂತತಿಗೆ** ← ಸಂತತಿ [noun; dative, sg, neut./fem./masc., kannada] (inferred) · rules 113 · alt: ಸಂತತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಮಕ್ಕಳೆ** ← ಮಕ್ಕಳೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನೆಟ್ಟನೆ** ← ನೆಟ್ಟನೆ [avyaya; clearly, straight, exactly] (lexicon) · alt: ನೆಟ್ಟನೆ [nominative, sg, neut./fem., kannada]; ನೆಟ್ಟನೆ [vocative, sg, neut./fem., kannada]
+- **ಬಾರ್ತೆಯಪ್ಪೊಡಿನ್ನಿಂತಿರವೇಡ** ← ಬಾರ್ತೆಯಪ್ಪೊಡಿಂನಿಂತಿರವೇಡ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದಿವ್ಯ** ← ದಿವ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಮುನಿಪುಂಗವರಂ** ← ಮುನಿ + ಇಸು + ಉಂ + ಗವರು [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮುನಿಪುಂಗವರು [accusative, sg, neut., kannada]; ಮುನಿಪುಂಗವರ್ [accusative, sg, neut., kannada]
+- **ಬಗೆದೀರ್ಪಿನಂ** ← ಬಗೆ + ಈರ್ಪಿನು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಬಗೆದೀರ್ಪಿನು [accusative, sg, neut., kannada]; ಬಗೆದೀರ್ಪಿನ [nominative, sg, masc./neut./fem., kannada]
+- **ನಿಜಾತ್ಯಂತ** ← ನಿ + ಜಾತಿ + ಅಂ + ತ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿಜಾತ್ಯಂತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಪತಿವ್ರತಾಗುಣದಿನರ್ಚಿಸಿ** ← ಪತಿವ್ರತಾ + ಗುಣ + ಅದು + ಇಂ + ಅರೆ + ಚಿಸಿ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಪತಿವ್ರತಾಗುಣದಿನರ್ಚಿಸಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಮೆಚ್ಚಿಸು** ← ಮೆಚ್ಚು + ಇಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮೆಚ್ಚಿಸು [nominative, sg, neut./masc., kannada]
+- **ನೀಂ** ← ನೀನ್ [pronoun; nominative, sg] (lexicon) · rules 146, 161 · alt: ನೀನ್ [nominative, pl]
+- **ದಿಗಂತ** ← ದಿಗಂತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ವಿಶ್ರಾಂತ** ← ವಿಶ್ರಾಂತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಯಶರ್ಕಳಂ** ← ಯಶರ್ಕಳು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಯಶರ್ಕಳ [nominative, sg, masc./neut./fem., sanskrit]
+- **ವರ** ← ವರ್ [noun; genitive, sg, neut., kannada] (inferred) · alt: ವ [genitive, pl, masc., kannada]
+- **ತನೂಭವರಂ** ← ತನು + ಭವಿ + ಅರೆ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ತನೂಭವರು [accusative, sg, neut., sanskrit]; ತನೂಭವರ್ [accusative, sg, neut., sanskrit]
+- **ಪಡೆ** ← ಪಡು [verb; sati-saptamī (when …), to die; to lie down (also: to suffer, experience)] (lexicon) · rules 246, 52 · alt: ಪಡೆ [imperative/optative, sg, 2, to obtain, acquire; (n.) an army]; ಪಡೆ [nominative, sg, neut./fem., kannada]
+- **ನೀಂ** ← ನೀನ್ [pronoun; nominative, sg] (lexicon) · rules 146, 161 · alt: ನೀನ್ [nominative, pl]
+- **ತಳೋದರೀ** ← ತಳಿ + ಓ + ಅರಿ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಳೋದರಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಜ್ಞಾನದಿನಿರ್ದು** ← ಜ್ಞಾನದಿನಿರ್ದು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ನಿಟ್ಟಿಪೊಡೆ** ← ನಿಟ್ಟಿಸು [verb; conditional -oḍe, to stare at, gaze intently] (lexicon) · rules 250, 217 · alt: ನಿಟ್ಟಿಪೊಡೆ [nominative, sg, neut./fem., kannada]; ನಿಟ್ಟಿಗು [conditional -oḍe]
+- **ದಿವ್ಯ** ← ದಿವ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಮುನೀಂದ್ರನ** ← ಮುನಿ + ಈನ್ + ರ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮುನೀಂದ್ರ [genitive, sg, masc./fem., sanskrit]
+- **ಕೊಟ್ಟ** ← ಕುಡು [verb; past relative participle, to give; (adj.) crooked] (lexicon) · rules 239
+- **ಮಂತ್ರ** ← ಮಂತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಸಂತಾನಮನೋದಿಯೋದಿ** ← ಸು + ತಾನ್ + ಅಂ + ಅಂ + ಓದು + ಓ + ತಿ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಸಂತಾನಮನೋದಿಯೋದಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಯಮರಾಜನನದ್ಭುತತೇಜನಂ** ← ಯಮರಾಜನನದ್ಭುತತೇಜನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಯಮರಾಜನನದ್ಭುತತೇಜ [accusative, sg, masc./neut./fem., sanskrit]; ಯಮರಾಜನನದ್ಭುತತೇಜನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಸರೋಜಾನನೆ** ← ಸರಿ + ಓಜಾನನೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸರೋಜಾನನೆ [nominative, sg, neut./fem., kannada]
+- **ಜಾನದಿಂ** ← ಜಾನದು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಜಾನ [instrumental, sg, neut., kannada]
+- **ಬರಿಸೆ** ← ಬರಿಸು [noun; vocative, sg, neut., kannada] (lexicon) · rules 123, 52, 124 · alt: ಬರಿಸೆ [nominative, sg, neut./fem., kannada]
+- **ಬಂದು** ← ಬರ್ [verb; past gerund, to come] (lexicon) · rules 236, 217 · alt: ಬಂದು [nominative, sg, neut./masc., kannada]
+- **ಯಮಂ** ← ಯ [noun; accusative, sg, neut., kannada] (inferred) · rules 106, 161 · alt: ಯಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಬೆಸನಾವುದಾವುದಾತ್ಮಾನುಗತಾರ್ಥಮೆಂದೊಡೆನಗೀವುದು** ← ಬೆಸೆ + ಅಂ + ಆವುದು + ಆವುದು + ಆತ + ಮಾಂ + ಉಗು + ತಾರ್ + ಥಮೆಂದೊಡೆನಗೀವುದು [phrase/compound; saṃhitā split into 9] (inferred) · alt: ಬೆಸನಾವುದಾವುದಾತ್ಮಾನುಗತಾರ್ಥಮೆಂದೊಡೆನಗೀವುದು [nominative, sg, neut./masc., kannada]
+- **ನಿನ್ನನೆ** ← ನಿಂ + ನನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನಿಂನನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೋಲ್ವ** ← ಪೋಲ್ [verb; future relative participle, to resemble] (lexicon) · rules 221
+- **ಪುತ್ರನಂ** ← ಪುತ್ರನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪುತ್ರ [accusative, sg, masc./neut./fem., sanskrit]; ಪುತ್ರನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಹಿಮ** ← ಹಿಮ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಧವಳಾತಪತ್ರಮನೆ** ← ಧವಳಾತಪತ್ರಮನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೋಲೆ** ← ಪೋಲ್ [verb; sati-saptamī (when …), to resemble] (lexicon) · rules 246 · alt: ಪೋಲ್ [vocative, sg, neut., kannada]; ಪೋಲೆ [nominative, sg, neut./fem., kannada]
+- **ಮುಖೇಂದುವ** ← ಮುಖ + ಏನ್ + ದು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮುಖೇಂದು [genitive, sg, masc./neut., sanskrit]
+- **ಬೆಳ್ಪು** ← ಬೆಳ್ಪು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ಬೆಳ್ಪು [vocative, sg, neut./masc., kannada]
+- **ಪೂರ್ಣ** ← ಪೂರ್ಣ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕುಂಭಮನೆ** ← ಕುಂಭ + ಮನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕುಂಭಮನೆ [nominative, sg, neut./fem., kannada]
+- **ನಿರಂತರಂ** ← ನಿ + ರ + ತರ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿರಂತರು [accusative, sg, neut., kannada]; ನಿರಂತರ್ [accusative, sg, neut., kannada]
+- **ಗೆಲೆ** ← ಗೆಲೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕುಚಂಗಳ** ← ಕುಚ [noun; genitive, pl, masc./neut./fem., kannada] (inferred) · rules 102, 103
+- **ತೋರ್ಪು** ← ತೋರ್ಪು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ತೋರ್ಪು [vocative, sg, neut./masc., kannada]
+- **ಪತಾಕೆಯೊಂದು** ← ಪತಾಕೆಯೊಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ವಿಭ್ರಮಮನೆ** ← ವಿಭು + ರ + ಅಂ + ಅನೆ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ವಿಭ್ರಮಮನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೋಲೆ** ← ಪೋಲ್ [verb; sati-saptamī (when …), to resemble] (lexicon) · rules 246 · alt: ಪೋಲ್ [vocative, sg, neut., kannada]; ಪೋಲೆ [nominative, sg, neut./fem., kannada]
+- **ಪುರ್ವಿನ** ← ಪುರ್ವು [noun; genitive, sg, neut., kannada] (inferred) · rules 108
+- **ಪೊಡರ್ಪೊಳಕೊಂಡುದವಳ್ಗೆ** ← ಪೊಡರ್ + ಒಳ್ + ಕೊಳ್ + ಉದು + ಅದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೊಡರ್ಪೊಳಕೊಂಡುದವಳ್ಗೆ [nominative, sg, neut./fem., kannada]
+- **ಗರ್ಭ** ← ಗರ್ಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಚಿಹ್ನಮೆ** ← ಚಿಹ್ನ [noun; vocative, sg, neut., kannada] (lexicon) · rules 123, 124, 124 · alt: ಚಿಹ್ನಮೆ [nominative, sg, neut./fem., kannada]
+- **ಗಳ** ← ಗಳ [avyaya; reportative/courteous particle] (lexicon) · alt: ಗಳ [vocative, sg, masc./neut./fem., kannada]
+- **ಗರ್ಭದರ್ಭಕನ** ← ಗರ್ಭದರ್ಭಕ [noun; genitive, sg, masc./fem., sanskrit] (inferred) · rules 105
+- **ಸೂಚಿಪ** ← ಸೂಚಿ + ಇಸು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸೂಚಿಪ [vocative, sg, masc./neut./fem., kannada]
+- **ಮುಂದಣ** ← ಮುಂದು + ಅಣ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮುಂದಣ [vocative, sg, masc./neut./fem., kannada]
+- **ರಾಜ್ಯಚಿಹ್ನಮಂ** ← ರಾಜ + ಅ + ಚಿಹ್ನ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ರಾಜ್ಯಚಿಹ್ನಮು [accusative, sg, neut., sanskrit]; ರಾಜ್ಯಚಿಹ್ನ [accusative, sg, neut., sanskrit]
+- **ವನನಿಧಿಯಿಂದಂ** ← ವನ + ನಿಧಿ + ಇಂದು + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ವನನಿಧಿಯಿಂದು [accusative, sg, neut., sanskrit]; ವನನಿಧಿಯು [instrumental, sg, neut., sanskrit]
+- **ಚಂದ್ರಂವಿನತೋದರದಿಂ** ← ಚಂದ್ರ + ಅಂ + ಮು + ತೋ + ಅರೆ + ಅದಿ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಚಂದ್ರಂವಿನತೋದರದು [instrumental, sg, neut., sanskrit]; ಚಂದ್ರಂವಿನತೋದರ [instrumental, sg, neut., sanskrit]
+- **ಗರುತ್ಮನುದಯಾಚಳದಿಂದಿನಪನೊಗೆವಂತೆ** ← ಗರುತ್ಮನುದಯಾಚಳದಿಂದಿನಪನೊಗೆವಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪುಟ್ಟಿದನನಿವಾರ್ಯ** ← ಪುಟ್ಟು + ಇದು + ಅಂ + ಅಂ + ಇದು + ಆರ್ಯ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಪುಟ್ಟಿದನನಿವಾರ್ಯ [vocative, sg, masc./neut./fem., kannada]
+- **ಸುತೇಜನೆನಿಪನಿನಜನ** ← ಸು + ತೇಜ + ಅಂ + ಎನೆ + ಇಸು + ಅಂ + ಇಂ + ಅಜ [phrase/compound; saṃhitā split into 8] (inferred) · alt: ಸುತೇಜನೆನಿಪನಿನಜ [genitive, sg, masc./fem., kannada]
+- **ತನಯಂ** ← ತ + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತನಯು [accusative, sg, neut., kannada]; ತನಯ [nominative, sg, masc./neut./fem., kannada]
+- **ಪುಟ್ಟುವುದುಂ** ← ಪುಟ್ಟು [verb; sati-saptamī (when …), to be born, arise; (n.) a wooden ladle, an oar] (lexicon) · rules 246, 217
+- **ಧರ್ಮಮುಮೊಡವುಟ್ಟಿದುದೀತನೊಳೆ** ← ಧರ್ಮ + ಅಂ + ಉಂ + ಒಡ್ + ಅದು + ಉಡು + ಇದು + ಉದು + ಇದು + ಒಳ್ [phrase/compound; saṃhitā split into 10] (lexicon) · alt: ಧರ್ಮಮುಮೊಡವುಟ್ಟಿದುದೀತನೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಧರ್ಮನಂಶದೊಳೀತಂಪುಟ್ಟಿದನೆಂದಾ** ← ಧರ್ಮನಂಶದೊಳೀತಂಪುಟ್ಟಿದನೆಂದ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123, 123
+- **ಶಿಶುಗೊಸೆದಿಟ್ಟುದು** ← ಶಿಶುಗೊಸೆದಿಟ್ಟುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಮುನಿಸಮಿತಿ** ← ಮುನಿ + ಇಸು + ಅಂ + ಇತಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮುನಿಸಮಿತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಧರ್ಮಸುತನೆನೆ** ← ಧರ್ಮ + ಅಸು + ತನು + ಎನೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಧರ್ಮಸುತನೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೆಸರಂ** ← ಪೆಸರು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪೆಸರ್ [accusative, sg, neut., kannada]; ಪೆಸ [accusative, pl, masc., kannada]
+- **ಸಂತಸದಿನಿರ್ದು** ← ಸು + ತ + ಸದೆ + ಇಂ + ಇರ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸಂತಸದಿನಿರ್ದು [nominative, sg, neut./masc., kannada]
+- **ಮಕ್ಕಳಸಂತತಿಗೀ** ← ಮಕ್ಕಳಸಂತತಿಗಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ದೊರೆಯರಿನ್ನುಮಾಗದೊಡೆಂತುಂಸಂತಸಮೆನಗಿಲ್ಲೆಂದಾಕಾಂತೆ** ← ದೊರೆಯರಿಂನುಮಾಗದೊಡೆಂತುಂಸಂತಸಮೆನಗಿಲ್ಲೆಂದಾಕಾಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸುತಭ್ರಾಂತೆ** ← ಸುತಭ್ರಾಂತೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮುನ್ನಿನಂತೆವೊಲಿರ್ದಳ್** ← ಮುಂನೆ + ಇಂ + ಅಂತೆ + ಒಲ್ + ಇರ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮುಂನಿನಂತೆವೊಲಿರ್ [past, sg, fem., 3]
+- **ಮಂತ್ರಾಕ್ಷರ** ← ಮಂತ್ರಿ + ಅದು + ಷರ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಂತ್ರಾಕ್ಷರ್ [genitive, sg, neut., sanskrit]; ಮಂತ್ರಾಕ್ಷ [genitive, pl, masc., sanskrit]
+- **ನಿಯಮದಿನಭಿಮಂತ್ರಿಸಿ** ← ನಿ + ಅಂ + ಅದು + ಇಂ + ಅಭಿಮಂತ್ರಿಸಿ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ನಿಯಮದಿನಭಿಮಂತ್ರಿಸಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಬರಿಸಿದೊಡೆ** ← ಬರ್ + ಇಸು + ಇದು + ಒಡೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬರಿಸಿದೊಡೆ [nominative, sg, neut./fem., kannada]; ಬರಿಸು [conditional -oḍe]
+- **ವಾಯುದೇವಂ** ← ವಾಯುದೇವು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಾಯುದೇವ [nominative, sg, masc./neut./fem., kannada]
+- **ಬಂದೇಂಮಂತ್ರಂ** ← ಬರ್ + ಏನ್ + ಮಂತ್ರಿ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬಂದೇಂಮಂತ್ರು [accusative, sg, neut., sanskrit]; ಬಂದೇಂಮಂತ್ರ್ [accusative, sg, neut., sanskrit]
+- **ಪೇೞೆನೆ** ← ಪೇೞ್ + ಎನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೇೞೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಕುಡು** ← ಕುಡು [verb; imperative/optative, sg, 2, to give; (adj.) crooked] (lexicon) · rules 230 · alt: ಕುಡು [nominative, sg, neut./masc., kannada]; ಕುಡು [vocative, sg, neut./masc., kannada]
+- **ರಿಪುತಂತ್ರಕ್ಷಯಕರನನೆನಗೆ** ← ರಿಪುತಂತ್ರಕ್ಷಯಕರನನೆನಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಹಿತನಂ** ← ಹಿತನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಹಿತ [accusative, sg, masc./neut./fem., kannada]; ಹಿತನ [nominative, sg, masc./neut./fem., kannada]
+- **ಸುತನಂ** ← ಸು + ತನು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸುತನು [accusative, sg, neut., kannada]; ಸುತ [accusative, sg, masc./neut./fem., kannada]
+- **ತ್ರಿವಳಿಗಳುಂ** ← ತ್ರಿವಳಿ + ಗಳ + ಉಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತ್ರಿವಳಿ [nominative, pl, neut./fem./masc., -uṃ 'and/also' (122), sanskrit]; ತ್ರಿವಳಿಗಳು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]
+- **ವಿರೋಧಿ** ← ವಿರೋಧಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ನೃಪರುತ್ಸವಮುಂ** ← ನೃಪ + ಅರೆ + ಉತ್ಸವು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನೃಪರುತ್ಸವು [accusative, sg, neut., -uṃ 'and/also' (122), sanskrit]; ನೃಪರುತ್ಸವಮು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]
+- **ಕಿಡೆವಂದುವಾನನೇಂದುವ** ← ಕಿಡು + ಅಂದು + ಉದು + ಆನ್ + ಅಂ + ಏನ್ + ದು [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಕಿಡೆವಂದುವಾನನೇಂದು [genitive, sg, masc., kannada]
+- **ಕಡುವೆಳ್ಪು** ← ಕಡು + ಉದು + ಎಳ್ಪು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕಡುವೆಳ್ಪು [nominative, sg, neut./masc., kannada]
+- **ಕೂಸಿನ** ← ಕೂಸು [noun; genitive, sg, neut., kannada] (lexicon) · rules 108
+- **ನೆಗೞ್ತೆಯ** ← ನೆಗೞ್ + ತೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೆಗೞ್ತೆ [genitive, sg, neut./fem., kannada]
+- **ಬೆಳ್ಪುವೊಲಾಯ್ತು** ← ಬೆಳ್ಪು + ಉದು + ಒಲ್ + ಆಗು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬೆಳ್ಪುವೊಲಾಯ್ತು [nominative, sg, neut./masc., kannada]
+- **ಮುನ್ನೆ** ← ಮುಂನೆ [noun; nominative, sg, neut./fem., kannada] (lexicon) · rules 105 · alt: ಮುಂನೆ [vocative, sg, neut./fem., kannada]
+- **ಬಳ್ಕುವ** ← ಬಳ್ಕು [verb; future relative participle, to bend] (lexicon) · rules 221 · alt: ಬಳ್ಕು [genitive, sg, masc., kannada]
+- **ನಡು** ← ನಡು [verb; imperative/optative, sg, 2, to plant, fix; (n.) the middle, waist] (lexicon) · rules 230 · alt: ನಡು [nominative, sg, neut./masc., kannada]; ನಡು [vocative, sg, neut./masc., kannada]
+- **ತೋರ್ಪ** ← ತೋರ್ಪ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಮೆಯ್ಯನೊಳಕೊಂಡುದು** ← ಮೆಯ್ + ಅಂ + ಒಳ್ + ಕೊಳ್ + ಉದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮೆಯ್ಯನೊಳಕೊಂಡುದು [nominative, sg, neut./masc., kannada]; ಮೆಯ್ಯನೊಳಕೊಣ್ [past, sg, neut., 3]
+- **ಪೊಂಗೊಡನಂ** ← ಪೊಂಗು + ಒಡ್ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪೊಂಗೊಡನು [accusative, sg, neut., kannada]; ಪೊಂಗೊಡ [accusative, sg, masc./neut./fem., kannada]
+- **ತಮಾಳ** ← ತಮಾಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಪಲ್ಲವದೊಳೆ** ← ಪಲ್ + ಲ + ಅ + ತೊಳೆ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಪಲ್ಲವದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಮುಚ್ಚಿದಂದದೊಳೆ** ← ಮುಚ್ಚು + ಇದು + ಅಂದು + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಮುಚ್ಚಿದಂದದೊಳೆ [nominative, sg, neut./fem., kannada]
+- **ಚೂಚುಕಮಾಂತುದು** ← ಚೂಚುಕಮಾಂತುದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಕರ್ಪನಾಕೆಯಾ** ← ಕರ್ + ಪನ + ಅದು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕರ್ಪನಾಕೆ [genitive, sg, neut./fem., kannada]
+- **ಆ** — ❓ not derivable with the rules + lexicon
+- **ಸುದತಿಯ** ← ಸುದತಿ [noun; genitive, sg, neut./fem./masc., kannada] (inferred) · rules 53
+- **ಮೃದು** ← ಮೃದು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ಪದ** ← ಪದ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಪ [genitive, sg, neut., kannada]
+- **ವಿನ್ಯಾಸಮುಮಂ** ← ವಿನ್ಯಾಸಮುಮು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ವಿನ್ಯಾಸಮುಮ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಶೇಷನಾನಲಾಱದೆ** ← ಶೇಷೆ + ಅಂ + ಆನ್ + ಆಱು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಶೇಷನಾನಲಾಱ [instrumental, sg, neut., kannada]; ಶೇಷನಾನಲಾಱದೆ [nominative, sg, neut./fem., kannada]
+- **ಸುಯ್ದಂಬೇಸಱಿನೆಂದೊಡೆ** ← ಸುಯ್ + ಅಂ + ಬೇಸಱು + ಇಂ + ಎನ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಸುಯ್ದಂಬೇಸಱಿನೆಂದೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಗರ್ಭದಕೂಸಿನ** ← ಗರ್ಭದಕೂಸು [noun; genitive, sg, neut., sanskrit] (inferred) · rules 108
+- **ಬಳೆದಳವಿಯಳವನಳೆವರುಮೊಳರೇ** ← ಬಳೆ + ಅವಿ + ಅದು + ಅಂ + ಅಳೆ + ಅರೆ + ಉಂ + ಒಳ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಬಳೆದಳವಿಯಳವನಳೆವರುಮೊಳರು [vocative, sg, neut., kannada]; ಬಳೆದಳವಿಯಳವನಳೆವರುಮೊಳರೆ [vocative, sg, neut./fem., kannada]
+- **ಶುಭ** ← ಶುಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ತಿಥಿ** ← ತಿಥಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಶುಭ** ← ಶುಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ನಕ್ಷತ್ರಂಶುಭ** ← ನಕ್ಷತ್ರಂಶುಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ವಾರಂ** ← ವಾರು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ವಾರ್ [accusative, sg, neut., kannada]; ವಾರ [nominative, sg, masc./neut./fem., kannada]
+- **ಶುಭ** ← ಶುಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ಮುಹೂರ್ತಮೆನೆ** ← ಮುಹೂರ್ತಮೆನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಗಣಕನಿಳಾಪ್ರಭುವೊಗೆದನುದಿತ** ← ಗಣಕನಿಳಾಪ್ರಭುವೊಗೆದನುದಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕಾಯಪ್ರಭೆಯೊಗೆದಿರೆ** ← ಕಾ + ಪ್ರಭು + ಎಯೊಗೆದಿರೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕಾಯಪ್ರಭೆಯೊಗೆದಿರೆ [nominative, sg, neut./fem., kannada]
+- **ದಳಿತ** ← ದಳಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಶತ್ರುಗೋತ್ರಂ** ← ಶತ್ರುಗೋತ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಶತ್ರುಗೋತ್ರ್ [accusative, sg, neut., sanskrit]; ಶತ್ರುಗೋತ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪುತ್ರಂ** ← ಪುತ್ರು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪುತ್ರ್ [accusative, sg, neut., sanskrit]; ಪುತ್ರ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಭೀಮಂ** ← ಭೀಮ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಭೀಮು [accusative, sg, neut., sanskrit]
+- **ಭಯಂಕರಂ** ← ಭಯ + ಅಂ + ಕರ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಭಯಂಕರು [accusative, sg, neut., sanskrit]; ಭಯಂಕರ್ [accusative, sg, neut., sanskrit]
+- **ಪೆಱತೇ** ← ಪೆಱತು [noun; vocative, sg, neut., kannada] (lexicon) · rules 123, 52, 124
+- **ಮಾತೀ** ← ಮಾತಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ಕೂಸಿನಂದಮೀತನ** ← ಕೂ + ಸು + ಅಂದು + ಅಂ + ಇದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕೂಸಿನಂದಮೀತ [genitive, sg, masc./fem., kannada]
+- **ಪೆಸರುಂಭೀಮನೆ** ← ಪೆಸರುಂಭೀಮನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೋಗೆನೆ** ← ಪೋಗು + ಎನೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೋಗೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಮುನಿಜನಮೀ** ← ಮು + ನಿಜ + ಮೀ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮುನಿಜನಮಿ [vocative, sg, neut./fem./masc., kannada]
+- **ಮಾೞ್ಕೆಯಿನಾಯ್ತು** ← ಮಾಡು + ಇ + ನಾಯ್ತು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮಾೞ್ಕೆಯಿನಾಯ್ತು [nominative, sg, neut./masc., kannada]
+- **ಶಿಶುಗೆ** ← ಶಿಶು [noun; dative, sg, masc./neut., sanskrit] (inferred) · rules 113 · alt: ಶಿಶುಗೆ [nominative, sg, neut./fem., kannada]
+- **ಪೆಸರನ್ವರ್ಥಂ** ← ಪೆಸರನ್ವರ್ಥು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪೆಸರನ್ವರ್ಥ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಂತತಿಗೆ** ← ಸಂತತಿ [noun; dative, sg, neut./fem./masc., kannada] (inferred) · rules 113 · alt: ಸಂತತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಪಿರಿಯ** ← ಪಿರಿಯ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123 · alt: ಪಿರಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಮಕ್ಕಳನಾಂ** ← ಮಕ್ಕಳ [noun; genitive, sg, masc./fem., -aṃ 'and' after -oḷ (122), kannada] (inferred) · rules 105, 117
+- **ತಡೆಯದೆ** ← ತಡೆ [verb; negative participle -ade, to delay, stop] (lexicon) · rules 71, 53 · alt: ತಡೆಯ [instrumental, sg, neut., kannada]; ತಡೆಯದೆ [nominative, sg, neut./fem., kannada]
+- **ಪಡೆವೆನೆಂದೊಡೆನ್ನಿಂ** ← ಪಡು + ಎನೆ + ಎಂದು + ಒಡ್ + ಆನ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪಡೆವೆನೆಂದೊಡೆಂನು [instrumental, sg, neut., kannada]
+- **ಮುನ್ನಂಕೊಂತಿಯೆ** ← ಮುಂನೆ + ಅಂ + ಕೊಂತಿಯೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಮುಂನಂಕೊಂತಿಯೆ [nominative, sg, neut./fem., kannada]
+- **ಪಡೆದಳ್** ← ಪಡೆ [verb; past, sg, fem., 3, to obtain, acquire; (n.) an army] (lexicon) · rules 221, 217
+- **ಗರ್ಭದಚಿಂತೆಯದಿನ್ನೇವುದೆಂದು** ← ಗರ್ಭದಚಿಂತೆಯದಿಂನೇವುದೆಂದು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಬಸಿಱಂ** ← ಬಸಿ + ಇಱು + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬಸಿಱು [accusative, sg, neut., kannada]; ಬಸಿಱ [nominative, sg, masc./neut./fem., kannada]
+- **ಪೊಸೆದಳ್** ← ಪೊಸೆ [verb; past, sg, fem., 3, to twist (a rope); (noun) churning-stick] (lexicon) · rules 221, 217
+- **ಪೊಸೆದೊಡೆ** ← ಪೊಸೆ [verb; conditional -oḍe, to twist (a rope); (noun) churning-stick] (lexicon) · rules 250, 217 · alt: ಪೊಸೆದೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಪಾಲ್ಗಡಲಂ** ← ಪಾಲ್ಗಡಲು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪಾಲ್ಗಡಲ್ [accusative, sg, neut., kannada]; ಪಾಲ್ಗಡಲ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಗುೞ್ದಸುರರ್** ← ಮಗುೞ್ + ಅಸುರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಗುೞ್ದಸುರ [nominative, pl, masc., kannada]; ಮಗುೞ್ದಸುರರ್ [nominative, sg, neut., kannada]
+- **ಪೊಸೆದಲ್ಲಿ** ← ಪೊಸೆ + ಅಲ್ಲಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೊಸೆದಲ್ಲಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕಾಳಕೂಟಾಂಕುರಮಂದಸದಳಮೊಗೆದಂತೊಗೆದುವುಬಸಿಱಿಂ** ← ಕಾಳಕೂಟಾಂಕುರಮಂದಸದಳಮೊಗೆದಂತೊಗೆದುವುಬಸಿಱು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161
+- **ನೂಱೊಂದು** ← ನೂಱು + ಒಂದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ನೂಱೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಪಿಂಡಮರುಣಾಕೀರ್ಣಂ** ← ಪಿಂಡಮರುಣಾಕೀರ್ಣು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪಿಂಡಮರುಣಾಕೀರ್ಣ [nominative, sg, masc./neut./fem., kannada]
+- **ಒದವುಗೆ** ← ಒದವು [verb; imperative/optative, sg, 3, to thrive, accrue, come to pass] (lexicon) · rules 229 · alt: ಒದವು [dative, sg, masc., kannada]; ಒದವುಗೆ [nominative, sg, neut./fem., kannada]
+- **ನಿನ್ನ** ← ನೀನ್ [pronoun; genitive, sg] (lexicon) · rules 146, 146
+- **ಸಂತತಿಗೆ** ← ಸಂತತಿ [noun; dative, sg, neut./fem./masc., kannada] (inferred) · rules 113 · alt: ಸಂತತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ನೂರ್ವರುದಗ್ರ** ← ನೂರ್ + ಬರ್ + ಉದು + ಅಗ್ರ್ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ನೂರ್ವರುದಗ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಸುತರ್ಕಳೊಂದೆ** ← ಸು + ತರ್ + ಕಳ್ + ಒಂದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸುತರ್ಕಳೊಂದೆ [nominative, sg, neut./fem., kannada]
+- **ಗರ್ಭದೊಳೆನೆ** ← ಗರ್ಭದೊಳೆನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕೆಮ್ಮನಿಂತು** ← ಕೆಮ್ಮು + ಅಂ + ಇಂತು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೆಂಮನಿಂತು [nominative, sg, neut./masc., kannada]
+- **ಪೊಸೆದಿಕ್ಕಿದೆ** ← ಪೊಸೆ + ಇಕ್ಕು + ಇದೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಪೊಸೆದಿಕ್ಕಿದೆ [nominative, sg, neut./fem., kannada]
+- **ಪೊಲ್ಲದುಗೆಯ್ದೆಯೆಂದು** ← ಪೊಲ್ + ಅದು + ಉಗು + ಎಯ್ದೆ + ಎಂದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೊಲ್ಲದುಗೆಯ್ದೆಯೆಂದು [nominative, sg, neut./masc., kannada]
+- **ಮಾಣದೆ** ← ಮಾಣ್ [verb; negative participle -ade, to cease, desist; to stop] (lexicon) · rules 71 · alt: ಮಾಣ [instrumental, sg, neut., kannada]; ಮಾಣದೆ [nominative, sg, neut./fem., kannada]
+- **ಮುನಿ** ← ಮುನಿ [verb; imperative/optative, sg, 2, to be angry; (noun) ascetic] (lexicon) · rules 230 · alt: ಮುನಿ [nominative, sg, neut./fem./masc., sanskrit]; ಮುನಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ನೂಱುಪಿಂಡಮುಮನಾಗಳೆ** ← ನೂಱು + ಉಗು + ಇಂ + ಡ + ಉಂ + ಅಂ + ಆಗು + ಅಳೆ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ನೂಱುಪಿಂಡಮುಮನಾಗಳೆ [nominative, sg, neut./fem., kannada]
+- **ತೀವಿದ** ← ತೀವು [verb; past relative participle, to fill, become full] (lexicon) · rules 221 · alt: ತೀವಿ [past relative participle]
+- **ಕಮ್ಮನಪ್ಪ** ← ಕಮ್ಮು + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕಂಮನಪ್ಪ [vocative, sg, masc./neut./fem., kannada]
+- **ತುಪ್ಪದ** ← ತುಪ್ಪ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಕೊಡದೊಳ್** ← ಕೊಡೆ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೊಡ [locative, sg, neut., kannada]
+- **ಸಮಂತು** ← ಸಮೆ + ಅಂತು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸಮಂತು [nominative, sg, neut./masc., kannada]
+- **ಮಡಗಿಟ್ಟೊಡೆ** ← ಮಡಗು + ಇಡು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಡಗಿಟ್ಟೊಡೆ [nominative, sg, neut./fem., kannada]
+- **ಸೃಷ್ಟಿಗೆ** ← ಸೃಷ್ಟಿ [noun; dative, sg, neut./fem./masc., sanskrit] (lexicon) · rules 113 · alt: ಸೃಷ್ಟಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ಚೋದ್ಯಮಪ್ಪಿನಂ** ← ಚೋದ್ಯಮಪ್ಪಿನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಚೋದ್ಯಮಪ್ಪಿನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಪ್ರತಿಮೆಗಳೞ್ತುವು** ← ಪ್ರತಿಮೆಗಳೞ್ತುವು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ಮೊೞಗಿದುದತಿ** ← ಮೊೞಗು + ಇದು + ಉದು + ಅತಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮೊೞಗಿದುದತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ರಭಸದೆ** ← ರಭಸ [noun; instrumental, sg, neut., sanskrit] (inferred) · rules 106 · alt: ರಭಸದೆ [nominative, sg, neut./fem., kannada]
+- **ಧಾತ್ರಿ** ← ಧಾತ್ರಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ದೆಸೆಗಳುರಿದುವು** ← ದೆಸೆ + ಗಳ + ಉರಿ + ಉದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ದೆಸೆಗಳುರಿತು [nominative, pl, neut., kannada]; ದೆಸೆಗಳುರಿದುವು [nominative, sg, neut./masc., kannada]
+- **ಭೂತಪ್ರತತಿಗಳಾಡಿದುವೊಳಱಿದುವತಿ** ← ಭೂತಿ + ಅಪ್ + ರ + ತ + ತಿ + ಗಳ + ಆಡು + ಇದು + ಉದು + ಒಳಱು + ಇದು + ಉದು + ಅತಿ [phrase/compound; saṃhitā split into 13] (inferred) · alt: ಭೂತಪ್ರತತಿಗಳಾಡಿದುವೊಳಱಿದುವತಿ [nominative, sg, neut./fem./masc., kannada]
+- **ರಮ್ಯಸ್ಥಾನದೊಳ್** ← ರ + ಅ + ಸ್ಥಾನ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ರಮ್ಯಸ್ಥಾನ [locative, sg, neut., sanskrit]
+- **ಶಿವಾ** ← ಶಿವ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ನಿವಹಂಗಳ್** ← ನಿ + ಅ + ಹ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ನಿವಹ [nominative, pl, masc./neut./fem., kannada]
+- **ಈತನೆ** ← ಈತ [noun; vocative, sg, masc./fem., kannada] (lexicon) · rules 123, 124, 124 · alt: ಈತನೆ [nominative, sg, neut./fem., kannada]
+- **ನಮ್ಮ** ← ನಂಮ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕುಲಕ್ಕಂಕೇತು** ← ಕುಲ + ಅಂ + ಕೇತು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಕುಲಕ್ಕಂಕೇತು [nominative, sg, neut./masc., kannada]
+- **ದಲಾನಱಿವೆನಲ್ಲದಂದೇಕಿನಿತುತ್ಪಾತಂ** ← ದಲ್ + ಆನ್ + ಅಱ್ + ಇದು + ಎನೆ + ಅಲ್ಲ + ಅದು + ಅಂದು + ಏನ್ + ಇನಿತು + ಉತ್ಪಾತು [phrase/compound; saṃhitā split into 11] (inferred) · alt: ದಲಾನಱಿವೆನಲ್ಲದಂದೇಕಿನಿತುತ್ಪಾತು [accusative, sg, neut., kannada]; ದಲಾನಱಿವೆನಲ್ಲದಂದೇಕಿನಿತುತ್ಪಾತ [nominative, sg, masc./neut./fem., kannada]
+- **ತೋರ್ಪುವು** ← ತೋರ್ಪು + ಉದು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತೋರ್ಪುವು [nominative, sg, neut./masc., kannada]; ತೋರ್ಸು [future/present, pl, neut., 3]
+- **ಬಿಸುಡುವುದೀತನ** ← ಬಿಸು + ಉಡು + ಉದು + ಉದು + ಇದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬಿಸುಡುವುದೀತ [genitive, sg, masc./fem., kannada]
+- **ಪೆಱಗುೞಿದ** ← ಪೆಱು + ಕುೞಿ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೆಱಗುೞು [past relative participle]; ಪೆಱಗುೞಿ [past relative participle]
+- **ಸುತರೆ** ← ಸು + ತರ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸುತರೆ [nominative, sg, neut./fem., kannada]
+- **ಸಂತತಿಗಪ್ಪರ್** ← ಸು + ತ + ತಿ + ಆಗು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಂತತಿಗಪ್ಪ [nominative, pl, masc., kannada]; ಸಂತತಿಗಪ್ಪರ್ [nominative, sg, neut., kannada]
+- **ಸುಕಮಿರ್ಪನ್ನೆಗಮಿತ್ತ** ← ಸು + ಕಮಿರ್ಪಂನೆಗಮಿಱು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸುಕಮಿರ್ಪಂನೆಗಮಿತ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ಕುಂತಿ** ← ಕುಂತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಶತಶೃಂಗಾದ್ರೀಂದ್ರದೊಳ್** ← ಶತಶೃಂಗಾದ್ರೀಂದ್ರ [noun; locative, sg, neut., sanskrit] (inferred) · rules 106
+- **ದಿವ್ಯ** ← ದಿವ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಬಾಲಕನಿನ್ನೊರ್ವನನುಗ್ರವೈರಿ** ← ಬಾ + ಲ + ಅಂ + ಇಂಂ + ಒರ್ + ಅಂ + ಅಂ + ಉಗು + ರವೈರಿ [phrase/compound; saṃhitā split into 9] (inferred) · alt: ಬಾಲಕನಿಂನೊರ್ವನನುಗ್ರವೈರಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಮದವನ್ಮಾತಂಗ** ← ಮದ + ಅದು + ಅಂ + ಮಾತು + ಅಂ + ಗ [phrase/compound; saṃhitā split into 6] (inferred) · alt: ಮದವನ್ಮಾತಂಗ [vocative, sg, masc./neut./fem., kannada]
+- **ಕುಂಭಾರ್ದ್ರ** ← ಕುಂಭಾರ್ದ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಮೌಕ್ತಿಕ** ← ಮೌಕ್ತಿಕ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಲಗ್ನೋಜ್ಜ್ವಲ** ← ಲಗ್ನೋಜ್ಜ್ವಲ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಬಾಣನಂ** ← ಬಾಣನು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಬಾಣ [accusative, sg, masc./neut./fem., kannada]; ಬಾಣನ [nominative, sg, masc./neut./fem., kannada]
+- **ಪ್ರವಿಲಸದ್ಗೀರ್ವಾಣ** ← ಪ್ರವಿಲಸದ್ಗೀರ್ವಾಣ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ದಾತವ್ಯ** ← ದಾತವ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಸಾಯಕ** ← ಸಾ + ಅಕ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸಾಯಕ [vocative, sg, masc./neut./fem., kannada]
+- **ಸಂಪೂರ್ಣ** ← ಸಂಪೂರ್ಣ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಕಳಾಪ್ರವೀಣನನಿಳಾಭಾರ** ← ಕಳ್ + ಆಗು + ರವಿ + ಈಣನನಿಳಾಭಾರ್ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಕಳಾಪ್ರವೀಣನನಿಳಾಭಾರ್ [genitive, sg, neut., sanskrit]
+- **ಕ್ಷಮಾಕ್ಷೂಣನಂ** ← ಕ್ಷಮಾಕ್ಷೂಣನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕ್ಷಮಾಕ್ಷೂಣ [accusative, sg, masc./neut./fem., sanskrit]; ಕ್ಷಮಾಕ್ಷೂಣನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಎಱಗಿಯುಮೊರ್ಮೆ** ← ಎಱಗು + ಉಂ + ಒರ್ಮೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಎಱಗಿಯುಮೊರ್ಮೆ [nominative, sg, neut./fem., kannada]
+- **ದಿವ್ಯ** ← ದಿವ್ಯ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಮುನಿಗಾರ್ತುಪವಾಸಮನಿರ್ದುಮೊರ್ಮೆ** ← ಮುನಿ + ಆಱು + ಉಗು + ಅದು + ಆಸು + ಅಂ + ಅಂ + ಇರ್ + ಉಂ + ಒರ್ಮೆ [phrase/compound; saṃhitā split into 10] (inferred) · alt: ಮುನಿಗಾರ್ತುಪವಾಸಮನಿರ್ದುಮೊರ್ಮೆ [nominative, sg, neut./fem., kannada]
+- **ಕೊಯ್ದಱಿಕೆಯ** ← ಕೊಯ್ + ತಱಿ + ಕೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕೊಯ್ದಱಿಕೆ [genitive, sg, neut./fem., kannada]
+- **ಪೂಗಳಿಂ** ← ಪೂ + ಅಳು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಪೂಗಳು [instrumental, sg, neut., kannada]
+- **ಶಿವನನರ್ಚಿಸಿಯುಂ** ← ಶಿವನನರ್ಚಿಸಿ [noun; nominative, sg, neut./fem./masc., -uṃ 'and/also' (122), sanskrit] (inferred) · rules 105 · alt: ಶಿವನನರ್ಚಿಸಿಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), sanskrit]; ಶಿವನನರ್ಚಿಸಿಯು [nominative, sg, neut./masc., -aṃ 'and' after -oḷ (122), sanskrit]
+- **ಬಿಡದೊರ್ಮೆ** ← ಬಿಡು + ಅದು + ಒರ್ಮೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬಿಡದೊರ್ಮೆ [nominative, sg, neut./fem., kannada]
+- **ನೋಂತುಮೋದಱಿವರ** ← ನೋನ್ + ಉಂ + ಓ + ಅಱ್ + ಬರ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನೋಂತುಮೋದಱಿವರ್ [genitive, sg, neut., kannada]; ನೋಂತುಮೋದಱಿವ [genitive, pl, masc., kannada]
+- **ಪೇೞ್ದ** ← ಪೇೞ್ [verb; past relative participle, to tell] (lexicon) · rules 221
+- **ನೋಂಪಿಗಳನೊರ್ಮೆ** ← ನೋನ್ + ಇಗಳನೊರ್ಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೋಂಪಿಗಳನೊರ್ಮೆ [nominative, sg, neut./fem., kannada]
+- **ಪಲರ್ಮೆಯುಮಿಂತು** ← ಪಲ್ + ಅರೆ + ಮೆಯ್ + ಉಂ + ಇಂತು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪಲರ್ಮೆಯುಮಿಂತು [nominative, sg, neut./masc., kannada]
+- **ತಮ್ಮ** ← ತಾನ್ [pronoun; genitive, pl] (lexicon) · rules 146, 146 · alt: ತಂಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಮೆಯ್ಮಱೆವಿನಮಿರ್ವರುಂ** ← ಮೆಯ್ + ಮಱ್ + ಇಂ + ಅಂ + ಇರ್ + ಬರ್ + ಉಂ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಮೆಯ್ಮಱೆವಿನಮಿರ್ವ [nominative, pl, masc., -uṃ 'and/also' (122), kannada]; ಮೆಯ್ಮಱೆವಿನಮಿರ್ವರ್ [nominative, sg, neut., -uṃ 'and/also' (122), kannada]
+- **ನಮೆದರೇನವರ್ಗಾದುದೊ** — ❓ not derivable with the rules + lexicon
+- **ಪುತ್ರದೋಹಳಂ** ← ಪುತ್ರದೋಹಳು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಪುತ್ರದೋಹಳ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಅಲಸದೆ** ← ಅಲಸು [verb; negative participle -ade, to be tired, weary] (lexicon) · rules 71, 52 · alt: ಅಲಸ [instrumental, sg, neut., kannada]; ಅಲಸದೆ [nominative, sg, neut./fem., kannada]
+- **ಮಾಡಿ** ← ಮಾಡು [verb; past gerund, to do, make; (n.) a kind of wall-niche / roof] (lexicon) · rules 236, 52 · alt: ಮಾಡಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಬೇಸಱದೆ** ← ಬೇಸಱು [verb; negative participle -ade, to be weary, tired] (lexicon) · rules 71, 52 · alt: ಬೇಸಱ [instrumental, sg, neut., kannada]; ಬೇಸಱದೆ [nominative, sg, neut./fem., kannada]
+- **ಸಾಲ್ಗುಮಿದೆನ್ನದೆ** ← ಸಾಲ್ + ಉಂ + ಇದು + ಎನ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಸಾಲ್ಗುಮಿದೆಂನ [instrumental, sg, neut., kannada]; ಸಾಲ್ಗುಮಿದೆಂನದೆ [nominative, sg, neut./fem., kannada]
+- **ಮೆಯ್ಸೊಗಕ್ಕೆ** ← ಮೆಯ್ + ಸೊಗ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮೆಯ್ಸೊಗ [dative, sg, neut., kannada]; ಮೆಯ್ಸೊಗಕ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ಪಂಬಲಿಸದೆ** ← ಪಂಬಲಿಸ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ಪಂಬಲಿಸದೆ [nominative, sg, neut./fem., kannada]
+- **ನಿದ್ದೆಗೆಟ್ಟು** ← ನಿದ್ದೆಗೆಟ್ಟು [noun; nominative, sg, neut./masc., kannada] (inferred) · rules 105
+- **ನಿಡು** ← ನಿಡು [noun; nominative, sg, neut./masc., kannada] (lexicon) · rules 105 · alt: ನಿಡು [vocative, sg, neut./masc., kannada]
+- **ಜಾಗರದೊಳ್** ← ಜಾಗರ [noun; locative, sg, neut., kannada] (inferred) · rules 106
+- **ತೊಡರ್ದೇಕ** ← ತೊಡೆ + ಅರೆ + ದೇಕ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತೊಡರ್ದೇಕ [vocative, sg, masc./neut./fem., kannada]
+- **ಪಾದದೊಳ್ಬಲಿದುಪವಾಸದೊಳ್** ← ಪಾದದೊಳ್ಬಲಿದುಪವಾಸ [noun; locative, sg, neut., kannada] (inferred) · rules 106
+- **ನಮೆದು** ← ನಮೆ [verb; past gerund, to dwindle, become lean; to become poor] (lexicon) · rules 236, 217 · alt: ನಮೆದು [nominative, sg, neut./masc., kannada]
+- **ನೋಂಪಿಗಳೊಳ್** ← ನೋಂಪಿ [noun; locative, pl, neut./fem./masc., kannada] (inferred) · rules 95
+- **ನಿಯಮ** ← ನಿಯಮ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಕ್ರಮಂಗಳಂಸಲಿಸಿದರಂತು** ← ಕ್ರಮ + ಅಂ + ಗಳ + ಅಂ + ಸಲೆ + ಇಸು + ಇದು + ಅರೆ + ಅಂತು [phrase/compound; saṃhitā split into 9] (lexicon) · alt: ಕ್ರಮಂಗಳಂಸಲಿಸಿದರಂತು [nominative, sg, neut./masc., sanskrit]
+- **ನೋನದೆ** ← ನೋನ್ [verb; negative participle -ade, to observe a vow] (lexicon) · rules 71 · alt: ನೋನ [instrumental, sg, neut., kannada]; ನೋನದೆ [nominative, sg, neut./fem., kannada]
+- **ಗುಣಾರ್ಣವನಂ** ← ಗುಣ + ಆವುದು + ಣವನು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವನು [accusative, sg, neut., kannada]; ಗುಣಾರ್ಣವ [accusative, sg, masc./neut./fem., kannada]
+- **ಪಡೆಯಲ್ಕೆ** ← ಪಡೆ [verb; infinitive, to obtain, acquire; (n.) an army] (lexicon) · rules 235, 53 · alt: ಪಡೆಯಲ್ಕೆ [nominative, sg, neut./fem., kannada]
+- **ತೀರ್ಗುಮೇ** ← ತೀರ್ + ಗುಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ತೀರ್ಗುಮು [vocative, sg, neut., kannada]; ತೀರ್ಗುಮೆ [vocative, sg, neut./fem., kannada]
+- **ಸುಲಿಪಲ್** ← ಸುಲಿ + ಪಲ್ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಸುಲಿಪಲ್ [nominative, sg, neut., kannada]
+- **ಮಿಂಚಿನ** ← ಮಿಂಚು [noun; genitive, sg, neut., kannada] (lexicon) · rules 108
+- **ಗೊಂಚಲುಟ್ಟ** ← ಗೊಂಚಲುಟ್ಟ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ದುಗುಲಂ** ← ದುಗುಲು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ದುಗುಲ್ [accusative, sg, neut., kannada]; ದುಗುಲ [nominative, sg, masc./neut./fem., kannada]
+- **ಗಂಗಾನದೀ** ← ಗಂಗಾನದಿ [noun; vocative, sg, neut./fem./masc., kannada] (inferred) · rules 123, 123
+- **ಫೇನಮುಜ್ಜ್ವಲ** ← ಫೇನ + ಅಂ + ಉಜ್ಜ್ವಲ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಫೇನಮುಜ್ಜ್ವಲ್ [genitive, sg, neut., sanskrit]
+- **ಮುಕ್ತಾಭರಣಂ** ← ಮುಕ್ತಿ + ಆಭರಣು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮುಕ್ತಾಭರಣು [accusative, sg, neut., sanskrit]; ಮುಕ್ತಾಭರಣ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತರತ್ತರಳ** ← ತರ್ + ಅತ್ತೆ + ಅರೆ + ಅಳ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ತರತ್ತರಳ [vocative, sg, masc./neut./fem., kannada]
+- **ತಾರೋದಾರ** ← ತಾರ್ + ಓ + ಆರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಾರೋದಾರ್ [genitive, sg, neut., kannada]
+- **ಭಾ** ← ಭ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ಭಾರಮಂಗಲತಾ** ← ಭಾರಮಂಗಲತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ಲಾಲಿತ** ← ಲಾಲಿತ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸಾಂದ್ರ** ← ಸಾಂದ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಚಂದನರಸಂ** ← ಚಂದನರಸು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಚಂದನರಸ [nominative, sg, masc./neut./fem., kannada]
+- **ಬೆಳ್ದಿಂಗಳೆಂಬೊಂದು** ← ಬೆಳು + ತಿನ್ + ಗಳ + ಎನ್ + ಒಂದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬೆಳ್ದಿಂಗಳೆಂಬೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಪಂಬಲ** ← ಪಂಬಲ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಬಂಬಲ್ಗೆಡೆಯಾಗೆ** ← ಬಂಬಲ್ಗೆಡೆಯಾಗೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಬೆಳ್ಪಸದನಂ** ← ಬೆಳು + ಪಸು + ಅದು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಬೆಳ್ಪಸದನು [accusative, sg, neut., kannada]; ಬೆಳ್ಪಸದ [accusative, sg, masc./neut./fem., kannada]
+- **ಕಣ್ಗೊಪ್ಪಿತಾ** ← ಕಣ್ + ಒಪ್ಪು + ತ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕಣ್ಗೊಪ್ಪಿತ [vocative, sg, masc./neut./fem., kannada]
+- **ಕಾಂತೆಯಾ** ← ಕಾಂತೆ [noun; genitive, sg, neut./fem., kannada] (lexicon) · rules 53, 117
+- **ನೆನೆದ** ← ನೆನೆ [verb; past relative participle, to remember] (lexicon) · rules 221
+- **ಮನಂ** ← ಮನ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಮ [accusative, sg, masc./neut./fem., kannada]
+- **ಪೆಱಗುೞಿದತ್ತೆನೆ** ← ಪೆಱು + ಅಗುೞ್ + ಇದು + ಅತ್ತೆ + ಎನೆ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಪೆಱಗುೞಿದತ್ತೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಬೆಳಗುವ** ← ಬೆಳಗು [verb; future relative participle, to shine] (lexicon) · rules 221 · alt: ಬೆಳಗು [genitive, sg, masc., kannada]
+- **ರತ್ನದೀಪ್ತಿ** ← ರತ್ನ + ಅದು + ಈಸು + ತಿ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ರತ್ನದೀಪ್ತಿ [nominative, sg, neut./fem./masc., sanskrit]
+- **ಸುರಧನು** ← ಸುರಿ + ಅಧನು [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಸುರಧನು [nominative, sg, neut./masc., sanskrit]
+- **ನೆಗೆದತ್ತೆನೆ** ← ನೆಗೆ + ಅತ್ತೆ + ಎನೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನೆಗೆದತ್ತೆನೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಯ್ದಿಲ್ಗೊಳನಲರ್ದತ್ತೆನೆ** ← ನೆಯ್ + ಇಲ್ಗೊಳನಲರ್ದತ್ತೆನೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನೆಯ್ದಿಲ್ಗೊಳನಲರ್ದತ್ತೆನೆ [nominative, sg, neut./fem., kannada]
+- **ಕಣ್ಗಳ** ← ಕಣ್ [noun; genitive, pl, neut., kannada] (lexicon) · rules 95
+- **ಬಳಗಮಾಗಳಿಂದ್ರಂ** ← ಬಳೆ + ಅಗಿ + ಅಂ + ಆಗಳ್ + ಇಂದು + ರ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಬಳಗಮಾಗಳಿಂದ್ರು [accusative, sg, neut., sanskrit]; ಬಳಗಮಾಗಳಿಂದ್ರ್ [accusative, sg, neut., sanskrit]
+- **ಬಂದಂ** ← ಬರ್ [verb; past, sg, masc./human, 3, to come] (lexicon) · rules 237, 217, 161 · alt: ಬಂದ [nominative, sg, masc./neut./fem., kannada]; ಬಂದು [accusative, sg, neut., kannada]
+- **ಬೆಸನೇನೇಗೆಯ್ವುದೊ** — ❓ not derivable with the rules + lexicon
+- **ನಿನಗೊಸೆದೇನಂ** ← ನೀನ್ + ಒಸೆ + ಏನ್ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿನಗೊಸೆದೇನು [accusative, sg, neut., kannada]; ನಿನಗೊಸೆದೇನ [nominative, sg, masc./neut./fem., kannada]
+- **ಕುಡುವುದೆಂದೊಡೆಂದಳ್** ← ಕುಡು + ಉದು + ಉದು + ಎಂದು + ಒಡ್ + ಎನ್ [phrase/compound; saṃhitā split into 6] (lexicon)
+- **ಮಕ್ಕಳ್ಒಸಗೆಯನೆನಗೀವುದು** — ❓ not derivable with the rules + lexicon
+- **ನಿನ್ನೆಸಕದ** ← ನೀನ್ + ಎಸಕ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ನಿಂನೆಸಕ [genitive, sg, neut., kannada]
+- **ಮಸಕಮನೆ** ← ಮಸೆ + ಅಕಮನೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮಸಕಮನೆ [nominative, sg, neut./fem., kannada]
+- **ಪೋಲ್ವ** ← ಪೋಲ್ [verb; future relative participle, to resemble] (lexicon) · rules 221
+- **ಮಗನಂ** ← ಮಗ [noun; accusative, sg, masc./neut./fem., kannada] (lexicon) · rules 105, 161 · alt: ಮಗನು [accusative, sg, neut., kannada]; ಮಗನ [nominative, sg, masc./neut./fem., kannada]
+- **ಮಘವಾ** ← ಮಘವ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123, 123
+- **ಕುಡಿವುದನೇೞುಮಂಬುಧಿಯುಮಂ** ← ಕುಡು + ಇದು + ಉದು + ಅಂ + ಏೞ್ + ಉಂ + ಅಂ + ಬುಧ್ + ಇಯುಮು [phrase/compound; saṃhitā split into 9] (inferred) · alt: ಕುಡಿವುದನೇೞುಮಂಬುಧಿಯುಮು [accusative, sg, neut., kannada]; ಕುಡಿವುದನೇೞುಮಂಬುಧಿಯುಮ [nominative, sg, masc./neut./fem., kannada]
+- **ಕುಲಶೈಲಕುಳಂಗಳಂ** ← ಕುಲಶೈಲಕುಳಂಗಳು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕುಲಶೈಲಕುಳ [accusative, pl, masc./neut./fem., sanskrit]; ಕುಲಶೈಲಕುಳಂಗಳ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತಗುಳ್ದಡರ್ವುದನೊಂದು** ← ತಗು + ಉಳ್ + ಅಡು + ಅರೆ + ಮುದು + ನೋ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ತಗುಳ್ದಡರ್ವುದನೊಂದು [nominative, sg, neut./masc., kannada]
+- **ಬಾಳ** ← ಬಾಳ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ರವಿ** ← ರವಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (lexicon) · rules 105 · alt: ರವಿ [vocative, sg, neut./fem./masc., sanskrit]
+- **ತನ್ನಯ** ← ತ + ನಯ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತಂನಯ [vocative, sg, masc./neut./fem., kannada]
+- **ಸೋಗಿಲ** ← ಸೋಗಿಲ್ [noun; genitive, sg, neut., kannada] (inferred)
+- **ಮೇಗೆ** ← ಮೇ [verb; imperative/optative, sg, 3, to graze (of beasts)] (lexicon) · rules 229 · alt: ಮೇಗು [vocative, sg, neut., kannada]; ಮೇಗೆ [nominative, sg, neut./fem., kannada]
+- **ರಾಗದಿಂಪೊಡರ್ವುದನಂತೆ** ← ರಾಗ + ಅದು + ಇಂ + ಪೊಡೆ + ಅರೆ + ಮುದ್ + ಅಂ + ಅಂತೆ [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ರಾಗದಿಂಪೊಡರ್ವುದನಂತೆ [nominative, sg, neut./fem., kannada]
+- **ದಿಕ್ಕರಿಗಳಂಬುಜಪತ್ರ** ← ದಿಕ್ಕರಿಗಳಂಬುಜಪತ್ರ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಪುಟಾಂಬುವಿಂ** ← ಪುಟಾಂಬುವು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಪುಟಾಂಬು [instrumental, sg, neut./masc., kannada]
+- **ಬೆಡಂಗಡಸಿರೆ** ← ಬೆ + ಡಂಗೆ + ಅಡಸು + ಇರ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಬೆಡಂಗಡಸಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಮಜ್ಜನಂಬುಗಿಪುದಂ** ← ಮಜ್ಜನಂಬುಗಿಪುದು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಮಜ್ಜನಂಬುಗಿಪುದ [nominative, sg, masc./neut./fem., kannada]
+- **ಸತಿ** ← ಸತಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಕಂಡೊಸೆದಳ್** ← ಕಾಣ್ + ಒಸೆ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಕಂಡೊಸೆ [past, sg, fem., 3]
+- **ನಿಶಾಂತದೊಳ್** ← ನಿ + ಶಾಂತಿ + ಅದು + ಒಳ್ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ನಿಶಾಂತ [locative, sg, neut., sanskrit]
+- **ಕುಡಿವುದಱಿಂದಮಬ್ಧಿಗಳನಬ್ಧಿಪರೀತ** ← ಕುಡು + ಇದು + ಉದು + ಅಱ್ + ಇಂದು + ಅಂ + ಅಬ್ಧಿ + ಗಳ + ಅಂ + ಅಬ್ಧಿ + ಇಸು + ಅರೆ + ಈತ [phrase/compound; saṃhitā split into 13] (lexicon) · alt: ಕುಡಿವುದಱಿಂದಮಬ್ಧಿಗಳನಬ್ಧಿಪರೀತ [vocative, sg, masc./neut./fem., kannada]
+- **ಮಹೀಶನಂ** ← ಮಹೀಶನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಮಹೀಶ [accusative, sg, masc./neut./fem., sanskrit]; ಮಹೀಶನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತಗುಳ್ದಡರ್ವುದಱಿಂ** ← ತಗು + ಉಳ್ + ಅಡು + ಅರೆ + ಉದು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ತಗುಳ್ದಡರ್ವುದಱು [instrumental, sg, neut., kannada]; ತಗುಳ್ದಡರ್ವುದು [instrumental, sg, neut., kannada]
+- **ಕುಲಾದ್ರಿ** ← ಕುಲಾದ್ರಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಪರಿವೇಷ್ಟಿತನಂ** ← ಪರೆ + ಇದು + ಏಷ್ಟಿತನು [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಪರಿವೇಷ್ಟಿತನು [accusative, sg, neut., sanskrit]; ಪರಿವೇಷ್ಟಿತ [accusative, sg, masc./neut./fem., sanskrit]
+- **ತರುಣಾರ್ಕನೞ್ಕಱಿಂಪೊಡರ್ವುದಱಿಂದಮೆಂದುಮುದಿತೋದಿತನಂ** ← ತರ್ + ಉಣ್ + ಆರ್ + ಅಂ + ಅೞ್ + ಕಱ್ + ಇಂ + ಪೊಡೆ + ಅರೆ + ಮುದ್ + ಅಱ್ + ಇಂದು + ಅಂ + ಎಂದು + ಮುದು + ಓದು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 18] (lexicon) · alt: ತರುಣಾರ್ಕನೞ್ಕಱಿಂಪೊಡರ್ವುದಱಿಂದಮೆಂದುಮುದಿತೋದಿತನು [accusative, sg, neut., kannada]; ತರುಣಾರ್ಕನೞ್ಕಱಿಂಪೊಡರ್ವುದಱಿಂದಮೆಂದುಮುದಿತೋದಿತ [accusative, sg, masc./neut./fem., kannada]
+- **ದಿಗಿಭಂಗಳೆಂಟುಮೊಳ್ಪೊಡರಿಸಿ** ← ದಿಗಿಭಂಗಳೆಂಟುಮೊಳ್ಪೊಡರಿಸಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಮಜ್ಜನಂಬುಗಿಸೆ** ← ಮಜ್ಜನಂಬುಗಿಸೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಕಂಡುದಱಿಂ** ← ಕಾಣ್ + ಉದು + ಅಱ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಕಂಡುದಱು [instrumental, sg, neut., kannada]
+- **ಕಮಲಾಭಿರಾಮನಂ** ← ಕಮಲಾಭಿರಾಮನು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಕಮಲಾಭಿರಾಮ [accusative, sg, masc./neut./fem., sanskrit]; ಕಮಲಾಭಿರಾಮನ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಉರ್ಚಿದ** ← ಉರ್ಚು [verb; past relative participle, to draw out, unsheathe; to purge] (lexicon) · rules 221 · alt: ಉರ್ಚಿ [past relative participle]
+- **ಬಾಳೊಳಾತ್ಮ** ← ಬಾಳ್ + ಒಳ್ + ಆತ್ಮ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಬಾಳೊಳಾತ್ಮ [vocative, sg, masc./neut./fem., kannada]
+- **ಮುಖಬಿಂಬಮನೞ್ತಿಯೆ** ← ಮುಖಬಿಂಬಮನೞ್ತಿಯೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ನೋಡಲುಂ** ← ನೋಡು [verb; infinitive, to see, look] (lexicon) · rules 234, 52
+- **ಮನಂಪೆರ್ಚಿ** ← ಮನು + ಅಂ + ಪೆರ್ಚು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮನಂಪೆರ್ಚಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಧನುರ್ಲತಾ** ← ಧನುರ್ಲತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123, 123
+- **ಗುಣ** ← ಗುಣ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ನಿನಾದಮನಾಲಿಸಿ** ← ನಿಂ + ಆಗು + ಅಂ + ಅಂ + ಆಲಿಸು [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ನಿನಾದಮನಾಲಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕೇಳಲುಂ** ← ಕೇಳ್ [verb; infinitive, to hear, listen] (lexicon) · rules 234
+- **ಮನಂಬೆರ್ಚದೆ** ← ಮನು + ಅಂ + ಬೆರ್ಚು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಮನಂಬೆರ್ಚ [instrumental, sg, neut., kannada]; ಮನಂಬೆರ್ಚದೆ [nominative, sg, neut./fem., kannada]
+- **ಸಿಂಹ** ← ಸಿಂಹ [noun; vocative, sg, masc./neut./fem., kannada] (lexicon) · rules 123
+- **ಪೋತಕಮನೋವಲುಮಾಕೆಯ** ← ಪೋತಕಮನೋವಲುಮಾಕೆ [noun; genitive, sg, neut./fem., kannada] (inferred) · rules 53
+- **ದೋಹಳಂ** ← ದೋಹಳು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ದೋಹಳ [nominative, sg, masc./neut./fem., kannada]
+- **ಕರಂಪೆರ್ಚಿದುದಾ** ← ಕರ್ + ಅಂ + ಪೆರ್ಚು + ಇದು + ತ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಕರಂಪೆರ್ಚಿದುದ [vocative, sg, masc./neut./fem., kannada]
+- **ಗುಣಾರ್ಣವನ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವ [genitive, sg, masc./fem., kannada]
+- **ಮುಂದಣ** ← ಮುಂದು + ಅಣ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮುಂದಣ [vocative, sg, masc./neut./fem., kannada]
+- **ಬೀರಮನಂದೆ** ← ಬೀ + ರ + ಅಂ + ಅಂ + ದೆ [phrase/compound; saṃhitā split into 5] (inferred) · alt: ಬೀರಮನಂದೆ [nominative, sg, neut./fem., kannada]
+- **ತೋರ್ಪವೋಲ್** ← ತೋರ್ಪು + ಅದು + ಓಲ್ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತೋರ್ಪವೋಲ್ [nominative, sg, neut., kannada]
+- **ಬಳೆದ** ← ಬಳೆ [verb; past relative participle, to grow, increase; also a glass bangle] (lexicon) · rules 221
+- **ನಿತಂಬದೆ** ← ನಿ + ತ + ಪದೆ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿತಂಬ [instrumental, sg, neut., kannada]; ನಿತಂಬದೆ [nominative, sg, neut./fem., kannada]
+- **ಕಾಂಚೀಕಳಾಪಮಂ** ← ಕಾಂಚಿ + ಇದು + ಅಳೆ + ಆಗು + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 6] (lexicon) · alt: ಕಾಂಚೀಕಳಾಪಮು [accusative, sg, neut., kannada]; ಕಾಂಚೀಕಳಾಪ [accusative, sg, neut., kannada]
+- **ಕಟ್ಟಲಣಮೆ** ← ಕಟ್ಟು + ಅಲಣಮೆ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಕಟ್ಟಲಣಮೆ [nominative, sg, neut./fem., kannada]
+- **ನೆಱೆಯದಿದೆಂದಗ್ಗಳಿಸಿ** ← ನೆಱೆ + ಅದು + ಇದು + ಎಂದು + ಅಗಿ + ಗಳ + ಇಸು [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ನೆಱೆಯದಿದೆಂದಗ್ಗಳಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ಕುಳಿಕೆಗಳಿನೇಂ** ← ಕುಳಿಕೆಗಳಿನು [noun; vocative, sg, neut., -aṃ 'and' after -oḷ (122), kannada] (inferred) · rules 123, 52, 124 · alt: ಕುಳಿಕೆಗಳಿನೆ [vocative, sg, neut./fem., -aṃ 'and' after -oḷ (122), kannada]
+- **ಕಣ್ಗೊಳಿಸಿದುದೋ** ← ಕಣ್ಗೊಳ್ + ಇಸು + ಇದು + ಉದು [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಕಣ್ಗೊಳಿಸಿದುದು [nominative, sg, neut./masc., -ō doubt/admiration (56–57), kannada]; ಕಣ್ಗೊಳಿಸು [past, sg, neut., 3, -ō doubt/admiration (56–57)]
+- **ಸುಭಗೆಯಾದ** ← ಸುಭಗೆಯಾದ [noun; vocative, sg, masc./neut./fem., kannada] (inferred) · rules 123
+- **ಸುದತಿಯ** ← ಸುದತಿ [noun; genitive, sg, neut./fem./masc., kannada] (inferred) · rules 53
+- **ಗರ್ಭಂ** ← ಗರ್ಭು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗರ್ಭ [nominative, sg, masc./neut./fem., sanskrit]
+- **ತುಡುಗೆಗಳೊಳ್** ← ತುಡುಗೆ [noun; locative, pl, neut./fem., kannada] (lexicon) · rules 95
+- **ಸರಿಗೆಯುಮಂಕಡುವಿಣ್ಣಿತ್ತೆನಿಸಿ** ← ಸರಿ + ಗೆಯ್ + ಉಂ + ಅಂ + ಕಡು + ಉದು + ಇಣ್ಣಿತ್ತೆನಿಸಿ [phrase/compound; saṃhitā split into 7] (inferred) · alt: ಸರಿಗೆಯುಮಂಕಡುವಿಣ್ಣಿತ್ತೆನಿಸಿ [nominative, sg, neut./fem./masc., kannada]
+- **ನಡೆದುಮೋರಡಿಯನಣಂನಡೆಯಲುಮಾಱದೆ** ← ನಡೆದುಮೋರಡಿಯನಣಂನಡೆಯಲುಮಾಱ [noun; instrumental, sg, neut., kannada] (inferred) · rules 106 · alt: ನಡೆದುಮೋರಡಿಯನಣಂನಡೆಯಲುಮಾಱದೆ [nominative, sg, neut./fem., kannada]
+- **ಕೆಮ್ಮನೆಬಿಡದಾರಯ್ವನಿತುಮಾಗೆ** ← ಕೆ + ಮನೆ + ಬಿಡು + ಅದು + ಆರಯ್ + ಅನಿತು + ಉಂ + ಆಗು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಕೆಂಮನೆಬಿಡದಾರಯ್ವನಿತುಮಾಗೆ [nominative, sg, neut./fem., kannada]
+- **ಬಳೆದುದು** ← ಬಳೆ [verb; past, sg, neut., 3, to grow, increase; also a glass bangle] (lexicon) · rules 221, 217 · alt: ಬಳೆ [verbal noun -udu, to grow, increase; also a glass bangle]; ಬಳೆದುದು [nominative, sg, neut./masc., kannada]
+- **ಗರ್ಭಂ** ← ಗರ್ಭು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗರ್ಭ [nominative, sg, masc./neut./fem., sanskrit]
+- **ಭರತಕುಲ** ← ಭರತಕುಲ್ [noun; genitive, sg, neut., sanskrit] (inferred)
+- **ಗಗನ** ← ಗಗ [noun; genitive, sg, masc./fem., kannada] (inferred) · rules 105
+- **ದಿನಕರನರಾತಿಕುಳಕಮಳಹಿಮಕರಂ** ← ದಿನಕರನರಾತಿಕುಳಕಮಳಹಿಮಕರು [noun; accusative, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ದಿನಕರನರಾತಿಕುಳಕಮಳಹಿಮಕರ್ [accusative, sg, neut., kannada]; ದಿನಕರನರಾತಿಕುಳಕಮಳಹಿಮಕ [accusative, pl, masc., kannada]
+- **ಶಿಶು** ← ಶಿಶು [noun; nominative, sg, neut./masc., sanskrit] (inferred) · rules 105
+- **ತೇಜೋವಿರಚನೆಯುಂ** ← ತೇಜ + ಓವು + ಅಚನೆ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ತೇಜೋವಿರಚನೆಯು [nominative, sg, neut./masc., -uṃ 'and/also' (122), kannada]; ತೇಜೋವಿರಚನೆ [nominative, sg, neut./fem., -uṃ 'and/also' (122), kannada]
+- **ಕಾಂತಿಯುಮಾವರಿಸಿರೆ** ← ಕಾ + ತಿ + ಉಂ + ಆವು + ಅರೆ + ಇಸು + ಇರ್ [phrase/compound; saṃhitā split into 7] (lexicon) · alt: ಕಾಂತಿಯುಮಾವರಿಸಿರೆ [nominative, sg, neut./fem., kannada]
+- **ಗರ್ಭೋದಯಾದ್ರಿಯಿಂದುದಯಿಸಿದಂ** ← ಗರ್ಭೋದಯಾದ್ರಿಯಿಂದುದಯಿಸಿದು [noun; accusative, sg, neut., sanskrit] (inferred) · rules 52, 161 · alt: ಗರ್ಭೋದಯಾದ್ರಿಯಿಂದುದಯಿಸಿದ [nominative, sg, masc./neut./fem., sanskrit]; ಗರ್ಭೋದಯಾದ್ರಿಯಿಂದುದಯಿಸು [past, sg, masc./human, 3]
+- **ಉದಯಿಸುವುದುಮಮೃತಾಂಶುವಿನುದಯದೊಳಂಭೋಧಿ** ← ಉದಯಿಸುವುದುಮಮೃತಾಂಶುವಿನುದಯದೊಳಂಭೋಧಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ವೇಲೆ** ← ವೇಲೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಭೋರ್ಗರೆವವೊಲೊರ್ಮೊದಲೆಸೆದುವು** ← ಭೋರ್ + ಅರೆ + ಅದು + ಒಲ್ + ಒರ್ + ಮೊದಲ್ + ಎಸೆ + ಉದು [phrase/compound; saṃhitā split into 8] (lexicon) · alt: ಭೋರ್ಗರೆವವೊಲೊರ್ಮೊದಲೆಸೆದುವು [nominative, sg, neut./masc., kannada]; ಭೋರ್ಗರೆವವೊಲೊರ್ಮೊದಲೆಸೆ [past, pl, neut., 3]
+- **ಘನಪಥದೊಳ್ತ್ರಿದಶಕರಾಹತಿಯಿನೊಡನೆ** ← ಘನಪಥದೊಳ್ತ್ರಿದಶಕರಾಹತಿಯಿನೊಡನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಸುರದುಂದುಭಿಗಳ್** ← ಸುರಿ + ಅದು + ಉಂ + ದುಭಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸುರದುಂದುಭಿ [nominative, pl, neut./fem./masc., sanskrit]
+- **ದೇವರ** ← ದೇವರ್ [noun; genitive, sg, neut., kannada] (lexicon) · alt: ದೇವ [genitive, pl, masc., sanskrit]
+- **ಪಱೆಗಳ** ← ಪಱೆ [noun; genitive, pl, neut./fem., kannada] (inferred) · rules 95
+- **ರವದೊಳ್ದೇವರ** ← ರವಿ + ಅದು + ಒಳ್ + ತೇ + ಬರ್ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ರವದೊಳ್ದೇವರ್ [genitive, sg, neut., kannada]; ರವದೊಳ್ದೇವ [genitive, pl, masc., kannada]
+- **ಸುರಿವರಲ** ← ಸುರಿ + ಇದು + ಅರಲ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸುರಿವರಲ್ [genitive, sg, neut., kannada]
+- **ಸರಿಯ** ← ಸರಿ [verb; infinitive, to move away, flee; to be equal] (lexicon) · rules 235, 53 · alt: ಸರಿ [genitive, sg, neut./fem./masc., kannada]
+- **ಬೆಳ್ಸರಿಯೊಳ್** ← ಬೆಳು + ಸರಿ + ಒಳ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೆಳ್ಸರಿ [locative, sg, neut./fem./masc., kannada]
+- **ತದ್ದೇವ** ← ತ + ತೇ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ತದ್ದೇವ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿಮಾನಾವಳಿಯೊಳ್ತೀವಿದುದೊರ್ಮೊದಲೆ** ← ವಿಮಾನಾವಳಿಯೊಳ್ತೀವಿದುದೊರ್ಮೊದಲೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಗಗನದಿಂ** ← ಗಗನದು [noun; instrumental, sg, neut., kannada] (inferred) · rules 52, 161 · alt: ಗಗನ [instrumental, sg, neut., kannada]
+- **ಧರೆ** ← ಧರೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮಧ್ಯಂ** ← ಮಧು + ಅಂ [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಮಧ್ಯು [accusative, sg, neut., sanskrit]; ಮಧ್ಯ [nominative, sg, masc./neut./fem., sanskrit]
+- **ನೋಡುವನಾ** ← ನೋಡುವ [noun; genitive, sg, masc./fem., kannada] (lexicon) · rules 105, 117
+- **ಬ್ರಹ್ಮಂ** ← ಬ್ರಹ್ಮ [noun; nominative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 105, 161 · alt: ಬ್ರಹ್ಮು [accusative, sg, neut., sanskrit]
+- **ಮುಂಡಾಡುವನಮರೇಂದ್ರನಿಂದ್ರನಚ್ಚರಸೆಯರೆೞ್ದಾಡುವರೆಂದೊಡೆ** ← ಮುಂಡಾಡುವನಮರೇಂದ್ರನಿಂದ್ರನಚ್ಚರಸೆಯರೆೞ್ದಾಡುವರೆಂದೊಡೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಪೊಗೞಲ್ವೇಡ** ← ಪೊಗೞ್ + ಬೇಡು [phrase/compound; saṃhitā split into 2] (lexicon) · alt: ಪೊಗೞಲ್ವೇಡ [vocative, sg, masc./neut./fem., kannada]
+- **ಗುಣಾರ್ಣವನ** ← ಗುಣ + ಆವುದು + ಣವ [phrase/compound; saṃhitā split into 3] (inferred) · alt: ಗುಣಾರ್ಣವ [genitive, sg, masc./fem., kannada]
+- **ಜನ್ಮದಿನದ** ← ಜನ್ಮದಿನ [noun; genitive, sg, neut., kannada] (inferred) · rules 106
+- **ಬೆಡಂಗಂ** ← ಬೆ + ಡಂಗೆ + ಅಂ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೆಡಂಗು [accusative, sg, neut., kannada]; ಬೆಡಂಗ [nominative, sg, masc./neut./fem., kannada]
+- **ಸಪ್ತ** ← ಸಪ್ತ [noun; vocative, sg, masc./neut./fem., sanskrit] (lexicon) · rules 123
+- **ಸಮುದ್ರ** ← ಸಮೆ + ಉದು + ರ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಸಮುದ್ರ್ [genitive, sg, neut., sanskrit]
+- **ಮುದ್ರಿತ** ← ಮುದು + ರಿತ [phrase/compound; saṃhitā split into 2] (inferred) · alt: ಮುದ್ರಿತ [vocative, sg, masc./neut./fem., sanskrit]
+- **ಧರಾತಳಮಂ** ← ಧರ + ತಳಿ + ಅಂ + ಅಂ [phrase/compound; saṃhitā split into 4] (lexicon) · alt: ಧರಾತಳಮು [accusative, sg, neut., sanskrit]; ಧರಾತಳ [accusative, sg, neut., sanskrit]
+- **ಬೆಸಕೆಯ್ಸು** ← ಬೆಸ + ಕೆಯ್ + ಸು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ಬೆಸಕೆಯ್ಸು [nominative, sg, neut./masc., kannada]
+- **ಮೀಱಿದುದ್ವೃಪ್ತ** ← ಮೀಱು + ಇದು + ಉದು + ವೃಪ್ತ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಮೀಱಿದುದ್ವೃಪ್ತ [vocative, sg, masc./neut./fem., kannada]
+- **ವಿರೋಧಿ** ← ವಿರೋಧಿ [noun; nominative, sg, neut./fem./masc., sanskrit] (inferred) · rules 105
+- **ಸಾಧನಮನಾಹವದೊಳ್** ← ಸಾಧನ + ಅಂ + ಅಂ + ಆಹವ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸಾಧನಮನಾಹವ [locative, sg, neut., sanskrit]
+- **ತಱಿದೊಟ್ಟು** ← ತಱಿ + ಇದು + ಒಟ್ಟು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ತಱಿದೊಟ್ಟು [nominative, sg, neut./masc., kannada]
+- **ವಿಶ್ವದಿಗ್ವ್ಯಾಪ್ತ** ← ವಿಶ್ವದಿಗ್ವ್ಯಾಪ್ತ [noun; vocative, sg, masc./neut./fem., sanskrit] (inferred) · rules 123
+- **ಯಶೋವಿಳಾಸಿನಿಗೆ** ← ಯಶೋವಿಳಾಸಿನಿ [noun; dative, sg, neut./fem./masc., sanskrit] (inferred) · rules 113 · alt: ಯಶೋವಿಳಾಸಿನಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ವಲ್ಲಭನಾಗು** ← ವಲ್ಲಭ + ಅಂ + ಆಗು [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ವಲ್ಲಭನಾಗು [nominative, sg, neut./masc., sanskrit]
+- **ನಿರಂತರ** ← ನಿ + ರ + ತರ್ [phrase/compound; saṃhitā split into 3] (lexicon) · alt: ನಿರಂತರ್ [genitive, sg, neut., kannada]; ನಿರಂತ [genitive, pl, masc., kannada]
+- **ಸುಖವ್ಯಾಪ್ತಿಗೆ** ← ಸುಖ + ಅದು + ಆ + ಪ್ತಿ [phrase/compound; saṃhitā split into 4] (inferred) · alt: ಸುಖವ್ಯಾಪ್ತಿ [dative, sg, neut./fem./masc., sanskrit]; ಸುಖವ್ಯಾಪ್ತಿಗೆ [nominative, sg, neut./fem., kannada]
+- **ನೀನೆ** ← ನೀನೆ [noun; nominative, sg, neut./fem., kannada] (inferred) · rules 105
+- **ಮೊತ್ತಮೊದಲಾಗರಿಕೇಸರಿ** ← ಮೊತ್ತಮೊದಲಾಗರಿಕೇಸರಿ [noun; nominative, sg, neut./fem./masc., kannada] (inferred) · rules 105
+- **ಲೋಕಮುಳ್ಳಿನಂ** ← ಲೋಕ + ಅಂ + ಉಳ್ + ಇಂ + ಅಂ [phrase/compound; saṃhitā split into 5] (lexicon) · alt: ಲೋಕಮುಳ್ಳಿನು [accusative, sg, neut., kannada]; ಲೋಕಮುಳ್ಳಿನ [nominative, sg, masc./neut./fem., kannada]
