@@ -183,3 +183,48 @@ def canonical(text: str) -> str:
             w = w[:-2] + ANUSVARA
         words.append(w)
     return " ".join(words)
+
+
+_FROM_ISO = sorted(
+    [(s, ("V", k)) for k, s in _ISO_VOWELS.items()] + [(s, ("C", k)) for k, s in _ISO_CONS.items()]
+    + [(s, ("O", k)) for k, s in _ISO_OTHER.items()] + [("ṃ", ("O", ANUSVARA))],
+    key=lambda t: -len(t[0]))
+
+
+def from_iso(text: str) -> str:
+    """ISO 15919 → Kannada script (inverse of `iso_text`); other characters pass through.
+    A vowel after a consonant becomes its sign; ':' separates letters that would otherwise
+    merge (a:i)."""
+    import unicodedata
+    t = unicodedata.normalize("NFC", text.lower())
+    out, prev_c, i = [], False, 0
+    while i < len(t):
+        if t[i] == ":":
+            i += 1
+            continue
+        for s, (kind, k) in _FROM_ISO:
+            if t.startswith(unicodedata.normalize("NFC", s), i):
+                i += len(unicodedata.normalize("NFC", s))
+                if kind == "V":
+                    out.append(VOWEL_SIGNS[k] if prev_c else k)
+                    prev_c = False
+                elif kind == "C":
+                    if prev_c:
+                        out.append(VIRAMA)
+                    out.append(k)
+                    prev_c = True
+                else:
+                    if prev_c:
+                        out.append(VIRAMA)
+                    out.append(k)
+                    prev_c = False
+                break
+        else:
+            if prev_c:
+                out.append(VIRAMA)
+            out.append(t[i])
+            prev_c = False
+            i += 1
+    if prev_c:
+        out.append(VIRAMA)
+    return "".join(out)

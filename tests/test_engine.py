@@ -26,3 +26,27 @@ def test_analyzer():
     a = analyze("ಅರಸಂಗೆ")[0]
     assert a.lemma == "ಅರಸ" and a.features["case"] == "dative"
     assert any(x.lemma == "ಬರ್" and x.pos == "verb" for x in analyze("ಬಂದಂ"))
+
+
+# ---------------------------------------------------------------- sūtra 5: prāsa, la vs ḷa
+def test_prasa_sutra5():
+    from shabdamani.prasa import check_prasa, prasa_letter
+    from shabdamani.varna import from_iso
+    assert prasa_letter("ಕಿಳಿಱೆ ಹಯಂಗಳ್") == "ಳ್"
+    assert prasa_letter(from_iso("caṇḍavirōdhi")) == prasa_letter(from_iso("ṣaṁḍamaraldu"))
+    kula = "ಕಿಳಿಱೆ ಹಯಂಗಳ್ ಗರ್ಜಿಸೆ"
+    assert check_prasa([kula, "ಜಳದನಿಭಂಗಳ್ ಗಜಂಗಳ್"]) == ("ಳ್", [])          # Darpaṇavivaraṇe p. 190
+    _, f = check_prasa([kula, "ಜಲದನಿಭಂಗಳ್ ಗಜಂಗಳ್"])
+    assert [x.kind for x in f] == ["sutra5"]
+    la = "ಓಲಗದೊಳೊರ್ಮೆ ನತನರ"
+    assert check_prasa([la, "ಪಾಲಕಚೂಡಾಮಣಿ"]) == ("ಲ್", [])
+    _, f = check_prasa([la, "ಪಾಳಕಚೂಡಾಮಣಿ", "ಮಾಲೆ"])
+    assert [x.kind for x in f] == ["sutra5"] and f[0].pada == 1
+    _, f = check_prasa([la, "ಪಾಲಕ", "ಮಾರಿ"])                          # not an l/ḷ swap
+    assert [x.kind for x in f] == ["other"]
+
+
+def test_from_iso_roundtrip():
+    from shabdamani.varna import from_iso, iso_text
+    for w in ["ಶ್ರೀಯನರಾತಿಸಾಧನ", "ನೆಗೞ್ತೆಯಂ", "ಕಿಳಿಱ್", "ಹೃದಯಾಂಬುಜಮಂ", "ಪಯೋನಿಧಿಯೊಳ್"]:
+        assert from_iso(iso_text(w)) == w

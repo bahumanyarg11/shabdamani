@@ -428,7 +428,7 @@
   "mula": "ಕುಳದ ನಿಯಾಮದೊಳೆಂದುಂ\nಕ್ಷಳಕ್ಕೆ ಲಾಕ್ಷರವಿಕಲ್ಪಮಿಲ್ಲ ವಿಕಲ್ಪಂ\nಕ್ಷಳನಿಲ್ಲದಿಲ್ಲ ಸಂಸ್ಕೃತ-\nದೊಳಾ ಲಕಾರಕ್ಕೆ ಪೇೞ್ದೆನದಱಿಂ ಕ್ಷಳನಂ",
   "vrtti": "ಕುಳಪ್ರಾಸಮಾಗೆ ಪೇೞ್ದ ಕಬ್ಬಂ [ಕ್ಷಳನಂ] ಸೇರಿಗೆಯ್ವುದಾಗಿ, ಲಕಾರಮಂ ವಿಕಲ್ಪಮಂ ಮಾಡಬಾರದು; ಲಕಾರಪ್ರಾಸಮಾಗೆ ಪೇೞ್ದ ಕನ್ನಡದ ಕಬ್ಬದೊಳ್ ಕ್ಷಳನಂ ವಿಕಲ್ಪದಿನಿರಿಸಬಾರದು, ಇದುವುಮಾಗದು; ಕ್ಷಳನೆಂಬುದಿಲ್ಲದೆ ಸಂಸ್ಕೃತ ಪದದ ಲಕಾರಕ್ಕೆ ವಿಕಲ್ಪಮಂ ಪೇೞಲ್ಬಾರದಾಗಿ, ಕ್ಷಳನನಿದಱೊಳೆ ಬೆರಸಿ ಪೇೞ್ದೆಂ.",
   "english": "In a prāsa (alliteration) on kuḷa (Kannada ḷ), kṣaḷa never has the option of the letter la; without kṣaḷa there would be no option at all; therefore I have stated kṣaḷa for that la of Sanskrit.",
-  "explanation_en": "Kēśirāja distinguishes three l-sounds: la (ಲ), kuḷa (native Kannada ಳ, e.g. in ಕಿಳಿಱ್) and kṣaḷa (the ಳ that may optionally replace ಲ in Sanskrit words, by the maxim 'laḻayōr abhēdaḥ', e.g. ಜಲ/ಜಳ, ಕಮಲ/ಕಮಳ). Prosodic consequence: (1) in a verse whose prāsa letter is kuḷa, a Sanskrit word must appear in its ḷa (kṣaḷa) form — the la alternant is not allowed; (2) in a verse whose prāsa letter is la, a Sanskrit word may not be given its kṣaḷa form. kṣaḷa is introduced into the grammar precisely to license the la/ḷa option in Sanskrit words.",
+  "explanation_en": "Kēśirāja distinguishes three l-sounds: la (ಲ), kuḷa (native Kannada ಳ, e.g. in ಕಿಳಿಱ್) and kṣaḷa (the ಳ that may optionally replace ಲ in Sanskrit words, sūtra 16, e.g. ಜಲ/ಜಳ, ಕಮಲ/ಕಮಳ). In prāsa ಲ and ಳ are not equivalent: (1) in a verse whose prāsa letter is ಳ, a Sanskrit word in the prāsa position must take its ḷa (kṣaḷa) form, and the la alternant is not allowed; (2) in a verse whose prāsa letter is ಲ, a Sanskrit word keeps ಲ and kuḷa is avoided. kuḷa and kṣaḷa are the same letter and rhyme together. kṣaḷa is introduced into the grammar precisely to license the la/ḷa option in Sanskrit words outside this restriction. Reading follows T. V. Veṅkaṭācalaśāstrī, Darpaṇavivaraṇe pp. 189–190 (ಕಿಳಿಱ್–ಜಳದ is a correct prāsa, ಕಿಳಿಱ್–ಜಲದ is not), as pointed out by Andrew Ollett.",
   "heading_en": "kṣaḷa vs. la in prāsa",
   "type": "niyama",
   "optionality": "obligatory",
@@ -442,7 +442,8 @@
    "operation": "if prāsa consonant = kuḷa ಳ → the Sanskrit word must use ಳ (kṣaḷa) in the prāsa position; if prāsa consonant = ಲ → the Sanskrit word must use ಲ (kṣaḷa variant forbidden)",
    "also": [
     "labels: kuḷa = native Kannada ಳ; kṣaḷa = ಳ standing for Sanskrit ಲ; la = ಲ",
-    "kṣaḷa ≈ kuḷa for prāsa purposes; la ≠ kuḷa"
+    "ಲ and ಳ never rhyme; kuḷa and kṣaḷa rhyme with each other (same letter)",
+    "executable check: shabdamani.prasa.check_prasa (letters only; cannot tell kuḷa from kṣaḷa without a lexicon)"
    ]
   },
   "examples": [
@@ -493,6 +494,13 @@
   "source_lines": [
    2309,
    2347
+  ],
+  "commentary_refs": [
+   {
+    "source": "T. V. Veṅkaṭācalaśāstrī, Darpaṇavivaraṇe",
+    "pages": "189–190",
+    "point": "in prāsa, kuḷa rhymes with kṣaḷa; kṣaḷa may not optionally become la there (ಕಿಳಿಱ್–ಜಳದ correct, ಕಿಳಿಱ್–ಜಲದ wrong)"
+   }
   ]
  },
  {
